@@ -26,9 +26,9 @@ type = "post"
 
 - Table of Content (ToC)
 - [MathJax (New)](https://gohugo.io/tutorials/mathjax/)
-<div>$$\frac{h_\theta}{x^2}$$</div>
-
-- Image and other resource link and management
+- Image and other static resource link and management
+- 留言 Disqus
+- 搜尋
 
 # 參考Tutorial
 - [Making a Website Using Blogdown, Hugo, and GitHub pages. AMBER THOMAS](https://proquestionasker.github.io/blog/Making_Site/)
