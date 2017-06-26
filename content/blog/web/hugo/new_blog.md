@@ -15,9 +15,9 @@ type = "post"
 
 +++
 
-# Opening
+<!--# Opening
 ![](https://i1.wp.com/wp.laravel-news.com/wp-content/uploads/2015/09/multilingual-eloquent.jpg?resize=2200%2C1125)
-[source](https://i1.wp.com/wp.laravel-news.com/wp-content/uploads/2015/09/multilingual-eloquent.jpg?resize=2200%2C1125)
+[source](https://i1.wp.com/wp.laravel-news.com/wp-content/uploads/2015/09/multilingual-eloquent.jpg?resize=2200%2C1125)-->
 
 # Motivation
 
@@ -27,21 +27,21 @@ Originally, I have two blog on seperating github page for implementing multiling
 As the size grow up, it is messy and hard to manage. Then, I decide to find alternative solution for my blog.
 
 
-# Frequent Use Features 
+# Frequent Use Features Outline
 
 The following part is frequent useful feature for management blog website. I roughly classify into different catogeries.
 I hope these could be helpful for beginner.
 
-- Table of Content (ToC) (__Done__)
-- [MathJax (New)](https://gohugo.io/tutorials/mathjax/) (__Done__)
+- Table of Content (ToC) 
+- [MathJax (New)](https://gohugo.io/tutorials/mathjax/) 
 - Discuusion Disqus (__Done__)
-- Template
 - Image and other static resource link and management
 - Multi-level menu or categories (hierarchy menu)
 - Search blog content
 - Multilingual
+- Template
 
-Beautify Appearance 
+## Beautify Appearance 
 
 - Convert hexo front matter to hugo front matter
 - Change font family and size with css
@@ -49,6 +49,7 @@ Beautify Appearance
 ## Section Page Template
 [Section Page Templates](https://hugodocs.info/templates/section-templates/)
 ## Single Page Template
+
 ## Table of Content (ToC)
 
 ## Multi-level menu or categories (hierarchy menu)

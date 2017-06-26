@@ -37,3 +37,9 @@
 
 [widgets.tags]
     title = "Tags"
+
+[widgets.profile]
+    # title = "Author"
+
+[widgets.translation]
+    title = "translation"

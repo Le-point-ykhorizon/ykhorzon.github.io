@@ -1,10 +1,10 @@
 baseurl = "https://ykhorzon.github.io/"
-languageCode = "en-us"
-title = "ykhorizon"
+
+
 # Enable comments by entering your Disqus shortname
 disqusShortname = "ykhorzon-github-io"
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = ""
+googleAnalytics = "UA-97451129-2"
 # Define the number of posts per page
 paginate = 10
 footnotereturnlinkcontents = "↩"
@@ -12,6 +12,24 @@ theme = "hugo-icarus-theme"
 # Comment the themesDir option if you use this theme in production
 # themesDir = "../.."
 
+languageCode = "en-us"
+DefaultContentLanguage = "en"
+[Languages]
+  [Languages.en]
+  title = "Momentum of Ykhorizon"
+#   title = "Progressive Momentum, Balacne and Flow"
+  [Languages.en.params]
+  linkedin = "englih-link"
+
+  [Languages.tw]
+  title = "Momentum of Ykhorizon"
+#   title = "Progressive Momentum, Balacne and Flow"
+  weight = 2
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  series = "series"
 
 [permalinks]
     post = "/:year/:month/:day/:slug"
@@ -38,7 +56,7 @@ theme = "hugo-icarus-theme"
     date_format = "2006-01-02"
 
     # Add custom assets with their paths relative to the static folder
-	custom_css = []
+	custom_css = ["css/custom_css.js"]
 	custom_js  = []
 
 # Create custom menu entries by defining a label and a link for
@@ -112,6 +130,7 @@ theme = "hugo-icarus-theme"
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
+    profile = true
     recent_articles = true
     categories = true
     tags = true
