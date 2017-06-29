@@ -14,7 +14,7 @@ layout = "about"
 
 
 
-<img src="/about/me.jpg" style="width: 480px;" >
+<img src="/about/me2.jpg" style="width:45%" >
 
 Hi, My name is ykhorizon (a.k.a. ykhu in community)
 

@@ -32,6 +32,7 @@ As the size grow up, it is messy and hard to manage. Then, I decide to find alte
 The following part is frequent useful feature for management blog website. I roughly classify into different catogeries.
 I hope these could be helpful for beginner.
 
+
 - Table of Content (ToC) 
 - [MathJax (New)](https://gohugo.io/tutorials/mathjax/) 
 - Discuusion Disqus (__Done__)
@@ -40,7 +41,8 @@ I hope these could be helpful for beginner.
 - Search blog content
 - Multilingual
 - Template
-
+- SEO
+    - http://brendan-quinn.xyz/post/working-with-hugos-internal-partial-templates-facebook-and-open-graph/
 ## Beautify Appearance 
 
 - Convert hexo front matter to hugo front matter

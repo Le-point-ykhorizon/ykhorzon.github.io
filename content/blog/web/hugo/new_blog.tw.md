@@ -1,6 +1,7 @@
 +++
 author = ""
-categories = []
+tags = [ "Development", "Go", "Fast", "Blogging" ]
+categories = [ "Development", "Test" ]
 date = "2017-06-07T01:23:59+08:00"
 description = ""
 featured = ""
@@ -12,12 +13,14 @@ type = "post"
 
 +++
 
-
+# Outline
 
 
 # 動機
 我的github page blog又重新開張，但這次改用了 hugo 作為 static page generator。
 轉換的原因主要是想要支援多重語言，解決原本分成2個獨立不同的blog，造成維護困難的問題。
+
+<!--more-->
 
 - Multilingual
 

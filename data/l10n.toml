@@ -41,5 +41,6 @@
 [widgets.profile]
     # title = "Author"
 
-[widgets.translation]
-    title = "translation"
+[widgets.language]
+    title = "Language"
+

@@ -8,7 +8,7 @@ featured = ""
 featuredalt = ""
 featuredpath = ""
 linktitle = ""
-title = "talk_to_the_previous_generation"
+title = "Discuss mayor of Taipei Ko Wen-je with elder generation"
 type = "post"
 
 +++
