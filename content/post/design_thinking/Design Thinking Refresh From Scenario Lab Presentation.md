@@ -13,7 +13,7 @@ title = "Design Thinking Refresh From Scenario Lab (Taiwan) "
 <!--more-->
 
 # Design Thinking in Whole Picture
-<img src="/blog/design_thinking/0.jpg" width="80%">
+<img src="/content_img/blog/design_thinking/0.jpg" width="80%">
 
 Design thinking is mindset of user-centric product discovery and prototyping process.
 
@@ -22,15 +22,15 @@ Design thinking is mindset of user-centric product discovery and prototyping pro
 - Fast prototype + Incremental Improvement and learning from feedback
 
 # Important Ideas in Design Thinking
-<img src="/blog/design_thinking/2.jpg" width="80%">
+<img src="/content_img/blog/design_thinking/2.jpg" width="80%">
 
 # Ideas Detail
-<img src="/blog/design_thinking/3.jpg" width="80%">
-<img src="/blog/design_thinking/4.jpg" width="80%">
-<img src="/blog/design_thinking/5.jpg" width="80%">
-<img src="/blog/design_thinking/6.jpg" width="80%">
-<img src="/blog/design_thinking/7.jpg" width="80%">
-<img src="/blog/design_thinking/8.jpg" width="80%">
+<img src="/content_img/blog/design_thinking/3.jpg" width="80%">
+<img src="/content_img/blog/design_thinking/4.jpg" width="80%">
+<img src="/content_img/blog/design_thinking/5.jpg" width="80%">
+<img src="/content_img/blog/design_thinking/6.jpg" width="80%">
+<img src="/content_img/blog/design_thinking/7.jpg" width="80%">
+<img src="/content_img/blog/design_thinking/8.jpg" width="80%">
 
 # Process
 
@@ -41,7 +41,7 @@ Design thinking is mindset of user-centric product discovery and prototyping pro
 - Test
 
 ## Concept
-<img src="/blog/design_thinking/9.jpg" width="80%">
+<img src="/content_img/blog/design_thinking/9.jpg" width="80%">
 
 More the section text is from [Design Thinking, traditional chinese wiki](https://zh.wikipedia.org/wiki/%E8%A8%AD%E8%A8%88%E6%80%9D%E8%80%83)
 # Speaker Info.

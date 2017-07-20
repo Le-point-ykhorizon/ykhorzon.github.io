@@ -1,20 +1,15 @@
 +++
-author = ""
-categories = []
-date = "2017-06-15T15:29:47+08:00"
-description = ""
-featured = ""
-featuredalt = ""
-featuredpath = ""
-linktitle = ""
+author = "author"
+date = "2017-07-15T16:19:13+08:00"
+description = "description"
+keywords = ["key","words"]
+tags = ["one"]
 title = "About Me"
+topics = ["topic 1"]
 type = "about"
-layout = "about"
 +++
 
-
-
-<img src="/about/me2.jpg" style="width:45%" >
+ <img src="/content_img/about/me2.jpg" style="width:45%" > 
 
 Hi, My name is ykhorizon (a.k.a. ykhu in community)
 

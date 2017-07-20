@@ -33,7 +33,11 @@ disqusShortname = "ykhorizon"
 
 [permalinks]
 post = "/:year/:month/:day/:slug/"
+code = "/:slug/"
 
+[taxonomies]
+tag = "tags"
+topic = "topics"
 
 [author]
 name = "ykhorizon"
@@ -53,7 +57,7 @@ posturl = "https://zapier.com/hooks/catch/1227563/" # Your zapier post hook.
 headerimage = "//placehold.it/1000x600"
 expirecookie = 5 #show it again after number of days to visitors that has not subscribed.
 cookiename = "mycookie1" #give the cookie a unique name variable (avoid spaces and strange characters).
-signupheader = "suscribe my content"
+signupheader = "Join Our Newsletter"
 showmodaltimeout = 10000 #show popover modal after time interval in milliseconds.
 mouseleave = true #show popover when mouse leaves window: true/false.
 modalsize = "" #lg or sm. Empty is md. If phone is detected lg is used.
@@ -70,7 +74,6 @@ DefaultContentLanguage = "en"
 # menu for changing language. This changes languages with js and stores the choice with the help of JavaScript in a Cookie. Then the path is rewritten with pathnamereplace.js. The name of the md files needs to have the same name for each language abbreviation to work correctly. Example: showcase.en.md and showcase.sv.md. It only works if DefaultContentLanguageInSubdir = true
 switchlang = true
 # You can use markdown here.
-# BrandImage = "/index/logo.png" #top header brand image.
 BrandImage = "" #top header brand image.
 brand = "My awesome blog" # brand image alt text.
 topline = "an adventurer explore in agriculture, computer and music"
@@ -89,7 +92,6 @@ mathjax = "2.7.1" # cdnjs hosted version; empty string to disable mathjax
 
 # Show a sidebar menu
 showRightSidebar = true
-toc = true
 # Select a syntax highlight.
 # Check the static/css/highlight directory for options.
 highlight = "default"
@@ -130,9 +132,7 @@ extensionmask = []
 #  identifier = ""
 #  weight = 4
 #  url = "en"
-[taxonomies]
-tags = "tags"
-categories = "categories"
+
 
 [Languages]
 [Languages.en]
@@ -148,43 +148,23 @@ title = "Momentum of Ykhorizon" # Site title
 name = "About"
 weight = 1
 identifier = ""
-url = "/about/me"
+url = "/about/"
 pre = "<i class='fa fa-road'></i>"
 
 [[Languages.en.menu.main]]
-name = "Story"
+name = "Blog"
 pre = ""
 weight = 2
 identifier = "post"
 url = "/post/"
 
-[[Languages.en.menu.main]]
-name = "Computer"
-pre = ""
-weight = 3
-url = "/computer/"
-
-
-[[Languages.en.menu.main]]
-name = "Agriculture"
-pre = ""
-weight = 4
-url = "/tw/agriculture/"
-
-[[Languages.en.menu.main]]
-name = "Music"
-pre = ""
-weight = 5
-url = "/tw/music/"
-
 # Language switch menu setting
 [[Languages.en.menu.switchlang]]
 name = "繁體中文"
 identifier = ""
-weight = 6
+weight = 4
 url = "tw"
 pre = ""
-
 # 
 # Footer Settings for English
 # 
@@ -201,9 +181,9 @@ identifier = "terms"
 weight = 2
 url = "/terms/"
 
-# 
-# Menu settings for Traditional Chinese
-# 
+
+
+
 
 [Languages.tw]
 languageCode = "tw"
@@ -212,46 +192,18 @@ title = "持續改進 for Ykhorizon" # Site title
 copyright = "(c) 2017 ykhorizon"
 
 [[Languages.tw.menu.main]]
-name = "關於我"
-pre = ""
-weight = 1
-url = "/tw/about/me"
-
-[[Languages.tw.menu.main]]
-name = "故事"
+name = "文章"
 pre = ""
 weight = 2
 identifier = "post"
 url = "/tw/post/"
 
-[[Languages.tw.menu.main]]
-name = "電腦科學"
-pre = ""
-weight = 3
-url = "/tw/computer/"
-
-[[Languages.tw.menu.main]]
-name = "農業"
-pre = ""
-weight = 4
-url = "/tw/agriculture/"
-
-[[Languages.tw.menu.main]]
-name = "音樂"
-pre = ""
-weight = 5
-url = "/tw/music/"
-
-# Language switch menu setting
 [[Languages.tw.menu.switchlang]]
 name = "English"
 identifier = ""
-weight = 7
+weight = 3
 url = "en"
 
-# 
-# Footer Settings for Traditional Chinese
-# 
 [[Languages.tw.menu.footer]] # add  links to the bottom right corner.
 name = "聲明"
 pre = "<i>&middot;</i>"
@@ -264,3 +216,8 @@ name = "使用規範"
 identifier = "vilkor"
 weight = 2
 url = "/tw"
+
+
+[Languages.tw.taxonomies]
+tag = "標籤"
+topic = "議題"

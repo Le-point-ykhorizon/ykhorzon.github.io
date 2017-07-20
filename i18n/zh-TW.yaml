@@ -1,0 +1,20 @@
+- id: next
+  translation: "下一篇"
+- id: previous
+  translation: "上一篇"
+- id: backtotop
+  translation: "回到最上部"
+- id: readmore
+  translation: "讀我"
+- id: byauthor
+  translation: "由"
+- id: readinabout
+  translation: "詳細"
+- id: words
+  translation: "{{ .WordCount }} 字"
+- id: latestposts
+  translation: "最新發表"
+- id: wordCount
+  translation: "字數"
+- id: translations
+  translation: "翻譯"
