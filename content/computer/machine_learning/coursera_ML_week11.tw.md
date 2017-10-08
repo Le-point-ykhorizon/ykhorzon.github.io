@@ -1,13 +1,13 @@
 +++
 author = "ykhorizon"
+categories = ["machine-learning"]
 date = "2017-07-15T16:19:13+08:00"
-description = "description"
+
 draft = true
-keywords = ["key","words"]
+keywords = ["key", "words"]
 tags = ["machine-learning", "coursera-note"]
 title = "機器學習 Photo OCR 範例"
 topics = ["topic 1"]
-categories = ["machine-learning"]
 type = "post"
 
 +++

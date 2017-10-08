@@ -48,12 +48,12 @@ name = "paper"
 
 [params.popover]
 # This is a highly configurable popover form.
-enablepopover = true #enable or disable popover: true/false.
-posturl = "https://zapier.com/hooks/catch/1227563/" # Your zapier post hook.
+enablepopover = false #enable or disable popover: true/false.
+posturl = "https://twitter.com/ykhorizon" # Your zapier post hook.
 headerimage = "//placehold.it/1000x600"
 expirecookie = 5 #show it again after number of days to visitors that has not subscribed.
 cookiename = "mycookie1" #give the cookie a unique name variable (avoid spaces and strange characters).
-signupheader = "suscribe my content"
+signupheader = "Suscribe me on twitter @ykhorizon "
 showmodaltimeout = 10000 #show popover modal after time interval in milliseconds.
 mouseleave = true #show popover when mouse leaves window: true/false.
 modalsize = "" #lg or sm. Empty is md. If phone is detected lg is used.
@@ -66,11 +66,16 @@ errormessage = "Submitting form failed!"
 optin = true #opt-in: true/false
 
 [params]
+
 DefaultContentLanguage = "en"
 # menu for changing language. This changes languages with js and stores the choice with the help of JavaScript in a Cookie. Then the path is rewritten with pathnamereplace.js. The name of the md files needs to have the same name for each language abbreviation to work correctly. Example: showcase.en.md and showcase.sv.md. It only works if DefaultContentLanguageInSubdir = true
 switchlang = true
+
+# Google Analytics.
+googleAnalytics = "UA-97451129-2"
+
 # You can use markdown here.
-# BrandImage = "/index/logo.png" #top header brand image.
+# BrandImage = "/index/fire.png" #top header brand image.
 BrandImage = "" #top header brand image.
 brand = "My awesome blog" # brand image alt text.
 topline = "an adventurer explore in agriculture, computer and music"
@@ -94,13 +99,12 @@ toc = true
 # Check the static/css/highlight directory for options.
 highlight = "default"
 
-# Google Analytics.
-googleAnalytics = "UA-97451129-2"
+
 
 # Sidebar social links.
 github = "ykhorzon" # Your Github profile ID
 bitbucket = "" # Your Bitbucket profile ID
-linkedin = "" # Your LinkedIn profile ID (from public URL)
+linkedin = "yu-kang-hu-78b95494" # Your LinkedIn profile ID (from public URL)
 googleplus = "Myprofile" # Your Google+ profile ID
 facebook = "Myprofile" # Your Facebook profile ID
 twitter = "Myprofile" # Your Twitter profile ID
@@ -139,7 +143,7 @@ categories = "categories"
 languageCode = "en"
 weight = 1
 copyright = "(c) 20167 Copyright all reserved to ykhorizon"
-title = "Momentum of Ykhorizon" # Site title
+title = "" # Site title
 
 # 
 # Menu settings for English
@@ -164,18 +168,19 @@ pre = ""
 weight = 3
 url = "/computer/"
 
+[[Languages.en.menu.main]]
+name = "Agile"
+pre = ""
+weight = 4
+url = "/agile/"
 
 [[Languages.en.menu.main]]
 name = "Agriculture"
 pre = ""
-weight = 4
-url = "/tw/agriculture/"
-
-[[Languages.en.menu.main]]
-name = "Music"
-pre = ""
 weight = 5
-url = "/tw/music/"
+url = "/agriculture/"
+
+
 
 # Language switch menu setting
 [[Languages.en.menu.switchlang]]
@@ -208,7 +213,7 @@ url = "/terms/"
 [Languages.tw]
 languageCode = "tw"
 weight = 2
-title = "持續改進 for Ykhorizon" # Site title
+title = "" # Site title
 copyright = "(c) 2017 ykhorizon"
 
 [[Languages.tw.menu.main]]
@@ -231,16 +236,18 @@ weight = 3
 url = "/tw/computer/"
 
 [[Languages.tw.menu.main]]
-name = "農業"
+name = "敏捷"
 pre = ""
 weight = 4
-url = "/tw/agriculture/"
+url = "/tw/agile/"
 
 [[Languages.tw.menu.main]]
-name = "音樂"
+name = "農業"
 pre = ""
 weight = 5
-url = "/tw/music/"
+url = "/tw/agriculture/"
+
+
 
 # Language switch menu setting
 [[Languages.tw.menu.switchlang]]

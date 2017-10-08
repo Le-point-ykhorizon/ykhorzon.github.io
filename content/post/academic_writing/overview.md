@@ -2,10 +2,10 @@
 banner = ""
 categories = ["academic writing"]
 date = "2017-06-30T19:38:15+08:00"
-description = ""
+
 images = []
-menu = ""
-tags = ["writing","academic"]
+
+tags = ["writing", "academic"]
 title = "A Overview Glance of Academic Writing"
 
 +++

@@ -1,15 +1,16 @@
 +++
 author = "author"
 date = "2017-07-15T16:19:13+08:00"
-description = "description"
-keywords = ["key","words"]
-tags = ["one"]
+
+keywords = ["key", "words"]
+tags = []
 title = "About Me"
 topics = ["topic 1"]
 type = "about"
+
 +++
 
- <img src="/content_img/about/me2.jpg" style="width:45%" > 
+<img src="/content_img/about/me2.jpg" style="width:45%" > 
 
 Hi, My name is ykhorizon (a.k.a. ykhu in community)
 

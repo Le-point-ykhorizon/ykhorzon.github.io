@@ -2,10 +2,10 @@
 banner = ""
 categories = ["design thinking"]
 date = "2017-06-29T13:11:58+08:00"
-description = ""
+
 images = []
-menu = ""
-tags = ["design thinking","leading","communication"]
+
+tags = ["design thinking", "leading", "communication"]
 title = "類似Design Thinking的討論實戰檢討"
 
 +++

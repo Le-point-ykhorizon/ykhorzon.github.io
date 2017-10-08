@@ -1,12 +1,13 @@
 +++
 banner = ""
-categories = ["design thinking"]
+categories = ["retrospective"]
 date = "2017-06-29T13:09:58+08:00"
-description = ""
+
+draft = true
 images = []
-menu = ""
-tags = ["design thinking","leading","communication"]
-title = "A design thinking-base dicussion review"
+
+tags = ["design-thinking", "meeting", "soft-skill"]
+title = "A design thinking-base discussion review"
 
 +++
 

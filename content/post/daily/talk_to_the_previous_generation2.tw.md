@@ -2,9 +2,9 @@
 banner = ""
 categories = []
 date = "2017-06-29T08:33:18+08:00"
-description = ""
+
 images = []
-menu = ""
+
 tags = []
 title = "日常中的世代對談 - 討論柯文哲市長 2 採取行動"
 

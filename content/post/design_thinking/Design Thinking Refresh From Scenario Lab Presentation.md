@@ -2,9 +2,9 @@
 banner = ""
 categories = ["Product Discovery"]
 date = "2017-06-25T00:15:22+08:00"
-description = ""
+
 images = []
-menu = ""
+
 tags = ["Design Thinking"]
 title = "Design Thinking Refresh From Scenario Lab (Taiwan) "
 
