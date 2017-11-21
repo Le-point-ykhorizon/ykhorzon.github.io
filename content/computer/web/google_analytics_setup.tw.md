@@ -1,10 +1,9 @@
 +++
-author = "author"
-categories = ["web"]
+author = "ykhorizon"
+categories = ["blog","blog/general"]
 date = "2017-08-16T22:29:08+08:00"
-description = "Google analytics 設定快速檢查"
 keywords = []
-tags = ["google-analytics", "static-site"]
+tags = ["google-analytics"]
 title = "Google analytics 設定快速檢查"
 topics = []
 type = "post"

@@ -1,5 +1,5 @@
 +++
-categories = ["Blog", "Hexo"]
+categories = ["blog", "blog/hexo"]
 date = "2017-01-24 16:15:39"
 tags = ["Blog", "Hexo-Advanced", "Undone"]
 title = "實用hexo-領新手裝"

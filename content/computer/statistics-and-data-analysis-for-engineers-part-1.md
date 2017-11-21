@@ -1,8 +1,8 @@
 +++
-categories = ["Math", "Statistics"]
+categories = ["cs", "cs/statistics"]
 date = "2016-09-11 11:58:16"
-tags = ["Math", "Workshop", "Statistics"]
-title = "Statistics-and-Data-Analysis-for-Engineers-part-1"
+tags = ["math", "statistics"]
+title = "Statistics and Data Analysis for Engineers part 1"
 
 +++
 

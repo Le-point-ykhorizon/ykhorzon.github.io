@@ -1,6 +1,6 @@
 +++
 author = "ykhorizon"
-categories = ["machine-learning"]
+categories = ["cs","cs/machine-learning"]
 date = "2017-07-15T16:19:13+08:00"
 
 draft = true

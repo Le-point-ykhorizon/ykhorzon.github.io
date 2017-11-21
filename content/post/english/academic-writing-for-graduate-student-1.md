@@ -1,5 +1,5 @@
 +++
-categories = ["Academic Writing"]
+categories = ["english","english/academic-writing"]
 date = "2016-09-26 15:39:44"
 tags = ["Language", "English", "Course"]
 title = "Academic Writing for Graduate Student 1"

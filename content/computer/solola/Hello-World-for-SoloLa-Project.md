@@ -1,7 +1,7 @@
 +++
-categories = ["Music Information Retrieval", "Transcription"]
+categories = ["side-project","side-project/solola"]
 date = "2017-04-27 20:52:31"
-tags = ["Open Source", "Web Developing", "Music Information Retrieval", "Transcription"]
+tags = ["open-source", "undone", "side-project"]
 title = "Hello World for SoloLa Project"
 
 +++

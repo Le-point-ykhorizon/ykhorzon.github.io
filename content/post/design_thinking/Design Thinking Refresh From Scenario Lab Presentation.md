@@ -1,11 +1,8 @@
 +++
 banner = ""
-categories = ["Product Discovery"]
+categories = ["design-thinking"]
 date = "2017-06-25T00:15:22+08:00"
-
-images = []
-
-tags = ["Design Thinking"]
+tags = ["desing-thinking"]
 title = "Design Thinking Refresh From Scenario Lab (Taiwan) "
 
 +++

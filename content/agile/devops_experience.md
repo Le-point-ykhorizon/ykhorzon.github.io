@@ -1,6 +1,6 @@
 +++
 author = "ykhorizon"
-categories = ["DevOps"]
+categories = ["agile","agile/devops"]
 date = "2017-08-13T15:42:18+08:00"
 keywords = []
 tags = ["talk", "agile"]

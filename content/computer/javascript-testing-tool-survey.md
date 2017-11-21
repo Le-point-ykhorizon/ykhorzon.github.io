@@ -1,7 +1,7 @@
 +++
-categories = ["Undone"]
+categories = ["programming","programming/javascript"]
 date = "2016-10-04 10:52:33"
-tags = ["Survey", "Software Testing"]
+tags = ["survey", "Software Testing","undone"]
 title = "Javascript Testing Tool Survey"
 
 +++

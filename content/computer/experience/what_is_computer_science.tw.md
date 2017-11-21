@@ -1,10 +1,9 @@
 +++
 author = "ykhorizon"
-categories = ["think"]
+categories = ["myself","myself/career"]
 date = "2017-07-21T10:35:25+08:00"
 
 keywords = [""]
-tags = ["think", "refresh"]
 title = "電腦科學(Computer Science)到底在學什麼？"
 topics = ["topic 1"]
 type = "post"

@@ -1,7 +1,7 @@
 +++
-categories = ["Job Searching"]
+
+categories = ["english","english/job-searching"]
 date = "2016-10-04 13:19:42"
-tags = ["Resume Writing", "English"]
 title = "English Resume Writing Course1"
 
 +++

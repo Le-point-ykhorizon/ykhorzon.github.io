@@ -1,6 +1,6 @@
 +++
 author = "ykhorizon"
-categories = ["blog"]
+categories = ["blog","blog/hugo"]
 date = "2017-06-07T01:23:35+08:00"
 
 featured = ""
@@ -40,8 +40,8 @@ I hope these could be helpful for beginner.
 - Search blog content
 - Multilingual
 - Template
-- SEO
-    - http://brendan-quinn.xyz/post/working-with-hugos-internal-partial-templates-facebook-and-open-graph/
+- [SEO](http://brendan-quinn.xyz/post/working-with-hugos-internal-partial-templates-facebook-and-open-graph/)
+
 ## Beautify Appearance 
 
 - Convert hexo front matter to hugo front matter

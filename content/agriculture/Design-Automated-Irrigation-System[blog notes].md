@@ -1,5 +1,5 @@
 +++
-categories = ["Wait For Merge"]
+categories = ["agriculture","agriculture/irrigation"]
 date = "2016-09-22 11:39:35"
 tags = ["Undone"]
 title = "Design Automated Irrigation System S1"

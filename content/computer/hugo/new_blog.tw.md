@@ -1,8 +1,7 @@
 +++
 author = ""
-categories = ["hugo"]
+categories = ["blog","blog/hugo"]
 date = "2017-06-07T01:23:59+08:00"
-
 featured = ""
 featuredalt = ""
 featuredpath = ""
