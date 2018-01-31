@@ -94,7 +94,8 @@ mathjax = "2.7.1" # cdnjs hosted version; empty string to disable mathjax
 
 # Show a sidebar menu
 showRightSidebar = true
-toc = true
+viewtree = false
+toc = false
 # Select a syntax highlight.
 # Check the static/css/highlight directory for options.
 highlight = "default"
@@ -162,30 +163,23 @@ url = "/about/me"
 pre = "<i class='fa fa-road'></i>"
 
 [[Languages.en.menu.main]]
-name = "Story"
+name = "Post"
 pre = ""
 weight = 3
 identifier = "post"
 url = "/post/"
 
-[[Languages.en.menu.main]]
-name = "Computer"
-pre = ""
-weight = 4
-url = "/computer/"
+# [[Languages.en.menu.main]]
+# name = "Category"
+# pre = ""
+# weight = 4
+# url = "/category/"
 
-[[Languages.en.menu.main]]
-name = "Agile"
-pre = ""
-weight = 5
-url = "/agile/"
-
-[[Languages.en.menu.main]]
-name = "Agriculture"
-pre = ""
-weight = 6
-url = "/agriculture/"
-
+# [[Languages.en.menu.main]]
+# name = "Project"
+# pre = ""
+# weight = 5
+# url = "/project/"
 
 
 # Language switch menu setting
@@ -222,6 +216,8 @@ weight = 2
 title = "" # Site title
 copyright = "(c) 2017 ykhorizon"
 
+
+
 [[Languages.tw.menu.main]]
 name = "首頁"
 weight = 1
@@ -234,37 +230,30 @@ weight = 2
 url = "/tw/about/me"
 
 [[Languages.tw.menu.main]]
-name = "故事"
+name = "文章"
 pre = ""
 weight = 3
 identifier = "post"
 url = "/tw/post/"
 
-[[Languages.tw.menu.main]]
-name = "電腦科學"
-pre = ""
-weight = 4
-url = "/tw/computer/"
+# [[Languages.tw.menu.main]]
+# name = "分類"
+# pre = ""
+# weight = 4
+# url = "/tw/category/"
 
-[[Languages.tw.menu.main]]
-name = "敏捷"
-pre = ""
-weight = 5
-url = "/tw/agile/"
-
-[[Languages.tw.menu.main]]
-name = "農業"
-pre = ""
-weight = 6
-url = "/tw/agriculture/"
-
+# [[Languages.tw.menu.main]]
+# name = "專案"
+# pre = ""
+# weight = 5
+# url = "/tw/project/"
 
 
 # Language switch menu setting
 [[Languages.tw.menu.switchlang]]
 name = "English"
 identifier = ""
-weight = 7
+weight = 6
 url = "en"
 
 # 
