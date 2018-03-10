@@ -1,13 +1,13 @@
 +++
 author = "ykhorizon"
 date = "2018-01-16T20:04:19+08:00"
-title = "Agile Meetup 新竹 - 系統思考工作坊"
+title = "Agile Meetup 新竹 - 系統思考工作坊 心得"
 categories = ["system-thinking"]
 topics = []
 keywords = []
 tags = ["system-thinking"]
 type = "post"
-draft = true
+
 +++
 
 # Outline
@@ -34,7 +34,7 @@ draft = true
 
 # 學習目標
 - 對 『系統思考』有初步理解
-- 將問題畫成 Causal Loop Diagram (CFD) 
+- 將問題畫成 Causal Loop Diagram (CLD) 
 
 # 簡介與動機
 ## System Think 系統思考
