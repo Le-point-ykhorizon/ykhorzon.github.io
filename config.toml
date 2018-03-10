@@ -81,7 +81,7 @@ brand = "My awesome blog" # brand image alt text.
 topline = "an adventurer explore in agriculture, computer and music"
 footline = "Be curious everything with <i class='fa fa-heart'></i>"
 
-customJS = []
+customJS = [""]
 customCSS = ["/css/style_custom.css"]
 
 # Text for the top menu link, which goes to the root URL for the site.
