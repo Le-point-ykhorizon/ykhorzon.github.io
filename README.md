@@ -2,6 +2,7 @@
 
 # Todo List
 1. Porting this [hexo-theme-beantech](https://github.com/YenYuHsuan/hexo-theme-beantech) to hugo
+- hugo need a beautiful multi-language theme!
 2. Search in website content
 3. RSS
 
