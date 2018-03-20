@@ -5,9 +5,9 @@ title = "Build my own hugo blog with additional features"
 categories = ["blog","blog/hugo"]
 topics = []
 keywords = []
-tags = ["working-on"]
+tags = []
 type = "post"
-
+draft = true
 +++
 
 # Outline
