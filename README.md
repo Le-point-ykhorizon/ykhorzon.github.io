@@ -53,34 +53,15 @@ Other
 
 ### Requirement
 The categories of hugo is only one-level (It's called Taxonomies). But I want the categories like the following image. It's very common feature in another static site generator **hexo**
-![](/content_img/todo_of_this_blog/1.png)
+
+![](https://github.com/ykhorzon/ykhorzon.github.io.soruce/content_img/todo_of_this_blog/1.png)
 [image src: blog of morris821028 ](http://morris821028.github.io/)
 
     
 ### Implementation Idea
+1. Hugo natively support function to generate category
 
-1. use variable dynamically generate relationship to generate the hierarchy template 
-2. Write another .js or go code to generate file in /date to maintain the categories relationship, then use data template to show result
-### Status
-- Status
-    - Done but wait for optimization
-- Source code location
-    - Static/tree/category_tree.js 
-
-### Usage
-- If you want to add article as main-category __A__ and sub-category __B__ , add information in meta-data categories = ["__A__","__A/B__"]
-- Ex: categories = ["service-design","service-design/ecosystem"]
-
-### Method 1
-Use a prefix string as main category 
-- Implement with simple concatenated category string
-
-Example: 
-
-- blog (Main Category)
-- blog/hugo (Sub Category)
-
-![](/content_img/todo_of_this_blog/3.png)
+![](https://github.com/ykhorzon/ykhorzon.github.io.soruce/content_img/todo_of_this_blog/3.png)
 
 ```html
   <!-- Taxonomies (default is tag and categories) -->
@@ -108,9 +89,24 @@ __Result__
 
 ![](/content_img/todo_of_this_blog/2.png)
 
-More advanced solution, I would like to write a javascript snippets to **convert** flatted categories into hierarchy categories with some category format trick.
+2. use variable dynamically generate relationship to generate the hierarchy template 
+3. Write another .js or go code to generate file in /date to maintain the categories relationship, then use data template to show result
+### Status
+- Status
+    - [ ] Done but wait for optimization
+- Source code location
+    - Static/tree/category_tree.js 
 
-### Other Solutions 
+### Usage
+- If you want to add article as main-category __A__ and sub-category __B__ , add information in meta-data categories = ["__A__","__A/B__"]
+- Ex: categories = ["service-design","service-design/ecosystem"]
+
+
+
+
+
+
+### Survey possible solutions 
 
 - [Solution 1 - hugo-nested-menu-example](https://github.com/vjeantet/hugo-menu-show)
   -  [Demo](http://vjeantet.github.io/hugo-menu-show/)
