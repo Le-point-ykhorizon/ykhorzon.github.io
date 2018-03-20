@@ -7,32 +7,20 @@ title = "關於我"
 
 +++
 
-<img src="/content_img/about/me2.jpg" style="width:45%" > 
+<!-- <img src="/content_img/about/me2.jpg" style="width:45%" >  -->
 
-你好, 我是 ykhorizon (a.k.a. ykhu in community)，
-我出生長大在[台灣](https://en.wikipedia.org/wiki/Taiwan)，興趣非常廣泛。<br/>
-努力堅持自己信念與原則，設法讓自己做好玩的事情，遇見有趣的人。
 
-# 與我有關的組織
-[Elastic Farm]()
-[Open Agri. Lab](http://172.104.110.168/)
+## 我是誰？
+我是 ykhorizon (a.k.a. ykhu in community)，
+我出生長大在[台灣](https://en.wikipedia.org/wiki/Taiwan)，主要興趣在於軟體(前後端)、農業與音樂。努力嘗試堅持自己信念與原則，設法讓自己做出自己認為有趣的事情。
 
-# 興趣 
+## 我參與的社群
+- [Open Hack Farm](https://www.facebook.com/groups/OpenHackFarm/?fref=nf )
 
-- Programming, Agile and Startup
-- Agriculture, Sustainable and Irrigation
-- Music, Guitar and Grogressive
-- Cooking, dog and insect
-
-# 目標
-
-- Simple
-- Do not forget the initial motivation
-- Underpin myself, family and friends
 
 # 聯絡我
 
-- twitter
-- github
-- linkedin
+- [twitter](https://twitter.com/ykhorizon)
+- [github](https://github.com/ykhorzon)
+- [linkedin](https://www.linkedin.com/in/yu-kang-hu-78b95494/)
 - Or contact me with ykhorizon.light@gmail.com

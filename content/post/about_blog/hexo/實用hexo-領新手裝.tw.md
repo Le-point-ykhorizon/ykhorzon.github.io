@@ -1,9 +1,9 @@
 +++
 categories = ["blog", "blog/hexo"]
 date = "2017-01-24 16:15:39"
-tags = ["Blog", "Hexo-Advanced", "Undone"]
+tags = ["Blog", "Hexo-Advanced"]
 title = "實用hexo-領新手裝"
-
+draft = true
 +++
 
 > 當你把hexo當作Content Providing的武器

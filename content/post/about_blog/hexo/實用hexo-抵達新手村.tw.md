@@ -1,9 +1,9 @@
 +++
 categories = ["blog", "blog/hexo"]
 date = "2017-01-24 21:58:01"
-tags = ["Hexo", "Blog", "Undone"]
+tags = ["Hexo", "Blog"]
 title = "實用hexo-抵達新手村"
-
+draft = true
 +++
 
 ## 從這篇文章得到
