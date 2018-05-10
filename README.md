@@ -1,7 +1,4 @@
-# My Tech Blog
-
-
-
+# My Blog
 
 All the solutions of 2. 3. are in [offical web - Tools](https://gohugo.io/tools/). But I need to integrate them.
 
@@ -19,8 +16,13 @@ I'll mainly discuss about two major aspect of using hugo. Part II is based on my
 - PART I: Todo list of function (Those important feature for me)
 - PART II: Content Management Experience
 
+## UI and Appearance 
 
-# Todo List of function (wait to prioritize)
+- [ ] I want a Blog like meduium or [hexo-theme-beantech](https://github.com/YenYuHsuan/hexo-theme-beantech) to hugo
+- [ ] hidden sidebar
+- [ ] article header line font 
+- [ ] drop-down nav bar for sub-directory
+# Todo List of Function (wait to prioritize)
 
 - [x] Display hierarchy categories (Partial)
 - [ ] Search inside blog
@@ -34,23 +36,16 @@ I'll mainly discuss about two major aspect of using hugo. Part II is based on my
 
 Other
 
-- [ ] drop-down nav bar for sub-directory
-- [ ] RSS
+
 - [ ] Table of Content (ToC) 
-- [MathJax (New)](https://gohugo.io/tutorials/mathjax/) 
-- [x] Discuusion Disqus (__Done__)
-- [SEO](http://brendan-quinn.xyz/post/working-with-hugos-internal-partial-templates-facebook-and-open-graph/)
+- [x] [MathJax (New)](https://gohugo.io/tutorials/mathjax/) 
+- [x] Discuusion Disqus 
+- [ ][SEO](https://keithpblog.org/post/hugo-website-seo/)
+- [ ] RSS
 
-## UI and Appearance 
-- Porting this [hexo-theme-beantech](https://github.com/YenYuHsuan/hexo-theme-beantech) to hugo
-- hidden sidebar
-- article header line font 
-
-
-# PART I: Wanted Feature
+# PART I: Wanted Feature Implementation
 
 ## Display hierarchy categories (main-category and sub-category)
-
 ### Requirement
 The categories of hugo is only one-level (It's called Taxonomies). But I want the categories like the following image. It's very common feature in another static site generator **hexo**
 
@@ -100,12 +95,6 @@ __Result__
 ### Usage
 - If you want to add article as main-category __A__ and sub-category __B__ , add information in meta-data categories = ["__A__","__A/B__"]
 - Ex: categories = ["service-design","service-design/ecosystem"]
-
-
-
-
-
-
 ### Survey possible solutions 
 
 - [Solution 1 - hugo-nested-menu-example](https://github.com/vjeantet/hugo-menu-show)
@@ -121,11 +110,10 @@ Miscellaneous
 - [Github Issue Discussion 2](https://github.com/gohugoio/hugo/pull/3309)
 
 
-
 # PART II: Content Management Experience
 
 
-## 5. Access to file by title/filename in multilingual condition
+## Find file by title/filename in multilingual condition
 I'm used to write blog by Visual Studio Code, so my procedure likes
 
 1. Start local server in command line (hugo server -w -D)
@@ -133,14 +121,14 @@ I'm used to write blog by Visual Studio Code, so my procedure likes
 3. Use **search in file** access article by title
 4. It's time to get to write!
 
-## 6. Manage tags/catagories/keyword/series 
+## Manage tags/catagories/keyword/series 
 
 1. Every article only have one category. It should be the most important characteristic.
 2. Category should not equal to tag
 
-## 7. How to hybrid directory(section), category and tag to manage contents ?
+## How to hybrid directory(section), category and tag to manage contents ?
 
-## 8. Suggestions for writing flow 
+## Suggestions for writing flow 
 
 __Keep Atomicity__
 
