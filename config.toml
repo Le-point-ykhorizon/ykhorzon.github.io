@@ -1,6 +1,7 @@
 # hostname (and path) to the root eg. https://appernetic.github.io/
 baseurl = "https://ykhorzon.github.io"
 
+
 # Remark if you want to disable multilingual support.
 DefaultContentLanguage = "en"
 defaultContenLanguageInSubdir = false
@@ -16,6 +17,7 @@ defaultContenLanguageInSubdir = false
 
 # SES friendly url:s
 canonifyurls = true
+enableRobotsTXT = true
 
 # Frontmatter format
 # "yaml", "toml", "json"
@@ -24,7 +26,7 @@ metaDataFormat = "yaml"
 # Theme to use (located in /themes/THEMENAME/)
 theme = "hugo-bootstrap-premium"
 # Pagination
-paginate = 10
+paginate = 5
 paginatePath = "page"
 
 # Enable Disqus integration
