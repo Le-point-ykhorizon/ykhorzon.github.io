@@ -7,7 +7,6 @@ topics = []
 keywords = []
 tags = []
 type = "post"
-draft = true
 +++
 
 
