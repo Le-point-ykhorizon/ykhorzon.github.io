@@ -13,6 +13,9 @@ type = "post"
 # Startup 硬體開發遭遇什麼陷阱？
 <br>
 
+![](/content_img/hw_development_for_startup_part2/trap.jpg)
+https://www.pexels.com/photo/close-up-finger-hurt-pain-433625/
+
 想像一下，你是一名新創公司的頭號工程師，公司沒有資源（缺錢、缺人），又正在開發沒人做過的產品，沒有所謂的類似產品可以參考，
 一切從零開始打造。新創公司與成熟公司最大差異，新創公司沒有前人累積的軟硬體、經驗與工具，可以借助節省開發，減少走冤枉路的時間，
 也就是 __Not much to leverage__

@@ -7,9 +7,14 @@ type = "about"
 
 +++
 
-## Who am I？
-My name is ykhorizon (a.k.a. ykhu in community) and I currently live in [Taiwan](https://en.wikipedia.org/wiki/Taiwan).
-I'm interested in software development(web and system), innovation(startup stuff), agriculture(agri. with high tech.) and music (electric guitar).
+My name is ykhorizon (a.k.a. yk hu in community) and I'm a taiwanese and currently live in [Taiwan](https://en.wikipedia.org/wiki/Taiwan), [Taipei](https://en.wikipedia.org/wiki/Taipei). <br/>
+
+I'm interested in:
+
+- __software development__
+- __startup stuff__
+- __agriculture(agri. with high tech.)__ 
+- __music (electric guitar)__
 
 ## Community
 - [Open Hack Farm](https://www.facebook.com/groups/OpenHackFarm/?fref=nf )
@@ -17,7 +22,7 @@ I'm interested in software development(web and system), innovation(startup stuff
 
 # Contact
 
-- [twitter](https://twitter.com/ykhorizon)
-- [github](https://github.com/ykhorzon)
-- [linkedin](https://www.linkedin.com/in/yu-kang-hu-78b95494/)
-- Or contact me with ykhorizon.light@gmail.com
+- [Twitter](https://twitter.com/ykhorizon)
+- [Github](https://github.com/ykhorzon)
+- [Linkedin](https://www.linkedin.com/in/yu-kang-hu-78b95494/)
+- Gmail: ykhorizon.light@gmail.com

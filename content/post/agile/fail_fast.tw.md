@@ -2,7 +2,7 @@
 date = "2016-09-14 23:15:29"
 categories = ["agile"]
 tags = ["TGDF2016"]
-title = "TGDF 2016 Notes - Fail Fast"
+title = "TGDF 2016 - Fail Fast 閃退" 
 toc = true
 +++
 

@@ -1,11 +1,16 @@
 +++
 author = "ykhorizon"
-categories = ["agile"]
 date = "2017-05-03T10:32:13+08:00"
-tags = ["Agile", "User Story", "Agile HsinChu"]
 title = "User Story 的那些人與那些事"
-draft = true
+categories = ["agile","agile/user-story"]
+tags = ["agile", "user-story"]
+
 +++
+
+
+<img style="width:700px;" src="/content_img/user_story_and_others/story.jpg">
+
+# 序言
 
 > User Story 不只是一張卡片，是說故事與溝通需求的載體
 
@@ -14,11 +19,6 @@ draft = true
 
 - 此篇是 User Story 實戰篇的階議題
 
-
-## 目錄
-
-<!-- toc -->
-<!-- more -->
 
 # 心得
 
@@ -29,17 +29,18 @@ draft = true
 # What is User Story ?
 
 
-{% blockquote Mountain Goat Software %}
 
-User stories are short, simple descriptions of a feature told from the perspective of the person who desires the new capability, usually a user or customer of the system.
+> User stories are short, simple descriptions of a feature told from the perspective of the person who desires the new capability,> usually a user or customer of the system.
+> 
+> from Mountain Goat Software
 
-{% endblockquote %}
+另一個定義
 
-{% blockquote TechTarget %}
 
-A user story is a tool used in Agile software development to capture a description of a software feature from an end-user perspective. The user story describes the type of user, what they want and why. A user story helps to create a simplified description of a requirement.
+> A user story is a tool used in Agile software development to capture a description of a software feature from an end-user perspective. The user story describes the type of user, what they want and why. A user story helps to create a simplified description of a requirement.
+>
+> from TechTarget
 
-{% endblockquote %}
 
 [Mountain Goat Software, User Stories](https://www.mountaingoatsoftware.com/agile/user-stories)
 [TechTarget, User Story](http://searchsoftwarequality.techtarget.com/definition/user-story)
@@ -54,10 +55,12 @@ A user story is a tool used in Agile software development to capture a descripti
 - 注重在價值
 - 不要 *帶入 Spec.* 或 *過多功能描述* 在其中 (會限制 Solution的可能性)
 
-
+<!--more-->
 
 # 如何撰寫 User Story
-![](img-20.jpg)
+
+<img style="width:700px;" src="/content_img/user_story_and_others/img-20.jpg">
+
 
 一切都從 Role 開始，Role 強調是從不同立場出發，撰寫該觀點下的故事
 
@@ -70,7 +73,7 @@ Example
 > As a user, I can backup my entire hard drive.
 
 ## User Story 範例
-{% asset_img img-16.jpg %}
+<img style="width:700px;" src="/content_img/user_story_and_others/img-16.jpg">
 
 假設要開發一套卡片管理系統，可能可以寫下這些 User Story（因為字體有一點糊，我把內容打成以下文字)
 
@@ -80,27 +83,27 @@ Example
 
 ## 何謂好的 User Story 
 
-{% asset_img img-13.jpg %}
+<img style="width:700px;" src="/content_img/user_story_and_others/img-13.jpg">
 - 第一點 *Independant* 不理解他的意義
 
 ## 如何切分 User Story
-{% asset_img img-02.jpg %}
+<img style="width:700px;" src="/content_img/user_story_and_others/img-02.jpg">
 
 ## 如何管理 User Story 的相依性
-{% asset_img img-03.jpg %}
+<img style="width:700px;" src="/content_img/user_story_and_others/img-03.jpg">
 
 ### 不要被工具限制住
-{% asset_img img-05.jpg %}
+<img style="width:700px;" src="/content_img/user_story_and_others/img-05.jpg">
 不要被工具限制住, 發揮創意打造自己的工具
 
 
 
 # 如何將 Story 轉換成 Spec
-{% asset_img img-04.jpg %}
+<img style="width:700px;" src="/content_img/user_story_and_others/img-04.jpg">
 
 # 不是 User 的 Story? (Refactoring, Performance Improvement)
 Technicial Story
-{% asset_img img-06.jpg %}
+<img style="width:700px;" src="/content_img/user_story_and_others/img-06.jpg">
 
 # 關於 User 從哪來 ?
 
@@ -110,25 +113,25 @@ Technicial Story
 - 由 User Research 找出的 User ( EX:Persona ) 
 
 ## User Research
-{% asset_img img-17.jpg %}
+<img style="width:700px;" src="/content_img/user_story_and_others/img-17.jpg">
 
 ### Example: Persona
 想像出的虛構濃縮的User
-{% asset_img img-18.jpg %}
+<img style="width:700px;" src="/content_img/user_story_and_others/img-18.jpg">
 
 # 撰寫 User Story 的困難
-{% asset_img img-14.jpg %}
+<img style="width:700px;" src="/content_img/user_story_and_others/img-14.jpg">
 
 
 # 實際執行可能會遭遇的問題
 
-{% asset_img img-12.jpg %}
+<img style="width:700px;" src="/content_img/user_story_and_others/img-12.jpg">
 
 如何讓其他人確定 User Story 有幫助
-{% asset_img img-09.jpg %}
+<img style="width:700px;" src="/content_img/user_story_and_others/img-09.jpg">
 
 如何讓非開發團隊撰寫 User Story
-{% asset_img img-10.jpg %}
+<img style="width:700px;" src="/content_img/user_story_and_others/img-10.jpg">
 
 
 
