@@ -2,3 +2,7 @@
 [submodule "themes/hugo-bootstrap"]
 	path = themes/hugo-bootstrap
 	url = https://github.com/ykhorzon/hugo-bootstrap.git
+[submodule "public"]
+	path = public
+	url = git@github.com:ykhorzon/ykhorzon.github.io.git
+	branch = master
