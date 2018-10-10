@@ -1,6 +1,7 @@
 # hostname (and path) to the root eg. https://appernetic.github.io/
 baseurl = "https://ykhorzon.github.io"
 
+
 # Remark if you want to disable multilingual support.
 DefaultContentLanguage = "en"
 defaultContenLanguageInSubdir = false
@@ -16,15 +17,16 @@ defaultContenLanguageInSubdir = false
 
 # SES friendly url:s
 canonifyurls = true
+enableRobotsTXT = true
 
 # Frontmatter format
 # "yaml", "toml", "json"
-metaDataFormat = "toml"
+metaDataFormat = "yaml"
 
 # Theme to use (located in /themes/THEMENAME/)
 theme = "hugo-bootstrap-premium"
 # Pagination
-paginate = 10
+paginate = 5
 paginatePath = "page"
 
 # Enable Disqus integration
@@ -33,11 +35,7 @@ disqusShortname = "ykhorizon"
 
 [permalinks]
 post = "/:year/:month/:day/:slug/"
-code = "/:slug/"
 
-[taxonomies]
-tag = "tags"
-topic = "topics"
 
 [author]
 name = "ykhorizon"
@@ -52,12 +50,12 @@ name = "paper"
 
 [params.popover]
 # This is a highly configurable popover form.
-enablepopover = true #enable or disable popover: true/false.
-posturl = "https://zapier.com/hooks/catch/1227563/" # Your zapier post hook.
+enablepopover = false #enable or disable popover: true/false.
+posturl = "https://twitter.com/ykhorizon" # Your zapier post hook.
 headerimage = "//placehold.it/1000x600"
 expirecookie = 5 #show it again after number of days to visitors that has not subscribed.
 cookiename = "mycookie1" #give the cookie a unique name variable (avoid spaces and strange characters).
-signupheader = "Join Our Newsletter"
+signupheader = "Suscribe me on twitter @ykhorizon "
 showmodaltimeout = 10000 #show popover modal after time interval in milliseconds.
 mouseleave = true #show popover when mouse leaves window: true/false.
 modalsize = "" #lg or sm. Empty is md. If phone is detected lg is used.
@@ -70,16 +68,23 @@ errormessage = "Submitting form failed!"
 optin = true #opt-in: true/false
 
 [params]
+
 DefaultContentLanguage = "en"
 # menu for changing language. This changes languages with js and stores the choice with the help of JavaScript in a Cookie. Then the path is rewritten with pathnamereplace.js. The name of the md files needs to have the same name for each language abbreviation to work correctly. Example: showcase.en.md and showcase.sv.md. It only works if DefaultContentLanguageInSubdir = true
 switchlang = true
+
+# Google Analytics.
+googleAnalytics = "UA-97451129-2"
+
 # You can use markdown here.
+# BrandImage = "/index/fire.png" #top header brand image.
 BrandImage = "" #top header brand image.
 brand = "My awesome blog" # brand image alt text.
 topline = "an adventurer explore in agriculture, computer and music"
 footline = "Be curious everything with <i class='fa fa-heart'></i>"
 
-customJS = []
+# other customized javascript code importing in scripts.html
+customJS = [""]
 customCSS = ["/css/style_custom.css"]
 
 # Text for the top menu link, which goes to the root URL for the site.
@@ -92,17 +97,18 @@ mathjax = "2.7.1" # cdnjs hosted version; empty string to disable mathjax
 
 # Show a sidebar menu
 showRightSidebar = true
+viewtree = false
+toc = false
 # Select a syntax highlight.
 # Check the static/css/highlight directory for options.
 highlight = "default"
 
-# Google Analytics.
-googleAnalytics = "UA-97451129-2"
+
 
 # Sidebar social links.
 github = "ykhorzon" # Your Github profile ID
 bitbucket = "" # Your Bitbucket profile ID
-linkedin = "" # Your LinkedIn profile ID (from public URL)
+linkedin = "yu-kang-hu-78b95494" # Your LinkedIn profile ID (from public URL)
 googleplus = "Myprofile" # Your Google+ profile ID
 facebook = "Myprofile" # Your Facebook profile ID
 twitter = "Myprofile" # Your Twitter profile ID
@@ -132,39 +138,61 @@ extensionmask = []
 #  identifier = ""
 #  weight = 4
 #  url = "en"
-
+[taxonomies]
+tags = "tags"
+categories = "categories"
 
 [Languages]
 [Languages.en]
 languageCode = "en"
 weight = 1
 copyright = "(c) 20167 Copyright all reserved to ykhorizon"
-title = "Momentum of Ykhorizon" # Site title
+title = "" # Site title
 
 # 
 # Menu settings for English
 # 
+
+[[Languages.en.menu.main]]
+name = "Home"
+weight = 1
+url = "/"
+
 [[Languages.en.menu.main]]
 name = "About"
-weight = 1
+weight = 2
 identifier = ""
-url = "/about/"
+url = "/about/me"
 pre = "<i class='fa fa-road'></i>"
 
 [[Languages.en.menu.main]]
-name = "Blog"
+name = "Post"
 pre = ""
-weight = 2
+weight = 3
 identifier = "post"
 url = "/post/"
+
+# [[Languages.en.menu.main]]
+# name = "Category"
+# pre = ""
+# weight = 4
+# url = "/category/"
+
+# [[Languages.en.menu.main]]
+# name = "Project"
+# pre = ""
+# weight = 5
+# url = "/project/"
+
 
 # Language switch menu setting
 [[Languages.en.menu.switchlang]]
 name = "繁體中文"
 identifier = ""
-weight = 4
+weight = 6
 url = "tw"
 pre = ""
+
 # 
 # Footer Settings for English
 # 
@@ -181,29 +209,59 @@ identifier = "terms"
 weight = 2
 url = "/terms/"
 
-
-
-
+# 
+# Menu settings for Traditional Chinese
+# 
 
 [Languages.tw]
 languageCode = "tw"
 weight = 2
-title = "持續改進 for Ykhorizon" # Site title
+title = "" # Site title
 copyright = "(c) 2017 ykhorizon"
+
+
+
+[[Languages.tw.menu.main]]
+name = "首頁"
+weight = 1
+url = "/"
+
+[[Languages.tw.menu.main]]
+name = "關於我"
+pre = ""
+weight = 2
+url = "/tw/about/me"
 
 [[Languages.tw.menu.main]]
 name = "文章"
 pre = ""
-weight = 2
+weight = 3
 identifier = "post"
 url = "/tw/post/"
 
+# [[Languages.tw.menu.main]]
+# name = "分類"
+# pre = ""
+# weight = 4
+# url = "/tw/category/"
+
+# [[Languages.tw.menu.main]]
+# name = "專案"
+# pre = ""
+# weight = 5
+# url = "/tw/project/"
+
+
+# Language switch menu setting
 [[Languages.tw.menu.switchlang]]
 name = "English"
 identifier = ""
-weight = 3
+weight = 6
 url = "en"
 
+# 
+# Footer Settings for Traditional Chinese
+# 
 [[Languages.tw.menu.footer]] # add  links to the bottom right corner.
 name = "聲明"
 pre = "<i>&middot;</i>"
@@ -216,8 +274,3 @@ name = "使用規範"
 identifier = "vilkor"
 weight = 2
 url = "/tw"
-
-
-[Languages.tw.taxonomies]
-tag = "標籤"
-topic = "議題"

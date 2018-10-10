@@ -1,5 +1,5 @@
 baseurl = "https://ykhorzon.github.io/"
-title = "Ykhorizon - Tech Relay Race"
+title = "ykhorizon - Tech Relay Race"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 
@@ -28,23 +28,29 @@ googleAnalytics = "UA-97451129-2"
     name = "Home"
     weight = 1
   [[languages.en.menu.main]]
-    url = "/about/me"
+    url = "/about"
     name = "About"
     weight = 2
-
+  [[languages.en.menu.main]]
+    url = "/contact/"
+    name = "Contact"
+    weight = 3
 
 [languages.tw]
   languageName = "繁體中文"
 
-  [[languages.tw.menu.main]]
+  [[languages.es.menu.main]]
     url = "/tw/"
-    name = "首頁"
+    name = "繁體中文網頁"
     weight = 1
-  [[languages.tw.menu.main]]
-    url = "/tw/about/me"
+  [[languages.es.menu.main]]
+    url = "/tw/about"
     name = "關於我"
     weight = 2
-
+  [[languages.es.menu.main]]
+    url = "/tw/contact/"
+    name = "聯絡"
+    weight = 3
 
 
 

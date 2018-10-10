@@ -1,9 +1,0 @@
-{{ if .IsTranslated }}
-<div class="transBlock">
-     {{ range .Translations }}
-    <a href="{{ .Permalink }}">
-    <button type="button" class="btn btn-success">{{ .Lang }}: {{ .Title }}{{ if .IsPage }} {{ end }}</button>
-    </a> 
-    {{ end }}
-</div>
- {{ end }}

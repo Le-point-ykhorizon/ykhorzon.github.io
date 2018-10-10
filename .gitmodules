@@ -3,7 +3,6 @@
 	url = git@github.com:ykhorzon/ykhorzon.github.io.git
 	branch = master
 
-[submodule "theme"]
-	path = theme/hugo-bootstrap-premium
-	url = git@github.com:ykhorzon/hugo-bootstrap-premium.git
-	branch = master
+[submodule "themes/hugo-bootstrap"]
+	path = themes/hugo-bootstrap
+	url = https://github.com/ykhorzon/hugo-bootstrap.git
