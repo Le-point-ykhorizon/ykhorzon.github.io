@@ -6,22 +6,16 @@ title = "About Me"
 type = "about"
 
 +++
+## Who am I?
+My name is yk.horizon. <br/>
+I do programming, write article, listen to music and play guitar.
 
-My name is ykhorizon (a.k.a. yk hu in community) and I'm a taiwanese and currently live in [Taiwan](https://en.wikipedia.org/wiki/Taiwan), [Taipei](https://en.wikipedia.org/wiki/Taipei). <br/>
+I'm also interested in some topics:
 
-I'm interested in topic including:
-
-- __Software development__
-- __Startup and innovative method__
-- __Technology(ICT, software or analysis) in Agriculture__ 
-- __Music ( most of electric guitar)__
-
-## Participated Community
-
-- [Open Hack Farm](https://www.facebook.com/groups/OpenHackFarm/?fref=nf )
-
-
-## Contact
+- __Agriculture in Future__ 
+- __Product and innovation__
+  
+## Contacts
 
 - [Twitter](https://twitter.com/ykhorizon)
 - [Github](https://github.com/ykhorzon)

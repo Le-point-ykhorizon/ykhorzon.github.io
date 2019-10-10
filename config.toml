@@ -1,5 +1,5 @@
 baseurl = "https://ykhorzon.github.io/"
-title = "Ykhorizon"
+title = "YK.horizon"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 
@@ -8,7 +8,7 @@ paginate = 5
 paginatePath = "page"
 
 # Theme to use
-theme = "hugo-bootstrap"
+theme = "hugo-theme-minos"
 
 [taxonomies]
   tag = "tags"
@@ -20,9 +20,6 @@ googleAnalytics = "UA-97451129-2"
 [languages.en]
   languageName = "English"
 
-  # Replace the default footer message with a localized message
-  # copyright = "Hugo template made with ❤ by Xzya"
-
   [[languages.en.menu.main]]
     url = "/"
     name = "Home"
@@ -31,7 +28,11 @@ googleAnalytics = "UA-97451129-2"
     url = "/about/me"
     name = "About"
     weight = 2
-
+  
+  [[languages.en.menu.main]]
+    url = "/tw"
+    name = "中文"
+    weight = 3
 
 [languages.tw]
   languageName = "繁體中文"
@@ -44,7 +45,10 @@ googleAnalytics = "UA-97451129-2"
     url = "/tw/about/me"
     name = "關於我"
     weight = 2
-
+  [[languages.tw.menu.main]]
+    url = "/"
+    name = "English"
+    weight = 3
 
 
 
@@ -54,6 +58,11 @@ googleAnalytics = "UA-97451129-2"
   post = "/:year/:month/:title/"
 
 [params]
+  katex = true
+  smartToc = true
+  disqusShortname  = "ykhorzon.github.io"
+  googleAnalytics = "UA-123-45"
+
   # Main sections (currently used for the recent posts in the sidebar)
   mainSections = ["post"]
 
@@ -68,10 +77,10 @@ googleAnalytics = "UA-97451129-2"
 
   [params.sidebar]
     # Whether to show the recent posts or not (default: true)
-    # showRecent = false
+    showRecent = false
 
     # Whether to show the taxonomies or not (default: true)
-    # showTaxonomy = false
+    showTaxonomy = false
 
     # How many posts to show on the sidebar (Default: 5)
     # num_recent_posts = 5

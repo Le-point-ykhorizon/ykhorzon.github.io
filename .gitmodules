@@ -6,3 +6,6 @@
 	path = public
 	url = git@github.com:ykhorzon/ykhorzon.github.io.git
 	branch = master
+[submodule "themes/hugo-theme-minos"]
+	path = themes/hugo-theme-minos
+	url = git@github.com:ykhorzon/hugo-theme-minos.git

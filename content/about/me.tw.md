@@ -11,19 +11,13 @@ title = "關於我"
 
 ## 我是誰？
 
-我是 ykhorizon (在社群中我都自稱 yk )，
-我在[台灣](https://en.wikipedia.org/wiki/Taiwan)出生與成長
+我是 ykhorizon (在社群中我都自稱 YK )，
 
-目前主要興趣在於
 
-- 軟體開發
-- 創業、商業知識與創新方法
-- ICT和軟體在農業之應用
-- 音樂（吉他）
-
-## 我參與的社群
-- [Open Hack Farm](https://www.facebook.com/groups/OpenHackFarm/?fref=nf )
-
+我對一些其他議題有興趣:
+- 農業
+- 產品與創新
+  
 
 ## 聯絡我
 
