@@ -28,11 +28,14 @@ googleAnalytics = "UA-97451129-2"
     url = "/about/me"
     name = "About"
     weight = 2
-  
+  [[languages.en.menu.main]]
+    url = "/tags"
+    name = "Tag"
+    weight = 3
   [[languages.en.menu.main]]
     url = "/tw"
     name = "中文"
-    weight = 3
+    weight = 4
 
 [languages.tw]
   languageName = "繁體中文"
@@ -46,9 +49,13 @@ googleAnalytics = "UA-97451129-2"
     name = "關於我"
     weight = 2
   [[languages.tw.menu.main]]
+    url = "/tw/tags"
+    name = "Tag"
+    weight = 3
+  [[languages.tw.menu.main]]
     url = "/"
     name = "English"
-    weight = 3
+    weight = 4
 
 
 
@@ -67,7 +74,7 @@ googleAnalytics = "UA-97451129-2"
   mainSections = ["post"]
 
   # Default author
-  author = "Ykhorizon"
+  author = "YK Horizon"
 
   # Date format (default: Jan 2, 2006)
   # date_format = "Jan 2, 2006"
