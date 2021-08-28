@@ -109,23 +109,48 @@ params:
         threshold: 0.4
         minMatchCharLength: 0
         keys: ["title", "permalink", "summary", "content"]
-menu:
-    main:
-        - identifier: categories
-          name: categories
-          url: /categories/
-          weight: 10
-        - identifier: tags
-          name: tags
-          url: /tags/
-          weight: 20
-        # - identifier: about
-        #   name: about
-        #   url: /about/
-        - identifier: story
-          name: story
-          url: https://life.ykhorizon.dev
-          weight: 30
+
+languages:
+    en:
+        languageName: "Engilsh"
+        weight: 1
+        menu:
+            main:
+                - identifier: categories
+                  name: categories
+                  url: /categories/
+                  weight: 10
+                - identifier: tags
+                  name: tags
+                  url: /tags/
+                  weight: 20
+                # - identifier: about
+                #   name: about
+                #   url: /about/
+                - identifier: story
+                  name: story
+                  url: https://life.ykhorizon.dev
+                  weight: 30
+    tw:
+        languageName: "Traditional Chinese"
+        weight: 2
+        menu:
+            main:
+                - identifier: categories
+                  name: 分類
+                  url: /categories/
+                  weight: 10
+                - identifier: tags
+                  name: 標籤
+                  url: /tags/
+                  weight: 20
+                # - identifier: about
+                #   name: about
+                #   url: /about/
+                - identifier: story
+                  name: 故事
+                  url: https://life.ykhorizon.dev
+                  weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:
