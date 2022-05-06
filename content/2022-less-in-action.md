@@ -10,7 +10,22 @@ type = "post"
 # Team formation
 - Organize a feature team instead of component team
 - Expect cross-functional team member
-- Define your own score for diversity (e.g. personality type, professional skill set, domain knowledge, soft skill set) 
+- Define your own aspect for diversity (e.g. personality type, professional skill set, domain knowledge, soft skill set) 
 - Expect highly-diversity team  
 
-# Scrum overview
+## Practice
+List team aspect:
+- Professional skill set 
+  - RD: backend, frontend, mobile,  embedded system, DevOps, performancce geek(algorithm), network, security
+  - UX, UI, PO, Data anayltic (Or Data scientist Or BI)
+
+- Personality
+  - Outgoing / reserved
+  - Process-driven / People-driven
+  - Adverture, stable
+  - Leadership, Facilitor(Coaching) / Individual contributor
+
+- Domain knowledge
+  - Too many domain
+  - It's very lucky if you can hire people in the same industry. It would like to be a short cut and you can leverge their experience
+  - The team should also be capable to explore domain knowledge iteratively and quickly
