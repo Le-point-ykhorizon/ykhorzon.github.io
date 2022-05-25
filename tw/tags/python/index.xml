@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>python on YKhorizon</title>
+    <link>https://ykhorzon.github.io/tw/tags/python/</link>
+    <description>Recent content in python on YKhorizon</description>
+    <image>
+      <url>https://ykhorzon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ykhorzon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 25 Oct 2017 12:27:23 +0800</lastBuildDate><atom:link href="https://ykhorzon.github.io/tw/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Matplotlib 基本介紹</title>
+      <link>https://ykhorzon.github.io/tw/post/cs_programming/visualization/matplot_note/</link>
+      <pubDate>Wed, 25 Oct 2017 12:27:23 +0800</pubDate>
+      
+      <guid>https://ykhorzon.github.io/tw/post/cs_programming/visualization/matplot_note/</guid>
+      <description>&lt;h1 id=&#34;outline&#34;&gt;Outline&lt;/h1&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#outline&#34;&gt;Outline&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#introduction&#34;&gt;Introduction&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#figure&#34;&gt;Figure&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#axes&#34;&gt;Axes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#axis&#34;&gt;Axis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#artist&#34;&gt;Artist&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#matplotlib-pyplot-%E5%92%8C-pylab-%E5%82%BB%E5%82%BB%E5%88%86%E4%B8%8D%E6%B8%85%E6%A5%9A&#34;&gt;Matplotlib, pyplot 和 pylab 傻傻分不清楚&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%97%9C%E6%96%BC%E4%BD%BF%E7%94%A8-pyplot-%E7%9A%84-code-style&#34;&gt;關於使用 pyplot 的 code style&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#backend-%E6%98%AF%E4%BB%80%E9%BA%BC&#34;&gt;Backend 是什麼？&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#reference&#34;&gt;Reference&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

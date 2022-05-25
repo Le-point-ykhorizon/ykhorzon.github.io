@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>workflow/personal-kanban on YKhorizon</title>
+    <link>https://ykhorzon.github.io/categories/workflow/personal-kanban/</link>
+    <description>Recent content in workflow/personal-kanban on YKhorizon</description>
+    <image>
+      <url>https://ykhorzon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ykhorzon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://ykhorzon.github.io/categories/workflow/personal-kanban/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Personal Kanban 實踐後的第一次檢討</title>
+      <link>https://ykhorzon.github.io/post/softskill_workflow/personal_workflow.tw/</link>
+      <pubDate>Fri, 03 Aug 2018 23:37:51 +0800</pubDate>
+      
+      <guid>https://ykhorzon.github.io/post/softskill_workflow/personal_workflow.tw/</guid>
+      <description>&lt;h1 id=&#34;文章要點&#34;&gt;文章要點&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Personal Kanban 使你專注於少數的焦點（重要的事務），並提供一種視覺化的機制，易於凸顯出執行效率上的問題，便於改善與優化&lt;/li&gt;
+&lt;li&gt;但實際在個人工作使用中，會遭遇什麼問題？在本文章中會告訴大家遭遇的問題，嘗試提出應對方案&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

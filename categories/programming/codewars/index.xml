@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>programming/codewars on YKhorizon</title>
+    <link>https://ykhorzon.github.io/categories/programming/codewars/</link>
+    <description>Recent content in programming/codewars on YKhorizon</description>
+    <image>
+      <url>https://ykhorzon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ykhorzon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://ykhorzon.github.io/categories/programming/codewars/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Codewars] Mumbling</title>
+      <link>https://ykhorzon.github.io/post/cs_programming/codewars/mumbling.tw/</link>
+      <pubDate>Thu, 26 Oct 2017 20:23:11 +0800</pubDate>
+      
+      <guid>https://ykhorzon.github.io/post/cs_programming/codewars/mumbling.tw/</guid>
+      <description>&lt;h1 id=&#34;outline&#34;&gt;Outline&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%95%8F%E9%A1%8C%E7%AF%84%E4%BE%8B&#34;&gt;問題範例&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%88%91%E7%9A%84%E5%AF%AB%E6%B3%95&#34;&gt;我的寫法&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%BB%96%E4%BA%BA%E8%A7%A3%E6%B3%95%E8%B3%9E%E6%9E%90&#34;&gt;他人解法賞析&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%AF%94%E8%BC%83%E5%B7%AE%E7%95%B0&#34;&gt;比較差異&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#linq&#34;&gt;LINQ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#stringjoin&#34;&gt;String.Join&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#stringselect-%E8%88%87-lambda-%E9%81%8B%E7%AE%97%E5%BC%8F&#34;&gt;String.Select 與 lambda 運算式&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>laptop on YKhorizon</title>
+    <link>https://ykhorzon.github.io/tw/categories/laptop/</link>
+    <description>Recent content in laptop on YKhorizon</description>
+    <image>
+      <url>https://ykhorzon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ykhorzon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 21 Apr 2019 17:59:16 +0800</lastBuildDate><atom:link href="https://ykhorzon.github.io/tw/categories/laptop/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Windows 10 home 升級 pro 受難計</title>
+      <link>https://ykhorzon.github.io/tw/post/windows/upgrade_lenovo_t480s_from_win10_home_to_pro/</link>
+      <pubDate>Sun, 21 Apr 2019 17:59:16 +0800</pubDate>
+      
+      <guid>https://ykhorzon.github.io/tw/post/windows/upgrade_lenovo_t480s_from_win10_home_to_pro/</guid>
+      <description>&lt;h1 id=&#34;事出有因&#34;&gt;事出有因&lt;/h1&gt;
+&lt;p&gt;當初在購買新的筆電時，迫於各種無奈之下，就挑選了 lenovo T480s 並安裝 windows 10，
+但因為一時不察，想說應該安裝『家用版就足夠了』，必沒有遠端和加密的需求，當時也有看到微軟有自己的虛擬化 hyper-v ，想說 virtualbox 就足夠了，天知道買來用兩天就發現，要執行 docker 必須要專業版（對 hyper-v 有依賴）。這下驢了，當初只有加 1500元 就可買到專業版，這下必須花至少 3000元才能從家用版升級到專業版&lt;/p&gt;
+&lt;h1 id=&#34;波折&#34;&gt;波折&lt;/h1&gt;
+&lt;p&gt;當時決定去一般零售店購買 window 10 專業版，就購買了專業版（隨機版，幫定電腦/筆電主機板，無法轉移授權到其他機器）
+買回來發現直接輸入金鑰，竟然無效！求助 lenovo 客服、微軟客服、零售店的電腦專員，不是踢皮球，就是無法解決（備註：我滿感謝零售店的電腦專員，他們有認真幫我解決，雖然無效，但最終給了找出解答的方向）&lt;/p&gt;
+&lt;h1 id=&#34;解方&#34;&gt;解方&lt;/h1&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

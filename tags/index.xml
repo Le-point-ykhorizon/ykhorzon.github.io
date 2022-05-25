@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on YKhorizon</title>
+    <link>https://ykhorzon.github.io/tags/</link>
+    <description>Recent content in Tags on YKhorizon</description>
+    <image>
+      <url>https://ykhorzon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ykhorzon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 03 May 2022 11:43:25 +0800</lastBuildDate><atom:link href="https://ykhorzon.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>scrum</title>
+      <link>https://ykhorzon.github.io/tags/scrum/</link>
+      <pubDate>Tue, 03 May 2022 11:43:25 +0800</pubDate>
+      
+      <guid>https://ykhorzon.github.io/tags/scrum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>team-building</title>
+      <link>https://ykhorzon.github.io/tags/team-building/</link>
+      <pubDate>Fri, 26 Oct 2018 11:54:01 +0800</pubDate>
+      
+      <guid>https://ykhorzon.github.io/tags/team-building/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>agile</title>
+      <link>https://ykhorzon.github.io/tags/agile/</link>
+      <pubDate>Sun, 13 Aug 2017 15:42:18 +0800</pubDate>
+      
+      <guid>https://ykhorzon.github.io/tags/agile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>talk</title>
+      <link>https://ykhorzon.github.io/tags/talk/</link>
+      <pubDate>Sun, 13 Aug 2017 15:42:18 +0800</pubDate>
+      
+      <guid>https://ykhorzon.github.io/tags/talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>academic</title>
+      <link>https://ykhorzon.github.io/tags/academic/</link>
+      <pubDate>Fri, 30 Jun 2017 19:38:15 +0800</pubDate>
+      
+      <guid>https://ykhorzon.github.io/tags/academic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>writing</title>
+      <link>https://ykhorzon.github.io/tags/writing/</link>
+      <pubDate>Fri, 30 Jun 2017 19:38:15 +0800</pubDate>
+      
+      <guid>https://ykhorzon.github.io/tags/writing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>desing-thinking</title>
+      <link>https://ykhorzon.github.io/tags/desing-thinking/</link>
+      <pubDate>Sun, 25 Jun 2017 00:15:22 +0800</pubDate>
+      
+      <guid>https://ykhorzon.github.io/tags/desing-thinking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concept</title>
+      <link>https://ykhorzon.github.io/tags/concept/</link>
+      <pubDate>Sat, 15 Apr 2017 18:17:50 +0000</pubDate>
+      
+      <guid>https://ykhorzon.github.io/tags/concept/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning</title>
+      <link>https://ykhorzon.github.io/tags/reinforcement-learning/</link>
+      <pubDate>Sat, 15 Apr 2017 18:17:50 +0000</pubDate>
+      
+      <guid>https://ykhorzon.github.io/tags/reinforcement-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Course</title>
+      <link>https://ykhorzon.github.io/tags/course/</link>
+      <pubDate>Mon, 03 Oct 2016 15:28:47 +0000</pubDate>
+      
+      <guid>https://ykhorzon.github.io/tags/course/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>English</title>
+      <link>https://ykhorzon.github.io/tags/english/</link>
+      <pubDate>Mon, 03 Oct 2016 15:28:47 +0000</pubDate>
+      
+      <guid>https://ykhorzon.github.io/tags/english/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Language</title>
+      <link>https://ykhorzon.github.io/tags/language/</link>
+      <pubDate>Mon, 03 Oct 2016 15:28:47 +0000</pubDate>
+      
+      <guid>https://ykhorzon.github.io/tags/language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>math</title>
+      <link>https://ykhorzon.github.io/tags/math/</link>
+      <pubDate>Sun, 11 Sep 2016 11:58:16 +0000</pubDate>
+      
+      <guid>https://ykhorzon.github.io/tags/math/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>statistics</title>
+      <link>https://ykhorzon.github.io/tags/statistics/</link>
+      <pubDate>Sun, 11 Sep 2016 11:58:16 +0000</pubDate>
+      
+      <guid>https://ykhorzon.github.io/tags/statistics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

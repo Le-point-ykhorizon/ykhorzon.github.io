@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>YKhorizon</title>
+    <link>https://ykhorzon.github.io/</link>
+    <description>Recent content on YKhorizon</description>
+    <image>
+      <url>https://ykhorzon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ykhorzon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 03 May 2022 11:43:25 +0800</lastBuildDate><atom:link href="https://ykhorzon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2022 LESS in Action Part 1</title>
+      <link>https://ykhorzon.github.io/2022-less-in-action/</link>
+      <pubDate>Tue, 03 May 2022 11:43:25 +0800</pubDate>
+      
+      <guid>https://ykhorzon.github.io/2022-less-in-action/</guid>
+      <description>Team formation  Organize a feature team instead of component team Expect cross-functional team member Define your own aspect for diversity (e.g. personality type, professional skill set, domain knowledge, soft skill set) Expect highly-diversity team  Practice List team aspect:
+  Professional skill set
+ RD: backend, frontend, mobile, embedded system, DevOps, performancce geek(algorithm), network, security UX, UI, PO, Data anayltic (Or Data scientist Or BI)    Personality</description>
+    </item>
+    
+    <item>
+      <title>Organization design is a choose from systems thinking aspect</title>
+      <link>https://ykhorzon.github.io/post/softskill_agile/designing_organization_is_a_choose/</link>
+      <pubDate>Fri, 26 Oct 2018 11:54:01 +0800</pubDate>
+      
+      <guid>https://ykhorzon.github.io/post/softskill_agile/designing_organization_is_a_choose/</guid>
+      <description>Notice
+ If your team is less than 10 people, the major factor of team is most about individual ability and skill instead of designing organization. However, when you are in a large team (&amp;gt;30 or more), organization design play a critical role to efficiency.
+ Viewpoint
+  From a viewpoint of new gradated student(me), I summarized few points which impressed me.   1. All about objectives  Every design(specifically means organization) should sets clear main objective and secondary objective.</description>
+    </item>
+    
+    <item>
+      <title>Full Stack DevOps Engineer?</title>
+      <link>https://ykhorzon.github.io/post/softskill_agile/devops_experience/</link>
+      <pubDate>Sun, 13 Aug 2017 15:42:18 +0800</pubDate>
+      
+      <guid>https://ykhorzon.github.io/post/softskill_agile/devops_experience/</guid>
+      <description>Speaker
+ Feng  Warnings
+ The following content is sythesised with talkings and my experience  Photo of Event History Diverge and Converge The speaker shared about the evolution of software developing. If we looked back the history of software developing, all the requirement and architecture is simple. When complexity of application is increasing, developing team can not afford task of operations any more,such as loading balance and performance tuning.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://ykhorzon.github.io/about/me/</link>
+      <pubDate>Sat, 15 Jul 2017 16:19:13 +0800</pubDate>
+      
+      <guid>https://ykhorzon.github.io/about/me/</guid>
+      <description>Who am I? My name is yk.horizon. I do programming, write article, listen to music and play guitar.
+I&amp;rsquo;m also interested in some topics:
+ Agriculture in Future Product and innovation  Contacts  Twitter Github Linkedin Gmail: ykhorizon.light at gmail.com  </description>
+    </item>
+    
+    <item>
+      <title>A Overview Glance of Academic Writing</title>
+      <link>https://ykhorzon.github.io/post/english/a_overview_glance_of_academic_writing/</link>
+      <pubDate>Fri, 30 Jun 2017 19:38:15 +0800</pubDate>
+      
+      <guid>https://ykhorzon.github.io/post/english/a_overview_glance_of_academic_writing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design Thinking Refresh From Scenario Lab (Taiwan) </title>
+      <link>https://ykhorzon.github.io/post/softskill_product/design_thinking/design-thinking-refresh-from-scenario-lab-presentation/</link>
+      <pubDate>Sun, 25 Jun 2017 00:15:22 +0800</pubDate>
+      
+      <guid>https://ykhorzon.github.io/post/softskill_product/design_thinking/design-thinking-refresh-from-scenario-lab-presentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo Section with Layout</title>
+      <link>https://ykhorzon.github.io/post/static_site_blog/hugo/hugo_section_and_template/</link>
+      <pubDate>Thu, 15 Jun 2017 15:24:40 +0800</pubDate>
+      
+      <guid>https://ykhorzon.github.io/post/static_site_blog/hugo/hugo_section_and_template/</guid>
+      <description>Opening Image image source
+ Try to organize your stuff.
+ Purposes  Learn section idea with layout assignment Meaning of hugo type and layout keyword front matter in .md Meaning of hugo archetype  Hugo Section Idea In hugo, every folder under content we call it a &amp;ldquo;section&amp;rdquo;. You have to organize your file in your own way that can reduce the extra configuration for hugo.
+ It&amp;rsquo;s a great design idea!</description>
+    </item>
+    
+    <item>
+      <title>Introduction to reinforcement learning</title>
+      <link>https://ykhorzon.github.io/post/cs_math_related/rl/introduction-to-reinforcement-learning/</link>
+      <pubDate>Sat, 15 Apr 2017 18:17:50 +0000</pubDate>
+      
+      <guid>https://ykhorzon.github.io/post/cs_math_related/rl/introduction-to-reinforcement-learning/</guid>
+      <description>Learning is driven by reward
+ What will you get in this article  Basic concept of reinforcement learning  Outline Concept In many scenario, real world problems do not exist the ground true answer. The supervised learning could not handle this problem.
+But we can use trial and error to get the answer then calibrate our behavior. The key concept is reward from environment. That is also the way human learning new thing.</description>
+    </item>
+    
+    <item>
+      <title>English Resume Writing Course1</title>
+      <link>https://ykhorzon.github.io/post/english/english-resume-writing-course1/</link>
+      <pubDate>Tue, 04 Oct 2016 13:19:42 +0000</pubDate>
+      
+      <guid>https://ykhorzon.github.io/post/english/english-resume-writing-course1/</guid>
+      <description>Job Search Writing - Resume and Application Letter 每年更新 工作履歷
+Interesting Story  Instructor: PJ Haung No English name. ( Due to the identity consideration )  Course Special Service 10/18, 15:30~17:20 Personal Discussing 10/14, Before 12:00 Sending resume to wrting center TA email
+Why we need resume?   To find out a lot about you in short time
+  &amp;ldquo;You will never have second chance to leave your first impression.</description>
+    </item>
+    
+    <item>
+      <title>Academic writing for graduate student 3</title>
+      <link>https://ykhorzon.github.io/post/english/academic-writing-for-graduate-student-3/</link>
+      <pubDate>Mon, 03 Oct 2016 15:28:47 +0000</pubDate>
+      
+      <guid>https://ykhorzon.github.io/post/english/academic-writing-for-graduate-student-3/</guid>
+      <description>Master&amp;rsquo;s thesis
+Doctoral thesis / Dissertation (Dr.)
+Presentation Flow of ideas is good &amp;gt;= grammar errors
+ Does the information flow in an expected manner Consider the overall format of your written work Proofread for grammatical accuracy. Check for misspelled words, even if you have spell-checked your work   Writing in a formal academic style Being cautious about generalizations Using references to support your points Reevaluating the work of authorities in the field Expressing enthusiasm and commitment (wrong, use may and lift some room)  Chapter 2 : General-Specific Purpose the structure of these texts involves movement from broader statements to more specific ones.</description>
+    </item>
+    
+    <item>
+      <title>Academic Writing for Graduate Student 0</title>
+      <link>https://ykhorzon.github.io/post/english/academic-writing-for-graduate-student-0/</link>
+      <pubDate>Sun, 02 Oct 2016 11:57:00 +0000</pubDate>
+      
+      <guid>https://ykhorzon.github.io/post/english/academic-writing-for-graduate-student-0/</guid>
+      <description>Prefix The following content is excerpted from &amp;ldquo;Academic Writing for Graduate Student, Essential Tasks and Skills, 3rd Edition&amp;rdquo;
+How to write a article  Audience Purpose organization style flow presentation  Audience  like a textbook (instructorial) display (to those more knowledgable )  Style academic style differs from one area of study to another
+formal language for academic passive voice
+Avoiding Example: stuff, things, a bit, bunch, or a whole lot of (They may also use elaborate metaphors and other vivid expressions to enliven their speaking style.</description>
+    </item>
+    
+    <item>
+      <title>Academic Writing for Graduate Student 2</title>
+      <link>https://ykhorzon.github.io/post/english/academic-writing-for-graduate-student-2/</link>
+      <pubDate>Mon, 26 Sep 2016 17:38:46 +0000</pubDate>
+      
+      <guid>https://ykhorzon.github.io/post/english/academic-writing-for-graduate-student-2/</guid>
+      <description>Avoid Nominalization
+try not to use nouns
+Avoid
+ abstraction nouns (-ence, -tion &amp;hellip;etc) emtpy verb (make, cause, do) emtpy nonus (there )   Let the verb do the works
+ Example:
+The police conducted an investigation(X) into the matter =&amp;gt; The police investigated into the matter
+Tips: DAR  Diagnose Analyize Rewrite  </description>
+    </item>
+    
+    <item>
+      <title>Academic Writing for Graduate Student 1</title>
+      <link>https://ykhorzon.github.io/post/english/academic-writing-for-graduate-student-1/</link>
+      <pubDate>Mon, 26 Sep 2016 15:39:44 +0000</pubDate>
+      
+      <guid>https://ykhorzon.github.io/post/english/academic-writing-for-graduate-student-1/</guid>
+      <description>Flow textbook P30
+  Transitional phrase, Ex: moreover, furthermore, however &amp;hellip;&amp;hellip;etc
+  ___, thus Ving (?)-
+  This/These, P43
+  For exmaple/instance
+  Odd-to-new information flow
+flow - moving from one statement in a text to the next. Establishing a clear connection of ideas is important to help your reader follow the text
+  Flow by transitional phrase P30 Example :
+Paragraph
+{% asset_img 2016-09-26-academic-writing-for-graduate-student-1/paragraph.</description>
+    </item>
+    
+    <item>
+      <title>Statistics and Data Analysis for Engineers part 1</title>
+      <link>https://ykhorzon.github.io/post/cs_math_related/statistics-and-data-analysis-for-engineers-part-1/</link>
+      <pubDate>Sun, 11 Sep 2016 11:58:16 +0000</pubDate>
+      
+      <guid>https://ykhorzon.github.io/post/cs_math_related/statistics-and-data-analysis-for-engineers-part-1/</guid>
+      <description>Purpose  This is a personal notes to organize the knowledge Pick up basic statistics concept to  Explore more deeply in statistics Support my research    Target Audience For those who do not take statistics course before
+Article Structure @( use xmind as map of this article )
+Content start!
+Basic Concepts What is statistics? Statistics is the science of collecting, analyzing, interpreting, and presenting (numerical) data. Population V.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>cs/reinforcement-learning on YKhorizon</title>
+    <link>https://ykhorzon.github.io/categories/cs/reinforcement-learning/</link>
+    <description>Recent content in cs/reinforcement-learning on YKhorizon</description>
+    <image>
+      <url>https://ykhorzon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ykhorzon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://ykhorzon.github.io/categories/cs/reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction to reinforcement learning</title>
+      <link>https://ykhorzon.github.io/post/cs_math_related/rl/introduction-to-reinforcement-learning/</link>
+      <pubDate>Sat, 15 Apr 2017 18:17:50 +0000</pubDate>
+      
+      <guid>https://ykhorzon.github.io/post/cs_math_related/rl/introduction-to-reinforcement-learning/</guid>
+      <description>Learning is driven by reward
+ What will you get in this article  Basic concept of reinforcement learning  Outline Concept In many scenario, real world problems do not exist the ground true answer. The supervised learning could not handle this problem.
+But we can use trial and error to get the answer then calibrate our behavior. The key concept is reward from environment. That is also the way human learning new thing.</description>
+    </item>
+    
+  </channel>
+</rss>

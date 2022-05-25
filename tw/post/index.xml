@@ -1,0 +1,733 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on YKhorizon</title>
+    <link>https://ykhorzon.github.io/tw/post/</link>
+    <description>Recent content in Posts on YKhorizon</description>
+    <image>
+      <url>https://ykhorzon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ykhorzon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 29 Sep 2019 00:38:40 +0800</lastBuildDate><atom:link href="https://ykhorzon.github.io/tw/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>你現在位於何處？理財第一步，不是記帳，而是計算淨值</title>
+      <link>https://ykhorzon.github.io/tw/post/finance/first_step_of_finance_management/</link>
+      <pubDate>Sun, 29 Sep 2019 00:38:40 +0800</pubDate>
+      
+      <guid>https://ykhorzon.github.io/tw/post/finance/first_step_of_finance_management/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;blockquote&gt;
+&lt;p&gt;當你有一個裝滿零錢的撲滿，你能一目了然有多少錢。
+但如果有人問你，目前的你財務狀況如何？或換個新聞上常用的方式說，你目前身價多少？你是否可以立刻回答出來呢？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;理財的第一步為什麼是計算淨值&#34;&gt;理財的第一步，為什麼是【計算淨值】?&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;• 許多人說理財的第一步是記帳，但我不這麼認為
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;【記帳】是關注每月現金流、支出，可以知道你的錢花費去哪，錢從哪裡近到口袋，卻無法完全觀察你的財務全貌。此外，【記帳】並不是容易，需要毅力和養成習慣，不建議一開始就選擇這麼困難的任務，從記帳做起會機會演變成【出門就跌倒】，一失敗就打消管理財務的念頭。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Agile Summit 2019 Day1 - 敏捷心體技</title>
+      <link>https://ykhorzon.github.io/tw/post/softskill_agile/agile_summit_2019_day1_review/</link>
+      <pubDate>Thu, 16 May 2019 22:36:09 +0800</pubDate>
+      
+      <guid>https://ykhorzon.github.io/tw/post/softskill_agile/agile_summit_2019_day1_review/</guid>
+      <description>&lt;h2 id=&#34;myths-and-patterns-of-organizational-change---linda-rising&#34;&gt;Myths and Patterns of Organizational Change - Linda Rising&lt;/h2&gt;
+&lt;p&gt;現場聆聽 Linda rising 的演講後，真正感受到大師的說故事功力，語調沉穩堅定，內容句句切入基本功，淺顯易懂說明了 Agile mindset 的核心觀念與輔助觀念。&lt;/p&gt;
+&lt;p&gt;1.Agile mindset(我自己認為是 agile 核心的精神，最容易可以向人說明的方式)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;just do it&lt;/li&gt;
+&lt;li&gt;small success&lt;/li&gt;
+&lt;li&gt;Baby step&lt;/li&gt;
+&lt;li&gt;time to reflection&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;2.Story over facts&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;你一定遇過一種人，他/她跟你說話【只會】實事求是，說數據講道理，常常讓你聽不下去，覺得很難溝通，但總是說不出問題出在哪裡。Linda 提醒我們【發揮引響力需要先與人建立連結】，而故事就是你與對方連結(connection)一種很好的方式。&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Windows 10 home 升級 pro 受難計</title>
+      <link>https://ykhorzon.github.io/tw/post/windows/upgrade_lenovo_t480s_from_win10_home_to_pro/</link>
+      <pubDate>Sun, 21 Apr 2019 17:59:16 +0800</pubDate>
+      
+      <guid>https://ykhorzon.github.io/tw/post/windows/upgrade_lenovo_t480s_from_win10_home_to_pro/</guid>
+      <description>&lt;h1 id=&#34;事出有因&#34;&gt;事出有因&lt;/h1&gt;
+&lt;p&gt;當初在購買新的筆電時，迫於各種無奈之下，就挑選了 lenovo T480s 並安裝 windows 10，
+但因為一時不察，想說應該安裝『家用版就足夠了』，必沒有遠端和加密的需求，當時也有看到微軟有自己的虛擬化 hyper-v ，想說 virtualbox 就足夠了，天知道買來用兩天就發現，要執行 docker 必須要專業版（對 hyper-v 有依賴）。這下驢了，當初只有加 1500元 就可買到專業版，這下必須花至少 3000元才能從家用版升級到專業版&lt;/p&gt;
+&lt;h1 id=&#34;波折&#34;&gt;波折&lt;/h1&gt;
+&lt;p&gt;當時決定去一般零售店購買 window 10 專業版，就購買了專業版（隨機版，幫定電腦/筆電主機板，無法轉移授權到其他機器）
+買回來發現直接輸入金鑰，竟然無效！求助 lenovo 客服、微軟客服、零售店的電腦專員，不是踢皮球，就是無法解決（備註：我滿感謝零售店的電腦專員，他們有認真幫我解決，雖然無效，但最終給了找出解答的方向）&lt;/p&gt;
+&lt;h1 id=&#34;解方&#34;&gt;解方&lt;/h1&gt;</description>
+    </item>
+    
+    <item>
+      <title>Javascript 中 Import 和 Export</title>
+      <link>https://ykhorzon.github.io/tw/post/cs_programming_web_frontend/javascript_import_export/</link>
+      <pubDate>Thu, 04 Apr 2019 00:25:56 +0800</pubDate>
+      
+      <guid>https://ykhorzon.github.io/tw/post/cs_programming_web_frontend/javascript_import_export/</guid>
+      <description>default named named import 的意思是指『export 時的 variable/function 已經被命名，無法在 import 時重新取名』;如果在 import 時改名將會有 error ，確保 variable/function 保持原本的名字。
+ Named exports are useful to export several values. During the import, it is mandatory to use the same name of the corresponding object.
+ 1 2 3 4 5 6 7 8 9 10 11 12  // utility.js function parseLogs() { // implementation } function generateLogs() { // implementation } export { parseLogs, generateLogs }; // main.</description>
+    </item>
+    
+    <item>
+      <title>ubnutu 中安裝設定 nfs server</title>
+      <link>https://ykhorzon.github.io/tw/post/cs_linux_related/nfs_server_setup/</link>
+      <pubDate>Wed, 20 Feb 2019 22:41:03 +0800</pubDate>
+      
+      <guid>https://ykhorzon.github.io/tw/post/cs_linux_related/nfs_server_setup/</guid>
+      <description>紀錄一下，今天安裝 nfs server 的過程，中間受到別人幫助，從中學到很多
+使用動機 Web frontend 的在本機完成(host, windows 10)，開發完成後的 production code 要 deploy 到 embedded system 與後端 cgi 對接，但如果每次開都要 ssh 或 telnet 進 embedded system 更新 prodcution code 太麻煩，更何況 embbeded system 不一定有裝 git 或其傳輸檔案的方式，因此需要一種同步資料的方式，就是這次用到 nfs protocal (network file system)。
+(P.S. 鳥哥 linux 有 nfs 很詳細的介紹)
+情境 大致上的狀況如上面這圖，再來就是如何安裝設定。 image source
+安裝與設定 1.在 ubuntu 中安裝 nfs server 可參考這篇文章 Install NFS Server and Client on Ubuntu 18.04 LTS VITUX 的步驟
+sudo apt-get update sudo apt install nfs-kernel-server sudo mkdir -p [/path/to/shared/folder] sudo chown nobody:nogroup [/path/to/shared/folder] sudo chmod [/path/to/shared/folder] 2.</description>
+    </item>
+    
+    <item>
+      <title>[持續更新] C/C&#43;&#43; 常見面試問題統整</title>
+      <link>https://ykhorzon.github.io/tw/post/cs_programming/c_and_cplusplus/interview_problem_summary/</link>
+      <pubDate>Sun, 23 Dec 2018 08:47:03 +0800</pubDate>
+      
+      <guid>https://ykhorzon.github.io/tw/post/cs_programming/c_and_cplusplus/interview_problem_summary/</guid>
+      <description>本文章有，共同編輯與時常更新的版本，會寫在 hackmd 上面
+ https://hackmd.io/pWi7pgvISWSSjZN0HOYLGg  C 語言 Pointer Pointer of variable  A variable hold the address (一個指向某個儲存位址的變數)  Example:
+int val = 10; int * prt = &amp;amp;val 詳細可以參考 Mr. Open Gate 的文章 C/C++ - 常見 C 語言觀念題目總整理（適合考試和面試）
+Array and Pointer 的關係 在 C 語言中，處理字串一定會牽扯到 char pointer ，在基礎處理上要很注意
+ https://www.geeksforgeeks.org/difference-pointer-array-c/ https://www.geeksforgeeks.org/pointer-vs-array-in-c/  Function Pointer  設計目的：  can be used to simplify code by providing a simple way to select a function to execute based on run-time values.</description>
+    </item>
+    
+    <item>
+      <title>風水寶地 — Agile Tour HsinChu 2018 心得</title>
+      <link>https://ykhorzon.github.io/tw/post/softskill_agile/agile_hsinchu_tour_2018_review/</link>
+      <pubDate>Sun, 09 Dec 2018 16:33:59 +0800</pubDate>
+      
+      <guid>https://ykhorzon.github.io/tw/post/softskill_agile/agile_hsinchu_tour_2018_review/</guid>
+      <description>&lt;h2 id=&#34;起源&#34;&gt;起源&lt;/h2&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;過去參加過 design thinking workshop 花費不少鈔票，對過去身為學生的我來說，是一筆不小的金額，但對我的影響非常深遠，讓我瞭解更多除了工程技術視野以外的世界。&lt;/p&gt;
+&lt;p&gt;因此，我特別注意軟實力的分享與聚會，剛好在新竹在地唸書這段時間，無意見發現了三叔公的敏捷社群，我的直覺告訴我，這些聚會分享都是很有價值，在外面上課程要花費不少鈔票，可遇不可求；在很多一般技術社群中，要遇到類似性質內容更是困難。&lt;/p&gt;
+&lt;p&gt;每個月舉辦各種軟實力的內容之豐富，如產品探索、服務設計、敏捷導入、開發測試&amp;hellip;&amp;hellip;etc，我也因此參加了四次 Agile Tour HsinChu，可說是上好上滿XD，&lt;strong&gt;對我來說就像是挖到『風水寶地』一般，可以源源不絕得探索各種領域，處處都有寶藏&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;在這次 Agile Tour HsincChu 中，印象比較深刻的內容，大多是故事性比較強，引人入勝讓人不目轉睛，又或者是 workshop 這類互動性強，有實際動手和小組一起討論的活動，讓人記憶點特別深刻！&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Roland Octa Capture interface 在 MacOS 環境設定</title>
+      <link>https://ykhorzon.github.io/tw/post/music_audio_engineering/learn_to_play_with_roland_octa_capture/</link>
+      <pubDate>Thu, 06 Dec 2018 16:54:20 +0800</pubDate>
+      
+      <guid>https://ykhorzon.github.io/tw/post/music_audio_engineering/learn_to_play_with_roland_octa_capture/</guid>
+      <description>&lt;h2 id=&#34;關於常見的線材&#34;&gt;關於常見的線材&lt;/h2&gt;
+&lt;p&gt;3.5mm TRS(一般耳機孔), 6.3mm TRS, XLR(Cannon頭)&lt;/p&gt;
+&lt;p&gt;References&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jacksonlin.net/20170516-xlr-mono-or-stereo/&#34;&gt;深入XLR，單聲道? 雙聲道?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cool3c.com/article/87281&#34;&gt;[音響研究室] 音響插頭一點也不複雜！記住這五種插頭，你的音響之路就又進一大步啦！&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jacksonlin.net/20170512-xlr-trs-jack-48v/&#34;&gt;常見的音訊接頭，有何講究?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;關於-octa-capture&#34;&gt;關於 Octa-Capture&lt;/h2&gt;
+&lt;p&gt;這台的特色：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;input 1~2 可以設定 high-impedance(Hi-z) ，針對電吉他 direct line-in&lt;/li&gt;
+&lt;li&gt;input 1~8 都有幻象電源 48v Phantom power&lt;/li&gt;
+&lt;li&gt;有 auto-sensing 的功能&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>一場深度跨領域交流的探險 — Agile Tour Taipei 2018 心得(下)</title>
+      <link>https://ykhorzon.github.io/tw/post/softskill_agile/agile_taipei_tour_2018_review2/</link>
+      <pubDate>Sun, 02 Dec 2018 00:17:44 +0800</pubDate>
+      
+      <guid>https://ykhorzon.github.io/tw/post/softskill_agile/agile_taipei_tour_2018_review2/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    
+    <item>
+      <title>一場深度跨領域交流的探險 — Agile Tour Taipei 2018 心得(上)</title>
+      <link>https://ykhorzon.github.io/tw/post/softskill_agile/agile_taipei_tour_2018_review1/</link>
+      <pubDate>Sat, 01 Dec 2018 22:54:04 +0800</pubDate>
+      
+      <guid>https://ykhorzon.github.io/tw/post/softskill_agile/agile_taipei_tour_2018_review1/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;h2 id=&#34;探險&#34;&gt;探險&lt;/h2&gt;
+&lt;p&gt;今年是第一次搶到票，參加 Agile Tour Taipei 盛會，會說是『一場深度跨領域交流的探險』來自於A,B,C Track 分別是探討的issue是 Product、Dev/Test、UX，可說是三個願望一次滿足，讓我的選擇困難症完全發作，好想同時聽三軌呀呀。同時，一次匯聚三種群體到一場研討會中，更能激發豐富的討論，探索不同觀點的價值，讓對話能夠突破各自熟悉的同溫層，說是一場探險一點也不為過！&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>從『讓李小龍你看見 Kanban 的美好』到改進我的 Personal Kanban - Part I kanban 觀念釐清</title>
+      <link>https://ykhorzon.github.io/tw/post/softskill_agile/agile_kanban_bruce_lee_part_i/</link>
+      <pubDate>Sat, 18 Aug 2018 17:46:11 +0800</pubDate>
+      
+      <guid>https://ykhorzon.github.io/tw/post/softskill_agile/agile_kanban_bruce_lee_part_i/</guid>
+      <description>&lt;h1 id=&#34;文章要點&#34;&gt;文章要點&lt;/h1&gt;
+&lt;p&gt;文章主要分成&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;第一篇 Part I 是『讓李小龍你看見 Kanban 的美好』的統整和心得，參雜一些個人的解釋&lt;/li&gt;
+&lt;li&gt;第二篇 Part II 則是我嘗試使用學習到的kanban觀念，改進我的『個人看板』（尚未完成）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;kanban-簡介&#34;&gt;Kanban 簡介&lt;/h1&gt;
+&lt;p&gt;如果你上網搜尋 Kanban 可能會出現，兩種最常見的解釋，其一是&lt;a href=&#34;https://en.wikipedia.org/wiki/Kanban&#34;&gt;豐田生產模式的 kanban&lt;/a&gt; ，發明人為&lt;a href=&#34;https://en.wikipedia.org/wiki/Taiichi_Ohno&#34;&gt;大野耐一&lt;/a&gt;，致力於工廠生產效率改善；其二為應用於&lt;a href=&#34;https://en.wikipedia.org/wiki/Kanban_(development)&#34;&gt;軟體流程開發的 Kanban (Development)&lt;/a&gt;，此方法著名得提倡者 &lt;a href=&#34;https://www.linkedin.com/in/agilemanagement/&#34;&gt;David J. Anderson&lt;/a&gt;，他是微軟導入 kanban 方法等敏捷方法的先驅，解救微軟績效不佳的支援部門，設法尋找一套方法讓部門問題自然浮現；早期著名著作有 &lt;a href=&#34;https://www.amazon.com/Kanban-Successful-Evolutionary-Technology-Business/dp/0984521402&#34;&gt;Kanban: Successful Evolutionary Change for Your Technology Business&lt;/a&gt;。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Personal Kanban 實踐後的第一次檢討</title>
+      <link>https://ykhorzon.github.io/tw/post/softskill_workflow/personal_workflow/</link>
+      <pubDate>Fri, 03 Aug 2018 23:37:51 +0800</pubDate>
+      
+      <guid>https://ykhorzon.github.io/tw/post/softskill_workflow/personal_workflow/</guid>
+      <description>&lt;h1 id=&#34;文章要點&#34;&gt;文章要點&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Personal Kanban 使你專注於少數的焦點（重要的事務），並提供一種視覺化的機制，易於凸顯出執行效率上的問題，便於改善與優化&lt;/li&gt;
+&lt;li&gt;但實際在個人工作使用中，會遭遇什麼問題？在本文章中會告訴大家遭遇的問題，嘗試提出應對方案&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>外傷處理與藥物過敏經驗</title>
+      <link>https://ykhorzon.github.io/tw/post/life/health/drug_allergy_skin_rash/</link>
+      <pubDate>Sun, 03 Jun 2018 23:39:09 +0800</pubDate>
+      
+      <guid>https://ykhorzon.github.io/tw/post/life/health/drug_allergy_skin_rash/</guid>
+      <description>&lt;h1 id=&#34;警告與提醒&#34;&gt;警告與提醒&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;1. 本文章有傷口過敏之畫面，可能會令人感到不舒服、噁心，自行斟酌是否要觀看&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;2. 我沒有醫療相關背景與知識，單純是把就醫過程和經驗統整；每個人的傷口狀況不同，我的經驗不一定和你一樣，因此個人的傷口狀況還是請依照專業醫師建議處理&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;皮肉傷意外&#34;&gt;皮肉傷意外&lt;/h1&gt;
+&lt;p&gt;五月中某一天，我從宿舍騎著腳踏車返回實驗室的途中，宿舍道路有一區是校狗常駐的地盤，以往經常看到汽機車經過時被狗吠，甚至是追趕的情形，但沒想到有一天竟然是換我被追；這一追，行駛到一半到的我被嚇到，不小心讓肩上的背包捲入前輪，車子後輪騰空翻起，重重把我和車身摔到柏油路上，痛的我當場躺在地上動彈不得，東西也散落一地，十分狼狽。我的手肘與手掌背多出擦傷，右手手肘先著地造成劇烈的疼痛，但因為還有任務在身，忍痛辦完事情找人求，前往醫院急診就醫。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;[重要] 傷口一定要在第一時間清理乾淨，最好是前往外科處理，避免後續感染與阻礙傷口復原！&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;自行處理傷口很多時候不夠徹底，建議還時就醫&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;一到外科，護士幫我清理傷口，並拍攝X光，醫師診斷後確定沒有骨折，我心中的大石頭才放下，心想只要幾個星期忍受傷口的疼痛，克服肌肉痠痛與瘀青就可以康復，可喜可賀，可以放心回家了！但是事情真的那麼簡單，那你就錯了&amp;hellip;&amp;hellip;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>硬體開發流程與計畫管理 for Startup Part II: 硬體開發流程中的陷阱</title>
+      <link>https://ykhorzon.github.io/tw/post/softskill_startup/hw_development_for_startup_part2/</link>
+      <pubDate>Fri, 04 May 2018 19:08:57 +0800</pubDate>
+      
+      <guid>https://ykhorzon.github.io/tw/post/softskill_startup/hw_development_for_startup_part2/</guid>
+      <description>&lt;h1 id=&#34;startup-硬體開發遭遇什麼陷阱&#34;&gt;Startup 硬體開發遭遇什麼陷阱？&lt;/h1&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://ykhorzon.github.io/content_img/hw_development_for_startup_part2/trap.jpg&#34; alt=&#34;&#34;  /&gt;
+
+&lt;a href=&#34;https://www.pexels.com/photo/close-up-finger-hurt-pain-433625/&#34;&gt;https://www.pexels.com/photo/close-up-finger-hurt-pain-433625/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;想像一下，你是一名新創公司的頭號工程師，公司沒有資源（缺錢、缺人），又正在開發沒人做過的產品，沒有所謂的類似產品可以參考，
+一切從零開始打造。新創公司與成熟公司最大差異，新創公司沒有前人累積的軟硬體、經驗與工具，可以借助節省開發，減少走冤枉路的時間，
+也就是 &lt;strong&gt;Not much to leverage&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;what is &lt;a href=&#34;http://mrjamie.cc/2013/06/03/good-strategy-leverage/&#34;&gt;leverage&lt;/a&gt;?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;code&gt;from Mr. Jamie, 創業 CEO：好策略用「支點」撐起地球&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;更糟的是，你的產品牽扯到硬體生產，硬體不像是軟體，只需要電腦開發與運行程式的裝置就可以；硬體製造牽扯到各種物理限制與考量，不是東西可以動就好；硬體產品不可能完全倚靠自己的公司生產，為了降低生產成本，勢必需要尋找配合的製造廠商，這又是另一個大陷阱。此外，當你的產品需要賣到不同國家，又牽扯各國的認證等等。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;所以在硬體製造上，有哪些陷阱可以事先避免呢？&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>硬體開發流程與計畫管理 for Startup Part I: 硬體開發流程</title>
+      <link>https://ykhorzon.github.io/tw/post/softskill_startup/hw_development_for_startup_part1/</link>
+      <pubDate>Sat, 28 Apr 2018 23:43:06 +0800</pubDate>
+      
+      <guid>https://ykhorzon.github.io/tw/post/softskill_startup/hw_development_for_startup_part1/</guid>
+      <description>&lt;h2 id=&#34;為什麼-span-stylecolorred軟體工程師span-需要知道-span-stylecolorblue硬體開發流程span&#34;&gt;為什麼 &lt;!-- raw HTML omitted --&gt;軟體工程師&lt;!-- raw HTML omitted --&gt; 需要知道 &lt;!-- raw HTML omitted --&gt;硬體開發流程&lt;!-- raw HTML omitted --&gt;？&lt;/h2&gt;
+&lt;p&gt;設想一下，你是一家新創公司頭號軟體工程師，公司的第一個產品是一台機器人，你完全沒摸過硬體，當你和硬體工程師要合作開發，你該怎麼辦？&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;軟體工程師對 &lt;strong&gt;硬體開發流程&lt;/strong&gt; 通常是一無所知，造成與硬體工程師（機構與電路）溝通產生障礙，無法理解對方的考量，造成團隊衝突。&lt;/li&gt;
+&lt;li&gt;開發過程中，軟硬體產品在軟體與硬體有部分相依性問題，尤其是在測試階段，軟硬硬體必須整合討論，才能完成完整測試。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;打破這條鴻溝的辦法是：明白對方的開發流程，理解每一個軟硬體相依性的部分，以及硬體工程師的考量，知道更多硬體工程師在想什麼，建立溝通前的情境脈絡，有助於減少溝通成本，讓合作中的問題更快浮現，找出癥結點。&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>Agile Meetup 新竹 - 系統思考工作坊 心得</title>
+      <link>https://ykhorzon.github.io/tw/post/softskill_agile/system_thinking/</link>
+      <pubDate>Tue, 16 Jan 2018 20:04:19 +0800</pubDate>
+      
+      <guid>https://ykhorzon.github.io/tw/post/softskill_agile/system_thinking/</guid>
+      <description>&lt;h1 id=&#34;outline&#34;&gt;Outline&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%AD%B8%E7%BF%92%E7%9B%AE%E6%A8%99&#34;&gt;學習目標&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%B0%A1%E4%BB%8B%E8%88%87%E5%8B%95%E6%A9%9F&#34;&gt;簡介與動機&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#system-think-%E7%B3%BB%E7%B5%B1%E6%80%9D%E8%80%83&#34;&gt;System Think 系統思考&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%B3%BB%E7%B5%B1&#34;&gt;系統&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#causal-loop-diagram-cld-%E5%9C%96%E5%83%8F%E5%8C%96-structure-of-system&#34;&gt;Causal Loop Diagram (CLD), 圖像化 Structure of System&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%A6%82%E4%BD%95%E5%BB%BA%E6%A7%8Bcld%EF%BC%9F-workshop%E5%B0%8F%E7%B5%84%E6%93%8D%E4%BD%9C%E9%81%8E%E7%A8%8B&#34;&gt;如何建構CLD？ (Workshop小組操作過程)&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#1%E6%8F%8F%E8%BF%B0%E5%95%8F%E9%A1%8C%E8%88%87%E5%AE%9A%E7%BE%A9%E4%B8%BB%E8%BB%B8&#34;&gt;1.描述問題與定義主軸&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#2%E5%B0%8B%E6%89%BE%E8%AE%8A%E6%95%B8&#34;&gt;2.尋找變數&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%BB%80%E9%BA%BC%E6%98%AF%E8%AE%8A%E6%95%B8%EF%BC%9F&#34;&gt;什麼是變數？&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%9C%98%E9%9A%8A%E6%93%8D%E4%BD%9C&#34;&gt;團隊操作&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#3%E5%BB%BA%E7%AB%8B%E9%97%9C%E8%81%AFlink&#34;&gt;3.建立關聯(link)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#4%E5%AE%8C%E6%88%90%E7%B3%BB%E7%B5%B1%E7%9A%84-cld&#34;&gt;4.完成系統的 CLD&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#41-%E5%85%88%E5%BB%BA%E7%AB%8B%E4%B8%80%E6%A2%9D%E7%B0%A1%E5%96%AE%E8%BF%B4%E5%9C%88loop&#34;&gt;4.1 先建立一條簡單迴圈(Loop)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#42-%E5%AE%8C%E6%88%90%E6%89%80%E6%9C%89%E8%BF%B4%E5%9C%88&#34;&gt;4.2 完成所有迴圈&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%BD%BF%E7%94%A8%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85&#34;&gt;使用注意事項&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%B7%B1%E5%85%A5%E4%BA%86%E8%A7%A3&#34;&gt;深入了解&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#reference&#34;&gt;Reference&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>發展你的顧客旅程-從生態系視角</title>
+      <link>https://ykhorzon.github.io/tw/post/softskill_agile/user_journay_with_ecosystem/</link>
+      <pubDate>Sat, 18 Nov 2017 19:54:37 +0800</pubDate>
+      
+      <guid>https://ykhorzon.github.io/tw/post/softskill_agile/user_journay_with_ecosystem/</guid>
+      <description>&lt;h1 id=&#34;outline&#34;&gt;Outline&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%BB%80%E9%BA%BC%E6%98%AF%E6%9C%8D%E5%8B%99%E8%A8%AD%E8%A8%88%EF%BC%9F&#34;&gt;什麼是服務設計？&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%A1%A7%E5%AE%A2%E6%97%85%E7%A8%8B-customer-journey&#34;&gt;顧客旅程 Customer Journey&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%94%9F%E6%85%8B%E7%B3%BB-ecosystem&#34;&gt;生態系 Ecosystem&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%97%A9%E9%A4%90%E5%BA%97%E6%A1%88%E4%BE%8B&#34;&gt;早餐店案例&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%97%85%E9%81%8A%E5%B9%B3%E5%AE%89%E4%BF%9D%E9%9A%AA%E6%A1%88%E4%BE%8B&#34;&gt;旅遊平安保險案例&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#workshop-%E6%B5%81%E7%A8%8B&#34;&gt;Workshop 流程&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>virtualbox 網路設定 NAT v.s. Bridge mode</title>
+      <link>https://ykhorzon.github.io/tw/post/cs_linux_related/virtualbox_nat_bridge/</link>
+      <pubDate>Fri, 17 Nov 2017 16:57:00 +0800</pubDate>
+      
+      <guid>https://ykhorzon.github.io/tw/post/cs_linux_related/virtualbox_nat_bridge/</guid>
+      <description>&lt;h1 id=&#34;outline&#34;&gt;Outline&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#scenario&#34;&gt;Scenario&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%BB%80%E9%BA%BC%E6%98%AF-nat-bridge-%E5%92%8C-host-only&#34;&gt;什麼是 NAT, Bridge 和 Host-Only?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%BB%B6%E4%BC%B8%E5%95%8F%E9%A1%8C%EF%BC%9A192168xxxxxx-%E5%92%8C-17216xxxxxx-%E6%98%AF%E4%BB%80%E9%BA%BC%E6%9D%B1%E8%A5%BF%EF%BC%8C%E4%BB%A3%E8%A1%A8%E4%BB%80%E9%BA%BC%E6%84%8F%E7%BE%A9%EF%BC%9F&#34;&gt;延伸問題：192.168.xxx.xxx 和 172.16.xxx.xxx 是什麼東西，代表什麼意義？&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%8E%A8%E8%AB%96%E4%B8%80%E4%B8%8B%EF%BC%8C%E6%88%91%E7%9A%84%E5%95%8F%E9%A1%8C%E6%98%AF%E4%BB%80%E9%BA%BC%EF%BC%9F&#34;&gt;推論一下，我的問題是什麼？&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>[影片筆記] 農作物病蟲害診斷--呂柏寬</title>
+      <link>https://ykhorzon.github.io/tw/post/agriculture/pest_disease_intro_1/</link>
+      <pubDate>Fri, 27 Oct 2017 18:38:34 +0800</pubDate>
+      
+      <guid>https://ykhorzon.github.io/tw/post/agriculture/pest_disease_intro_1/</guid>
+      <description>影片 內容摘要 物理防治 3:33
+阻隔  設施栽培 防蟲網(記得連土壤一起網住，許多昆蟲會從土壤進來) 套袋 雜草抑制蓆(隔絕害蟲到土裡)  視覺  黏板(捕蟲並最重要是監測蟲害狀態)  溫度調控 種苗使用的土壤，事先用高溫蒸汽消毒土壤 翻攪土壤，讓地下害蟲土壤到表面，讓太陽高溫殺死幼蟲
+耕作防治管理 9:00
+改善栽培環境 淹水
+ 殺死地下害蟲  作物混作
+ 適合小農地耕作  間作、輪作
+ EX: 十字花科連作病害容易嚴重  苗期管理
+ 健康的種苗  處理觀念
+ 評估的關鍵在於發現的時期，早期可以盡早治療，接近作物收成可以考慮
+ 生物防治管理 17:30
+捕食性天敵 17:46 螳螂、蜘蛛、草蛉、瓢蟲
+寄生性天敵 23:24 小繭蜂
+亞洲玉米螟 赤眼卵寄生蜂
+微生物資材 26:27 細菌
+ 蘇力菌 黑殭菌 白殭菌   Tips: 注意死亡蟲體，可以製造昆蟲感冒，將屍體打汁在噴灑，幫助散播
+  環境濕度與其他環境因子，對於微生物防治的效果影響重大
+ 真菌 病毒 線蟲</description>
+    </item>
+    
+    <item>
+      <title>蔡月夏--食用百合鱗莖有機栽培模式之建立</title>
+      <link>https://ykhorzon.github.io/tw/post/agriculture/crop/lily_bulb/</link>
+      <pubDate>Fri, 27 Oct 2017 18:38:34 +0800</pubDate>
+      
+      <guid>https://ykhorzon.github.io/tw/post/agriculture/crop/lily_bulb/</guid>
+      <description>品種
+ 四川百合(藥用) 蘭州百合(鮮食) 日本百合  長期進口量與價格統計(15年) 產量逐年降低，原因是產地病害
+栽培流程
+ 採土樣本，決定如何施灑肥料(N,P,K) 栽種密度安排  花改場：水分必須充足 農民：過水分造成草蔓生 甲殼素殺菌 必須除草 第四週之後，固定每週噴甲殼素 第 50 天 第一次追肥 5個月採收
+產出結果：
+子球半徑寬度
+適當儲存可以5個月，品質不變
+生理病害 - 葉燒病 百合灰黴病
+保存：</description>
+    </item>
+    
+    <item>
+      <title>[Codewars] Mumbling</title>
+      <link>https://ykhorzon.github.io/tw/post/cs_programming/codewars/mumbling/</link>
+      <pubDate>Thu, 26 Oct 2017 20:23:11 +0800</pubDate>
+      
+      <guid>https://ykhorzon.github.io/tw/post/cs_programming/codewars/mumbling/</guid>
+      <description>&lt;h1 id=&#34;outline&#34;&gt;Outline&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%95%8F%E9%A1%8C%E7%AF%84%E4%BE%8B&#34;&gt;問題範例&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%88%91%E7%9A%84%E5%AF%AB%E6%B3%95&#34;&gt;我的寫法&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%BB%96%E4%BA%BA%E8%A7%A3%E6%B3%95%E8%B3%9E%E6%9E%90&#34;&gt;他人解法賞析&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%AF%94%E8%BC%83%E5%B7%AE%E7%95%B0&#34;&gt;比較差異&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#linq&#34;&gt;LINQ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#stringjoin&#34;&gt;String.Join&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#stringselect-%E8%88%87-lambda-%E9%81%8B%E7%AE%97%E5%BC%8F&#34;&gt;String.Select 與 lambda 運算式&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Matplotlib 基本介紹</title>
+      <link>https://ykhorzon.github.io/tw/post/cs_programming/visualization/matplot_note/</link>
+      <pubDate>Wed, 25 Oct 2017 12:27:23 +0800</pubDate>
+      
+      <guid>https://ykhorzon.github.io/tw/post/cs_programming/visualization/matplot_note/</guid>
+      <description>&lt;h1 id=&#34;outline&#34;&gt;Outline&lt;/h1&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#outline&#34;&gt;Outline&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#introduction&#34;&gt;Introduction&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#figure&#34;&gt;Figure&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#axes&#34;&gt;Axes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#axis&#34;&gt;Axis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#artist&#34;&gt;Artist&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#matplotlib-pyplot-%E5%92%8C-pylab-%E5%82%BB%E5%82%BB%E5%88%86%E4%B8%8D%E6%B8%85%E6%A5%9A&#34;&gt;Matplotlib, pyplot 和 pylab 傻傻分不清楚&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E9%97%9C%E6%96%BC%E4%BD%BF%E7%94%A8-pyplot-%E7%9A%84-code-style&#34;&gt;關於使用 pyplot 的 code style&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#backend-%E6%98%AF%E4%BB%80%E9%BA%BC&#34;&gt;Backend 是什麼？&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#reference&#34;&gt;Reference&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    
+    <item>
+      <title>做事方法檢討 以打造個人blog為例</title>
+      <link>https://ykhorzon.github.io/tw/post/life/myself/retrospective_building_blog/</link>
+      <pubDate>Mon, 09 Oct 2017 13:40:21 +0800</pubDate>
+      
+      <guid>https://ykhorzon.github.io/tw/post/life/myself/retrospective_building_blog/</guid>
+      <description>&lt;h2 id=&#34;先說結論&#34;&gt;先說結論&lt;/h2&gt;
+&lt;h3 id=&#34;心魔1-自己硬幹出來比較-cool&#34;&gt;心魔1： 自己硬幹出來比較 Cool&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;心理層面：愛面子&lt;/li&gt;
+&lt;li&gt;傾向做有短期成就感事情（但不一定是最重要的事情）
+&lt;ul&gt;
+&lt;li&gt;自己開發一些 static site blog 的小功能&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;解藥1&lt;/strong&gt;：&lt;/p&gt;
+&lt;p&gt;達成目標才是重點，方法是其次，時常提醒自己最重的目標，浪費時間在細節，倒是進度不足或偏離軌道。&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>Google analytics 設定快速檢查</title>
+      <link>https://ykhorzon.github.io/tw/post/cs_programming_web_frontend/google_analytics_setup/</link>
+      <pubDate>Wed, 16 Aug 2017 22:29:08 +0800</pubDate>
+      
+      <guid>https://ykhorzon.github.io/tw/post/cs_programming_web_frontend/google_analytics_setup/</guid>
+      <description>設定文件  Set up Analytics tracking  手把手教，一步一步照作基本就好了   Check your web-tracking-code setup  Trouble shooting 的部分，快速確定 Google analytics 是否正常運作   Adding analytics.js to Your Site  詳細解說 analytics.js 運作    被 ADblock Plus 雷了 在設定 Google analytics 時，一直失敗無法從 report &amp;gt; real-time 看到目前的狀況，顯然是出了什麼差錯。 後來從 Chrome &amp;gt; developer tools &amp;gt; network 發現https://www.google-analytics.com/analytics.js 根本沒被載入，想說直接將網址輸入 Chrome Url bar ，才發現是 Chrome 的 plugin ADblock Plus 檔掉，關掉後就恢復正常。
+ 不夠熟悉 browser 開發環境的 debugging ，類似 java developer 不熟 eclipse 會無法快速找到問題</description>
+    </item>
+    
+    <item>
+      <title>DevOps 全棧工程師-活動心得</title>
+      <link>https://ykhorzon.github.io/tw/post/softskill_agile/devops_experience/</link>
+      <pubDate>Wed, 02 Aug 2017 12:41:57 +0800</pubDate>
+      
+      <guid>https://ykhorzon.github.io/tw/post/softskill_agile/devops_experience/</guid>
+      <description>DevOps這麼紅？到底在紅什麼？基本功又有哪些？</description>
+    </item>
+    
+    <item>
+      <title>電腦科學(Computer Science)到底在學什麼？</title>
+      <link>https://ykhorzon.github.io/tw/post/cs_math_related/experience/what_is_computer_science/</link>
+      <pubDate>Fri, 21 Jul 2017 10:35:25 +0800</pubDate>
+      
+      <guid>https://ykhorzon.github.io/tw/post/cs_math_related/experience/what_is_computer_science/</guid>
+      <description>&lt;p&gt;昨天剛好在 Facebook 程式人社團社團，看見一個準備要升大學的小朋友詢問：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;想問一件事情，我已經會寫程式。&lt;!-- raw HTML omitted --&gt;
+大學明年可以自由選系，如果不選資工選數學的話，&lt;!-- raw HTML omitted --&gt;
+會是很不明智的決定嗎?&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>類似Design Thinking的討論實戰檢討</title>
+      <link>https://ykhorzon.github.io/tw/post/softskill_product/design_thinking/practice/</link>
+      <pubDate>Thu, 29 Jun 2017 13:11:58 +0800</pubDate>
+      
+      <guid>https://ykhorzon.github.io/tw/post/softskill_product/design_thinking/practice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>日常中的世代對談 - 討論柯文哲市長 2 採取行動</title>
+      <link>https://ykhorzon.github.io/tw/post/life/daily/talk_to_the_previous_generation2/</link>
+      <pubDate>Thu, 29 Jun 2017 08:33:18 +0800</pubDate>
+      
+      <guid>https://ykhorzon.github.io/tw/post/life/daily/talk_to_the_previous_generation2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>農業模擬軟體 Survey</title>
+      <link>https://ykhorzon.github.io/tw/post/agriculture/agri_simulation/</link>
+      <pubDate>Sun, 07 May 2017 18:29:48 +0800</pubDate>
+      
+      <guid>https://ykhorzon.github.io/tw/post/agriculture/agri_simulation/</guid>
+      <description>&lt;h1 id=&#34;todo-for-contents&#34;&gt;Todo for Contents&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;分類工具&lt;/li&gt;
+&lt;li&gt;簡單敘述每個工具目的與功能&lt;/li&gt;
+&lt;li&gt;Why Case2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;引言---為什麼需要農業模擬軟體工具&#34;&gt;引言 - 為什麼需要農業模擬軟體工具?&lt;/h1&gt;
+&lt;h2 id=&#34;case1-大範圍農業---澳洲農民&#34;&gt;Case1: 大範圍農業 - 澳洲農民&lt;/h2&gt;
+&lt;p&gt;請想像一下，如果你一名澳洲的穀物耕種農民，你住在西澳洲(Western Australia)並且擁有一個 1200公頃(相當於 1237甲)的小麥&lt;/p&gt;
+&lt;p&gt;(以下數據為澳洲各省，平均每個農場的大小)&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://www.landcommodities.com/wp-content/uploads/2012/11/Comparison-of-cropping-farm-sizes-in-different-Australian-states-2011.gif&#34; alt=&#34;&#34;  /&gt;
+
+&lt;a href=&#34;http://www.landcommodities.com/&#34;&gt;http://www.landcommodities.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://www.abc.net.au/news/image/1142978-3x2-940x627.jpg&#34; alt=&#34;&#34;  /&gt;
+
+&lt;a href=&#34;http://www.abc.net.au/news/image/1142978-3x2-940x627.jpg&#34;&gt;http://www.abc.net.au/news/image/1142978-3x2-940x627.jpg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;這種規模必須用 central pivot Irrigation System(下圖為不同作物僅是示意圖)才有辦法澆水達成。在栽種過程中不可避免，需要幫植物澆水，但出動一次這種大機具，不是便宜簡單事情。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://wattsupwiththat.files.wordpress.com/2014/09/potato-crops-720-browser1.jpg&#34; alt=&#34;&#34;  /&gt;
+
+&lt;a href=&#34;https://wattsupwiththat.files.wordpress.com/2014/09/potato-crops-720-browser1.jpg&#34;&gt;https://wattsupwiththat.files.wordpress.com/2014/09/potato-crops-720-browser1.jpg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;因此 &lt;strong&gt;事先大概知道/粗略評估&lt;/strong&gt; 什麼時候這大片田地上的穀物會缺水，需要澆灌，就變成一個重要的問題。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>User Story 的那些人與那些事</title>
+      <link>https://ykhorzon.github.io/tw/post/softskill_agile/user-story-%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%BA%E8%88%87%E9%82%A3%E4%BA%9B%E4%BA%8B/</link>
+      <pubDate>Wed, 03 May 2017 10:32:13 +0800</pubDate>
+      
+      <guid>https://ykhorzon.github.io/tw/post/softskill_agile/user-story-%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%BA%E8%88%87%E9%82%A3%E4%BA%9B%E4%BA%8B/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;h1 id=&#34;序言&#34;&gt;序言&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;User Story 不只是一張卡片，是說故事與溝通需求的載體&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;從這篇文章得到&#34;&gt;從這篇文章得到&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;此篇是 User Story 實戰篇的階議題&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;心得&#34;&gt;心得&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;有使用過 User Story 經驗的人，能夠討論出真實問題，彼此切磋，討論氣氛活絡 (有一點像是 Planning Poker 分享大會)&lt;/li&gt;
+&lt;li&gt;Alway observe and find bottleneck in team ( or system or problem )&lt;/li&gt;
+&lt;li&gt;經常思考事情的dependency與前置準備，在真正要動工的時候，把需要的資源都在手上&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;what-is-user-story-&#34;&gt;What is User Story ?&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;User stories are short, simple descriptions of a feature told from the perspective of the person who desires the new capability,&amp;gt; usually a user or customer of the system.&lt;/p&gt;
+&lt;p&gt;from Mountain Goat Software&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;另一個定義&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;A user story is a tool used in Agile software development to capture a description of a software feature from an end-user perspective. The user story describes the type of user, what they want and why. A user story helps to create a simplified description of a requirement.&lt;/p&gt;
+&lt;p&gt;from TechTarget&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.mountaingoatsoftware.com/agile/user-stories&#34;&gt;Mountain Goat Software, User Stories&lt;/a&gt;
+&lt;a href=&#34;http://searchsoftwarequality.techtarget.com/definition/user-story&#34;&gt;TechTarget, User Story&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;簡短需求小卡( Card )&lt;/li&gt;
+&lt;li&gt;交談 ( Conversation )&lt;/li&gt;
+&lt;li&gt;確認 ( Confirmation )&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;特性&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;作為基底、high level&lt;/li&gt;
+&lt;li&gt;注重在價值&lt;/li&gt;
+&lt;li&gt;不要 &lt;em&gt;帶入 Spec.&lt;/em&gt; 或 &lt;em&gt;過多功能描述&lt;/em&gt; 在其中 (會限制 Solution的可能性)&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>學術英文寫作-主軸與架構</title>
+      <link>https://ykhorzon.github.io/tw/post/english/academic-writing-main-body-and-structure/</link>
+      <pubDate>Wed, 22 Mar 2017 17:12:04 +0000</pubDate>
+      
+      <guid>https://ykhorzon.github.io/tw/post/english/academic-writing-main-body-and-structure/</guid>
+      <description>&lt;p&gt;序言&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;主軸貫串全文，安排故事架構，邏輯連結論述&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;從文章中可獲得&#34;&gt;從文章中可獲得&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;學術論文撰寫的核心 - 問題主軸&lt;/li&gt;
+&lt;li&gt;論文設計架構&lt;/li&gt;
+&lt;li&gt;實驗室前輩經驗&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;目錄&#34;&gt;目錄&lt;/h1&gt;</description>
+    </item>
+    
+    <item>
+      <title>敏捷需求探索工作坊</title>
+      <link>https://ykhorzon.github.io/tw/post/softskill_agile/%E6%95%8F%E6%8D%B7%E9%9C%80%E6%B1%82%E6%8E%A2%E7%B4%A2%E5%B7%A5%E4%BD%9C%E5%9D%8A/</link>
+      <pubDate>Sun, 26 Feb 2017 23:35:22 +0000</pubDate>
+      
+      <guid>https://ykhorzon.github.io/tw/post/softskill_agile/%E6%95%8F%E6%8D%B7%E9%9C%80%E6%B1%82%E6%8E%A2%E7%B4%A2%E5%B7%A5%E4%BD%9C%E5%9D%8A/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;h1 id=&#34;序言&#34;&gt;序言&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;找到缺少的拼圖就是Impact Mapping&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;你將可以從這篇文章得到&#34;&gt;你將可以從這篇文章得到&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;開發產品簡易全貌 (著重需求探索)&lt;/li&gt;
+&lt;li&gt;影響地圖 Impact Mapping 概念與操作&lt;/li&gt;
+&lt;li&gt;探訪基礎&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;敏捷概述&#34;&gt;敏捷概述&lt;/h1&gt;
+&lt;p&gt;敏捷開發的精神，可以由最就代表性 &lt;strong&gt;&amp;ldquo;敏捷宣言&amp;rdquo;&lt;/strong&gt; 說起，原文如下：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;We are uncovering better ways of developing
+software by doing it and helping others do it.
+Through this work we have come to value:&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Individuals and interactions over processes and tools
+Working software over comprehensive documentation
+Customer collaboration over contract negotiation
+Responding to change over following a plan&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;That is, while there is value in the items on
+the right, we value the items on the left more.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Source: &lt;a href=&#34;http://agilemanifesto.org/&#34;&gt;Manifesto for Agile Software Development&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;核心精神：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;自主管理&lt;/li&gt;
+&lt;li&gt;持續改進&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;我自己的理解是：
+以人的出發思考，每個人願意發表想法、當面溝通比起工具、方法論，更能深入問題的根本(因為軟體是人在開發)
+軟體是我們打造的產品，產品本身品質(可讀性、可測試性)，可以更根本解決問題，因為維護文件也是成本&lt;/p&gt;
+&lt;p&gt;回歸人的本質，客戶也是人，溝通合作，取得共識，取得雙贏。最為合作底謝的合約白紙黑字必須要有，
+但互相合作更為愉快。(有點類似道德和法律的感覺)
+最後，接受現實，計畫永遠敢不上變化，用開放的態度適時做出調整。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>為何而寫</title>
+      <link>https://ykhorzon.github.io/tw/post/life/myself/%E7%82%BA%E4%BD%95%E8%80%8C%E5%AF%AB/</link>
+      <pubDate>Wed, 25 Jan 2017 14:22:04 +0000</pubDate>
+      
+      <guid>https://ykhorzon.github.io/tw/post/life/myself/%E7%82%BA%E4%BD%95%E8%80%8C%E5%AF%AB/</guid>
+      <description>寫作即思考與反芻
+  寫作，我思考我為何而寫、寫什麼東西、寫給誰 寫作，我審視我的撰寫的邏輯、用詞、句子與立場，發覺尚未被意識到的那個自己 寫作，思考問題是什麼？本質又是什麼？意義又是什麼？ 寫作帶動思考，述說故事刺激思考，為了產出而思考
+ 期許自己  思考即是武器，實作與說故事是技術，個性本質(好奇、自我要求)是驅動一切的引擎
+ 寫作規劃 目前計畫是每一週，撰寫一篇文章</description>
+    </item>
+    
+    <item>
+      <title>TGDF 2016 - Fail Fast 閃退</title>
+      <link>https://ykhorzon.github.io/tw/post/softskill_agile/fail_fast/</link>
+      <pubDate>Wed, 14 Sep 2016 23:15:29 +0000</pubDate>
+      
+      <guid>https://ykhorzon.github.io/tw/post/softskill_agile/fail_fast/</guid>
+      <description>Fail Fast─為什麼閃退是好事 (Undone) Speaker: 雷亞 Co-founder 楊善詠
+挑戰  技術人才培育 跨平台架構  事實上是救火雷亞
+員工人數遽增 2011 , 16人 2016, &amp;gt;100人
+死亡行軍：規格變更
+Reference: SE系統工程師
+種下惡因？ 效能問題？ 為了方便？用最簡單方式測試
+BUG？ 自己的BUG自己修？那別人的呢？ 來自game engine 的問題
+無法修正問題？ =&amp;gt; &amp;ldquo;改變規格&amp;rdquo;，讓玩家看不到
+遊戲前端很難測試 可能的解法 避開錯誤（X） =&amp;gt; 盡可能提早發現錯誤 =&amp;gt; fail fast
+簡單Example Defensive Programming 防禦性程式設計(避免software crash為目的）  接到 null 是正常的現象嗎？ 淺在造成bug，卻可能造成無法找出問題  ** NullPointerException ** Debug assert
+Check input value ( use assertion too!) Add up the diagnosis info for future</description>
+    </item>
+    
+    <item>
+      <title>TGDF 2016 Notes - Spear and shield of game developing 遊戲開發的矛與盾</title>
+      <link>https://ykhorzon.github.io/tw/post/softskill_startup/spear-and-shield-of-game-developing/</link>
+      <pubDate>Tue, 13 Sep 2016 23:42:55 +0800</pubDate>
+      
+      <guid>https://ykhorzon.github.io/tw/post/softskill_startup/spear-and-shield-of-game-developing/</guid>
+      <description>&lt;h1 id=&#34;遊戲開發的矛與盾&#34;&gt;遊戲開發的矛與盾&lt;/h1&gt;
+&lt;h3 id=&#34;市場初步估計&#34;&gt;市場初步估計：&lt;/h3&gt;
+&lt;p&gt;簡單試算TA人數受否能支撐營運與獲利，從portal web 的排行版 歸類與統計 (巴哈姆特)&lt;/p&gt;
+&lt;h3 id=&#34;關鍵事件&#34;&gt;關鍵事件&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;開發&lt;/li&gt;
+&lt;li&gt;營運&lt;/li&gt;
+&lt;li&gt;發行&lt;/li&gt;
+&lt;li&gt;行銷&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;開發-developing&#34;&gt;開發 Developing&lt;/h2&gt;
+&lt;h3 id=&#34;信心問題&#34;&gt;信心問題：&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;自我意識 v.s. 自卑&lt;/li&gt;
+&lt;li&gt;信賴關係&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>COSCUP Startup Culture Buliding Talk</title>
+      <link>https://ykhorzon.github.io/tw/post/softskill_agile/coscup-startup-culture-buliding-talk/</link>
+      <pubDate>Mon, 12 Sep 2016 20:09:59 +0000</pubDate>
+      
+      <guid>https://ykhorzon.github.io/tw/post/softskill_agile/coscup-startup-culture-buliding-talk/</guid>
+      <description>關鍵因素  人 環境(core) 文化(core) 方法 工具  How to Open?
+工廠 vs 創意   product-driven
+  customer-driven
+  敏捷的文化
+  增進彼此之間的溝通
+  多一點『引導』，少一點『管理』
+  用團隊取代英雄
+   管理：高階領導必須要思考是『如何在讓每一個人在環境中發揮實力』
+ 常見的方式
+ scrum kanban water-fall  PM 為溝通的角色
+溝通  應用對方可以理解的話語，把訊息傳達進去 如何建立人與人的連結？ 持之以行的舉辦  讓彼此知道彼此    如何提升資訊透明度 目標清楚
+ 過程 成果; 成果狀態(白板) ，即是 kanban  自動化測試使工作有效
+ Jenkins  </description>
+    </item>
+    
+    <item>
+      <title>每日blog挑戰 Daily Blogging Challenge (epi.0)</title>
+      <link>https://ykhorzon.github.io/tw/post/life/myself/daily-blogging-challenge/</link>
+      <pubDate>Sat, 10 Sep 2016 16:14:12 +0000</pubDate>
+      
+      <guid>https://ykhorzon.github.io/tw/post/life/myself/daily-blogging-challenge/</guid>
+      <description>序：為什麼要此挑戰？Why to start this challenge?  Record
+ 2016-09-10 16:14:12   啟發 受到我非常喜愛的 Youtuber, Casey Neistat 影響，常有人問他如何成為一位 成功的Youtuber ，他強而有力的回應是&amp;quot;Keep uploading!&amp;quot;，持續產出高質量的 vlog 或 video，挑戰自己的執行力、毅力、創意力的極限，這就是吸引群眾的不二法門。Casey表示:&amp;ldquo;每天起床，我都在想我今天要拍什麼影片，(這樣的鍛鍊造就今天的我)&amp;quot;。我以他作為自己的學習對象，將__&amp;ldquo;Keep producing valuable content !&amp;quot;__作為座右銘砥礪自己。
+Reference Casey Nesistat Youtube Channel
+每日動力 {% asset_img cycle.png %}
+任何人每天一定有學習與收穫，但需藉由統整、紀錄才成將經驗轉為累積性的能量，否則船過水無痕，非常可惜。而撰寫blog文章促使(強迫)審視每一天的進度，觀察自己的行為，最重要的訓練組織知識和經驗。最終希望可以和人生長期計畫 (long-term plan)能夠互相呼應
+自我行銷 Self-branding 在表面看似資訊自由的時代，事實上使被垃圾資訊與商業利益性資訊給蒙蔽的亂世(Facebook推薦廣告、Google 暗地追蹤)，俗話說亂世出英雄(喂～是這樣用嗎?!)，能夠產出具備組織性、系統性與具備知識意義的資訊，特別能夠脫引而出(Example:找到某大大的blog，又有一系列教學文章，根本撿到寶)
+Reference photo source
+如何進行與遊戲規則？How? 內容
+ 文章架構清晰 (組織圖可能用 coggle 或 xmind) 包含 Target Audience、 本篇目標 規劃未來維護與搜尋 具備完整性 (內容可以不多，必須包含觀念、看法與相關survey，不可為工具指令、單純抒發心情文章，可參考 ABCD 或尋找其他論述架構)  方法
+ Weekly Review 請別人給予回饋，說明優點、缺點和許願池 ( 持續改進 )  細節與堅持</description>
+    </item>
+    
+  </channel>
+</rss>

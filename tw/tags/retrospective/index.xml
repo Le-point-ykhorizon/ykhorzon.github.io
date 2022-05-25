@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>retrospective on YKhorizon</title>
+    <link>https://ykhorzon.github.io/tw/tags/retrospective/</link>
+    <description>Recent content in retrospective on YKhorizon</description>
+    <image>
+      <url>https://ykhorzon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ykhorzon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 09 Oct 2017 13:40:21 +0800</lastBuildDate><atom:link href="https://ykhorzon.github.io/tw/tags/retrospective/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>做事方法檢討 以打造個人blog為例</title>
+      <link>https://ykhorzon.github.io/tw/post/life/myself/retrospective_building_blog/</link>
+      <pubDate>Mon, 09 Oct 2017 13:40:21 +0800</pubDate>
+      
+      <guid>https://ykhorzon.github.io/tw/post/life/myself/retrospective_building_blog/</guid>
+      <description>&lt;h2 id=&#34;先說結論&#34;&gt;先說結論&lt;/h2&gt;
+&lt;h3 id=&#34;心魔1-自己硬幹出來比較-cool&#34;&gt;心魔1： 自己硬幹出來比較 Cool&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;心理層面：愛面子&lt;/li&gt;
+&lt;li&gt;傾向做有短期成就感事情（但不一定是最重要的事情）
+&lt;ul&gt;
+&lt;li&gt;自己開發一些 static site blog 的小功能&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;解藥1&lt;/strong&gt;：&lt;/p&gt;
+&lt;p&gt;達成目標才是重點，方法是其次，時常提醒自己最重的目標，浪費時間在細節，倒是進度不足或偏離軌道。&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

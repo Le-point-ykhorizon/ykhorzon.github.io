@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on YKhorizon</title>
+    <link>https://ykhorzon.github.io/categories/</link>
+    <description>Recent content in Categories on YKhorizon</description>
+    <image>
+      <url>https://ykhorzon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ykhorzon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 26 Oct 2018 11:54:01 +0800</lastBuildDate><atom:link href="https://ykhorzon.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>agile</title>
+      <link>https://ykhorzon.github.io/categories/agile/</link>
+      <pubDate>Fri, 26 Oct 2018 11:54:01 +0800</pubDate>
+      
+      <guid>https://ykhorzon.github.io/categories/agile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>english</title>
+      <link>https://ykhorzon.github.io/categories/english/</link>
+      <pubDate>Fri, 30 Jun 2017 19:38:15 +0800</pubDate>
+      
+      <guid>https://ykhorzon.github.io/categories/english/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>design-thinking</title>
+      <link>https://ykhorzon.github.io/categories/design-thinking/</link>
+      <pubDate>Sun, 25 Jun 2017 00:15:22 +0800</pubDate>
+      
+      <guid>https://ykhorzon.github.io/categories/design-thinking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blog</title>
+      <link>https://ykhorzon.github.io/categories/blog/</link>
+      <pubDate>Thu, 15 Jun 2017 15:24:40 +0800</pubDate>
+      
+      <guid>https://ykhorzon.github.io/categories/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cs</title>
+      <link>https://ykhorzon.github.io/categories/cs/</link>
+      <pubDate>Sat, 15 Apr 2017 18:17:50 +0000</pubDate>
+      
+      <guid>https://ykhorzon.github.io/categories/cs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>agile/devops</title>
+      <link>https://ykhorzon.github.io/categories/agile/devops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ykhorzon.github.io/categories/agile/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>agile/team-building</title>
+      <link>https://ykhorzon.github.io/categories/agile/team-building/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ykhorzon.github.io/categories/agile/team-building/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blog/hugo</title>
+      <link>https://ykhorzon.github.io/categories/blog/hugo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ykhorzon.github.io/categories/blog/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cs/reinforcement-learning</title>
+      <link>https://ykhorzon.github.io/categories/cs/reinforcement-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ykhorzon.github.io/categories/cs/reinforcement-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cs/statistics</title>
+      <link>https://ykhorzon.github.io/categories/cs/statistics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ykhorzon.github.io/categories/cs/statistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>english/academic-writing</title>
+      <link>https://ykhorzon.github.io/categories/english/academic-writing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ykhorzon.github.io/categories/english/academic-writing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>english/job-searching</title>
+      <link>https://ykhorzon.github.io/categories/english/job-searching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ykhorzon.github.io/categories/english/job-searching/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
