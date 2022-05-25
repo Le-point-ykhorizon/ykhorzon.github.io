@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>scrum on YKhorizon</title>
-    <link>https://ykhorzon.github.io/tags/scrum/</link>
+    <link>https://le-point-ykhorizon.github.io/tags/scrum/</link>
     <description>Recent content in scrum on YKhorizon</description>
     <image>
-      <url>https://ykhorzon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://ykhorzon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://le-point-ykhorizon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://le-point-ykhorizon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 03 May 2022 11:43:25 +0800</lastBuildDate><atom:link href="https://ykhorzon.github.io/tags/scrum/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 May 2022 11:43:25 +0800</lastBuildDate><atom:link href="https://le-point-ykhorizon.github.io/tags/scrum/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2022 LESS in Action Part 1</title>
-      <link>https://ykhorzon.github.io/2022-less-in-action/</link>
+      <link>https://le-point-ykhorizon.github.io/2022-less-in-action/</link>
       <pubDate>Tue, 03 May 2022 11:43:25 +0800</pubDate>
       
-      <guid>https://ykhorzon.github.io/2022-less-in-action/</guid>
+      <guid>https://le-point-ykhorizon.github.io/2022-less-in-action/</guid>
       <description>Team formation  Organize a feature team instead of component team Expect cross-functional team member Define your own aspect for diversity (e.g. personality type, professional skill set, domain knowledge, soft skill set) Expect highly-diversity team  Practice List team aspect:
   Professional skill set
  RD: backend, frontend, mobile, embedded system, DevOps, performancce geek(algorithm), network, security UX, UI, PO, Data anayltic (Or Data scientist Or BI)    Personality</description>

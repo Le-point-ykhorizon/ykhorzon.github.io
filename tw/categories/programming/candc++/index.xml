@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>programming/CandC&#43;&#43; on YKhorizon</title>
-    <link>https://ykhorzon.github.io/tw/categories/programming/candc&#43;&#43;/</link>
+    <link>https://le-point-ykhorizon.github.io/tw/categories/programming/candc&#43;&#43;/</link>
     <description>Recent content in programming/CandC&#43;&#43; on YKhorizon</description>
     <image>
-      <url>https://ykhorzon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://ykhorzon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://le-point-ykhorizon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://le-point-ykhorizon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://ykhorzon.github.io/tw/categories/programming/candc++/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://le-point-ykhorizon.github.io/tw/categories/programming/candc++/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[持續更新] C/C&#43;&#43; 常見面試問題統整</title>
-      <link>https://ykhorzon.github.io/tw/post/cs_programming/c_and_cplusplus/interview_problem_summary/</link>
+      <link>https://le-point-ykhorizon.github.io/tw/post/cs_programming/c_and_cplusplus/interview_problem_summary/</link>
       <pubDate>Sun, 23 Dec 2018 08:47:03 +0800</pubDate>
       
-      <guid>https://ykhorzon.github.io/tw/post/cs_programming/c_and_cplusplus/interview_problem_summary/</guid>
+      <guid>https://le-point-ykhorizon.github.io/tw/post/cs_programming/c_and_cplusplus/interview_problem_summary/</guid>
       <description>本文章有，共同編輯與時常更新的版本，會寫在 hackmd 上面
  https://hackmd.io/pWi7pgvISWSSjZN0HOYLGg  C 語言 Pointer Pointer of variable  A variable hold the address (一個指向某個儲存位址的變數)  Example:
 int val = 10; int * prt = &amp;amp;val 詳細可以參考 Mr. Open Gate 的文章 C/C++ - 常見 C 語言觀念題目總整理（適合考試和面試）

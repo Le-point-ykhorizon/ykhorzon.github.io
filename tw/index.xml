@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>YKhorizon</title>
-    <link>https://ykhorzon.github.io/tw/</link>
+    <link>https://le-point-ykhorizon.github.io/tw/</link>
     <description>Recent content on YKhorizon</description>
     <image>
-      <url>https://ykhorzon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://ykhorzon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://le-point-ykhorizon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://le-point-ykhorizon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 29 Sep 2019 00:38:40 +0800</lastBuildDate><atom:link href="https://ykhorzon.github.io/tw/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Sep 2019 00:38:40 +0800</lastBuildDate><atom:link href="https://le-point-ykhorizon.github.io/tw/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>你現在位於何處？理財第一步，不是記帳，而是計算淨值</title>
-      <link>https://ykhorzon.github.io/tw/post/finance/first_step_of_finance_management/</link>
+      <link>https://le-point-ykhorizon.github.io/tw/post/finance/first_step_of_finance_management/</link>
       <pubDate>Sun, 29 Sep 2019 00:38:40 +0800</pubDate>
       
-      <guid>https://ykhorzon.github.io/tw/post/finance/first_step_of_finance_management/</guid>
+      <guid>https://le-point-ykhorizon.github.io/tw/post/finance/first_step_of_finance_management/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;blockquote&gt;
 &lt;p&gt;當你有一個裝滿零錢的撲滿，你能一目了然有多少錢。
@@ -29,10 +29,10 @@
     
     <item>
       <title>Agile Summit 2019 Day1 - 敏捷心體技</title>
-      <link>https://ykhorzon.github.io/tw/post/softskill_agile/agile_summit_2019_day1_review/</link>
+      <link>https://le-point-ykhorizon.github.io/tw/post/softskill_agile/agile_summit_2019_day1_review/</link>
       <pubDate>Thu, 16 May 2019 22:36:09 +0800</pubDate>
       
-      <guid>https://ykhorzon.github.io/tw/post/softskill_agile/agile_summit_2019_day1_review/</guid>
+      <guid>https://le-point-ykhorizon.github.io/tw/post/softskill_agile/agile_summit_2019_day1_review/</guid>
       <description>&lt;h2 id=&#34;myths-and-patterns-of-organizational-change---linda-rising&#34;&gt;Myths and Patterns of Organizational Change - Linda Rising&lt;/h2&gt;
 &lt;p&gt;現場聆聽 Linda rising 的演講後，真正感受到大師的說故事功力，語調沉穩堅定，內容句句切入基本功，淺顯易懂說明了 Agile mindset 的核心觀念與輔助觀念。&lt;/p&gt;
 &lt;p&gt;1.Agile mindset(我自己認為是 agile 核心的精神，最容易可以向人說明的方式)&lt;/p&gt;
@@ -50,10 +50,10 @@
     
     <item>
       <title>Windows 10 home 升級 pro 受難計</title>
-      <link>https://ykhorzon.github.io/tw/post/windows/upgrade_lenovo_t480s_from_win10_home_to_pro/</link>
+      <link>https://le-point-ykhorizon.github.io/tw/post/windows/upgrade_lenovo_t480s_from_win10_home_to_pro/</link>
       <pubDate>Sun, 21 Apr 2019 17:59:16 +0800</pubDate>
       
-      <guid>https://ykhorzon.github.io/tw/post/windows/upgrade_lenovo_t480s_from_win10_home_to_pro/</guid>
+      <guid>https://le-point-ykhorizon.github.io/tw/post/windows/upgrade_lenovo_t480s_from_win10_home_to_pro/</guid>
       <description>&lt;h1 id=&#34;事出有因&#34;&gt;事出有因&lt;/h1&gt;
 &lt;p&gt;當初在購買新的筆電時，迫於各種無奈之下，就挑選了 lenovo T480s 並安裝 windows 10，
 但因為一時不察，想說應該安裝『家用版就足夠了』，必沒有遠端和加密的需求，當時也有看到微軟有自己的虛擬化 hyper-v ，想說 virtualbox 就足夠了，天知道買來用兩天就發現，要執行 docker 必須要專業版（對 hyper-v 有依賴）。這下驢了，當初只有加 1500元 就可買到專業版，這下必須花至少 3000元才能從家用版升級到專業版&lt;/p&gt;
@@ -65,10 +65,10 @@
     
     <item>
       <title>Javascript 中 Import 和 Export</title>
-      <link>https://ykhorzon.github.io/tw/post/cs_programming_web_frontend/javascript_import_export/</link>
+      <link>https://le-point-ykhorizon.github.io/tw/post/cs_programming_web_frontend/javascript_import_export/</link>
       <pubDate>Thu, 04 Apr 2019 00:25:56 +0800</pubDate>
       
-      <guid>https://ykhorzon.github.io/tw/post/cs_programming_web_frontend/javascript_import_export/</guid>
+      <guid>https://le-point-ykhorizon.github.io/tw/post/cs_programming_web_frontend/javascript_import_export/</guid>
       <description>default named named import 的意思是指『export 時的 variable/function 已經被命名，無法在 import 時重新取名』;如果在 import 時改名將會有 error ，確保 variable/function 保持原本的名字。
  Named exports are useful to export several values. During the import, it is mandatory to use the same name of the corresponding object.
  1 2 3 4 5 6 7 8 9 10 11 12  // utility.js function parseLogs() { // implementation } function generateLogs() { // implementation } export { parseLogs, generateLogs }; // main.</description>
@@ -76,10 +76,10 @@
     
     <item>
       <title>ubnutu 中安裝設定 nfs server</title>
-      <link>https://ykhorzon.github.io/tw/post/cs_linux_related/nfs_server_setup/</link>
+      <link>https://le-point-ykhorizon.github.io/tw/post/cs_linux_related/nfs_server_setup/</link>
       <pubDate>Wed, 20 Feb 2019 22:41:03 +0800</pubDate>
       
-      <guid>https://ykhorzon.github.io/tw/post/cs_linux_related/nfs_server_setup/</guid>
+      <guid>https://le-point-ykhorizon.github.io/tw/post/cs_linux_related/nfs_server_setup/</guid>
       <description>紀錄一下，今天安裝 nfs server 的過程，中間受到別人幫助，從中學到很多
 使用動機 Web frontend 的在本機完成(host, windows 10)，開發完成後的 production code 要 deploy 到 embedded system 與後端 cgi 對接，但如果每次開都要 ssh 或 telnet 進 embedded system 更新 prodcution code 太麻煩，更何況 embbeded system 不一定有裝 git 或其傳輸檔案的方式，因此需要一種同步資料的方式，就是這次用到 nfs protocal (network file system)。
 (P.S. 鳥哥 linux 有 nfs 很詳細的介紹)
@@ -90,10 +90,10 @@ sudo apt-get update sudo apt install nfs-kernel-server sudo mkdir -p [/path/to/s
     
     <item>
       <title>[持續更新] C/C&#43;&#43; 常見面試問題統整</title>
-      <link>https://ykhorzon.github.io/tw/post/cs_programming/c_and_cplusplus/interview_problem_summary/</link>
+      <link>https://le-point-ykhorizon.github.io/tw/post/cs_programming/c_and_cplusplus/interview_problem_summary/</link>
       <pubDate>Sun, 23 Dec 2018 08:47:03 +0800</pubDate>
       
-      <guid>https://ykhorzon.github.io/tw/post/cs_programming/c_and_cplusplus/interview_problem_summary/</guid>
+      <guid>https://le-point-ykhorizon.github.io/tw/post/cs_programming/c_and_cplusplus/interview_problem_summary/</guid>
       <description>本文章有，共同編輯與時常更新的版本，會寫在 hackmd 上面
  https://hackmd.io/pWi7pgvISWSSjZN0HOYLGg  C 語言 Pointer Pointer of variable  A variable hold the address (一個指向某個儲存位址的變數)  Example:
 int val = 10; int * prt = &amp;amp;val 詳細可以參考 Mr. Open Gate 的文章 C/C++ - 常見 C 語言觀念題目總整理（適合考試和面試）
@@ -103,10 +103,10 @@ Array and Pointer 的關係 在 C 語言中，處理字串一定會牽扯到 cha
     
     <item>
       <title>風水寶地 — Agile Tour HsinChu 2018 心得</title>
-      <link>https://ykhorzon.github.io/tw/post/softskill_agile/agile_hsinchu_tour_2018_review/</link>
+      <link>https://le-point-ykhorizon.github.io/tw/post/softskill_agile/agile_hsinchu_tour_2018_review/</link>
       <pubDate>Sun, 09 Dec 2018 16:33:59 +0800</pubDate>
       
-      <guid>https://ykhorzon.github.io/tw/post/softskill_agile/agile_hsinchu_tour_2018_review/</guid>
+      <guid>https://le-point-ykhorizon.github.io/tw/post/softskill_agile/agile_hsinchu_tour_2018_review/</guid>
       <description>&lt;h2 id=&#34;起源&#34;&gt;起源&lt;/h2&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;過去參加過 design thinking workshop 花費不少鈔票，對過去身為學生的我來說，是一筆不小的金額，但對我的影響非常深遠，讓我瞭解更多除了工程技術視野以外的世界。&lt;/p&gt;
@@ -117,10 +117,10 @@ Array and Pointer 的關係 在 C 語言中，處理字串一定會牽扯到 cha
     
     <item>
       <title>Roland Octa Capture interface 在 MacOS 環境設定</title>
-      <link>https://ykhorzon.github.io/tw/post/music_audio_engineering/learn_to_play_with_roland_octa_capture/</link>
+      <link>https://le-point-ykhorizon.github.io/tw/post/music_audio_engineering/learn_to_play_with_roland_octa_capture/</link>
       <pubDate>Thu, 06 Dec 2018 16:54:20 +0800</pubDate>
       
-      <guid>https://ykhorzon.github.io/tw/post/music_audio_engineering/learn_to_play_with_roland_octa_capture/</guid>
+      <guid>https://le-point-ykhorizon.github.io/tw/post/music_audio_engineering/learn_to_play_with_roland_octa_capture/</guid>
       <description>&lt;h2 id=&#34;關於常見的線材&#34;&gt;關於常見的線材&lt;/h2&gt;
 &lt;p&gt;3.5mm TRS(一般耳機孔), 6.3mm TRS, XLR(Cannon頭)&lt;/p&gt;
 &lt;p&gt;References&lt;/p&gt;
@@ -140,20 +140,20 @@ Array and Pointer 的關係 在 C 語言中，處理字串一定會牽扯到 cha
     
     <item>
       <title>一場深度跨領域交流的探險 — Agile Tour Taipei 2018 心得(下)</title>
-      <link>https://ykhorzon.github.io/tw/post/softskill_agile/agile_taipei_tour_2018_review2/</link>
+      <link>https://le-point-ykhorizon.github.io/tw/post/softskill_agile/agile_taipei_tour_2018_review2/</link>
       <pubDate>Sun, 02 Dec 2018 00:17:44 +0800</pubDate>
       
-      <guid>https://ykhorzon.github.io/tw/post/softskill_agile/agile_taipei_tour_2018_review2/</guid>
+      <guid>https://le-point-ykhorizon.github.io/tw/post/softskill_agile/agile_taipei_tour_2018_review2/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;</description>
     </item>
     
     <item>
       <title>一場深度跨領域交流的探險 — Agile Tour Taipei 2018 心得(上)</title>
-      <link>https://ykhorzon.github.io/tw/post/softskill_agile/agile_taipei_tour_2018_review1/</link>
+      <link>https://le-point-ykhorizon.github.io/tw/post/softskill_agile/agile_taipei_tour_2018_review1/</link>
       <pubDate>Sat, 01 Dec 2018 22:54:04 +0800</pubDate>
       
-      <guid>https://ykhorzon.github.io/tw/post/softskill_agile/agile_taipei_tour_2018_review1/</guid>
+      <guid>https://le-point-ykhorizon.github.io/tw/post/softskill_agile/agile_taipei_tour_2018_review1/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;h2 id=&#34;探險&#34;&gt;探險&lt;/h2&gt;
 &lt;p&gt;今年是第一次搶到票，參加 Agile Tour Taipei 盛會，會說是『一場深度跨領域交流的探險』來自於A,B,C Track 分別是探討的issue是 Product、Dev/Test、UX，可說是三個願望一次滿足，讓我的選擇困難症完全發作，好想同時聽三軌呀呀。同時，一次匯聚三種群體到一場研討會中，更能激發豐富的討論，探索不同觀點的價值，讓對話能夠突破各自熟悉的同溫層，說是一場探險一點也不為過！&lt;/p&gt;</description>
@@ -161,10 +161,10 @@ Array and Pointer 的關係 在 C 語言中，處理字串一定會牽扯到 cha
     
     <item>
       <title>從『讓李小龍你看見 Kanban 的美好』到改進我的 Personal Kanban - Part I kanban 觀念釐清</title>
-      <link>https://ykhorzon.github.io/tw/post/softskill_agile/agile_kanban_bruce_lee_part_i/</link>
+      <link>https://le-point-ykhorizon.github.io/tw/post/softskill_agile/agile_kanban_bruce_lee_part_i/</link>
       <pubDate>Sat, 18 Aug 2018 17:46:11 +0800</pubDate>
       
-      <guid>https://ykhorzon.github.io/tw/post/softskill_agile/agile_kanban_bruce_lee_part_i/</guid>
+      <guid>https://le-point-ykhorizon.github.io/tw/post/softskill_agile/agile_kanban_bruce_lee_part_i/</guid>
       <description>&lt;h1 id=&#34;文章要點&#34;&gt;文章要點&lt;/h1&gt;
 &lt;p&gt;文章主要分成&lt;/p&gt;
 &lt;ul&gt;
@@ -177,10 +177,10 @@ Array and Pointer 的關係 在 C 語言中，處理字串一定會牽扯到 cha
     
     <item>
       <title>Personal Kanban 實踐後的第一次檢討</title>
-      <link>https://ykhorzon.github.io/tw/post/softskill_workflow/personal_workflow/</link>
+      <link>https://le-point-ykhorizon.github.io/tw/post/softskill_workflow/personal_workflow/</link>
       <pubDate>Fri, 03 Aug 2018 23:37:51 +0800</pubDate>
       
-      <guid>https://ykhorzon.github.io/tw/post/softskill_workflow/personal_workflow/</guid>
+      <guid>https://le-point-ykhorizon.github.io/tw/post/softskill_workflow/personal_workflow/</guid>
       <description>&lt;h1 id=&#34;文章要點&#34;&gt;文章要點&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;ul&gt;
@@ -192,10 +192,10 @@ Array and Pointer 的關係 在 C 語言中，處理字串一定會牽扯到 cha
     
     <item>
       <title>外傷處理與藥物過敏經驗</title>
-      <link>https://ykhorzon.github.io/tw/post/life/health/drug_allergy_skin_rash/</link>
+      <link>https://le-point-ykhorizon.github.io/tw/post/life/health/drug_allergy_skin_rash/</link>
       <pubDate>Sun, 03 Jun 2018 23:39:09 +0800</pubDate>
       
-      <guid>https://ykhorzon.github.io/tw/post/life/health/drug_allergy_skin_rash/</guid>
+      <guid>https://le-point-ykhorizon.github.io/tw/post/life/health/drug_allergy_skin_rash/</guid>
       <description>&lt;h1 id=&#34;警告與提醒&#34;&gt;警告與提醒&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;1. 本文章有傷口過敏之畫面，可能會令人感到不舒服、噁心，自行斟酌是否要觀看&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
@@ -212,13 +212,13 @@ Array and Pointer 的關係 在 C 語言中，處理字串一定會牽扯到 cha
     
     <item>
       <title>硬體開發流程與計畫管理 for Startup Part II: 硬體開發流程中的陷阱</title>
-      <link>https://ykhorzon.github.io/tw/post/softskill_startup/hw_development_for_startup_part2/</link>
+      <link>https://le-point-ykhorizon.github.io/tw/post/softskill_startup/hw_development_for_startup_part2/</link>
       <pubDate>Fri, 04 May 2018 19:08:57 +0800</pubDate>
       
-      <guid>https://ykhorzon.github.io/tw/post/softskill_startup/hw_development_for_startup_part2/</guid>
+      <guid>https://le-point-ykhorizon.github.io/tw/post/softskill_startup/hw_development_for_startup_part2/</guid>
       <description>&lt;h1 id=&#34;startup-硬體開發遭遇什麼陷阱&#34;&gt;Startup 硬體開發遭遇什麼陷阱？&lt;/h1&gt;
 &lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://ykhorzon.github.io/content_img/hw_development_for_startup_part2/trap.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://le-point-ykhorizon.github.io/content_img/hw_development_for_startup_part2/trap.jpg&#34; alt=&#34;&#34;  /&gt;
 
 &lt;a href=&#34;https://www.pexels.com/photo/close-up-finger-hurt-pain-433625/&#34;&gt;https://www.pexels.com/photo/close-up-finger-hurt-pain-433625/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;想像一下，你是一名新創公司的頭號工程師，公司沒有資源（缺錢、缺人），又正在開發沒人做過的產品，沒有所謂的類似產品可以參考，
@@ -238,10 +238,10 @@ Array and Pointer 的關係 在 C 語言中，處理字串一定會牽扯到 cha
     
     <item>
       <title>硬體開發流程與計畫管理 for Startup Part I: 硬體開發流程</title>
-      <link>https://ykhorzon.github.io/tw/post/softskill_startup/hw_development_for_startup_part1/</link>
+      <link>https://le-point-ykhorizon.github.io/tw/post/softskill_startup/hw_development_for_startup_part1/</link>
       <pubDate>Sat, 28 Apr 2018 23:43:06 +0800</pubDate>
       
-      <guid>https://ykhorzon.github.io/tw/post/softskill_startup/hw_development_for_startup_part1/</guid>
+      <guid>https://le-point-ykhorizon.github.io/tw/post/softskill_startup/hw_development_for_startup_part1/</guid>
       <description>&lt;h2 id=&#34;為什麼-span-stylecolorred軟體工程師span-需要知道-span-stylecolorblue硬體開發流程span&#34;&gt;為什麼 &lt;!-- raw HTML omitted --&gt;軟體工程師&lt;!-- raw HTML omitted --&gt; 需要知道 &lt;!-- raw HTML omitted --&gt;硬體開發流程&lt;!-- raw HTML omitted --&gt;？&lt;/h2&gt;
 &lt;p&gt;設想一下，你是一家新創公司頭號軟體工程師，公司的第一個產品是一台機器人，你完全沒摸過硬體，當你和硬體工程師要合作開發，你該怎麼辦？&lt;/p&gt;
 &lt;ul&gt;
@@ -255,10 +255,10 @@ Array and Pointer 的關係 在 C 語言中，處理字串一定會牽扯到 cha
     
     <item>
       <title>Agile Meetup 新竹 - 系統思考工作坊 心得</title>
-      <link>https://ykhorzon.github.io/tw/post/softskill_agile/system_thinking/</link>
+      <link>https://le-point-ykhorizon.github.io/tw/post/softskill_agile/system_thinking/</link>
       <pubDate>Tue, 16 Jan 2018 20:04:19 +0800</pubDate>
       
-      <guid>https://ykhorzon.github.io/tw/post/softskill_agile/system_thinking/</guid>
+      <guid>https://le-point-ykhorizon.github.io/tw/post/softskill_agile/system_thinking/</guid>
       <description>&lt;h1 id=&#34;outline&#34;&gt;Outline&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;#%E5%AD%B8%E7%BF%92%E7%9B%AE%E6%A8%99&#34;&gt;學習目標&lt;/a&gt;&lt;/li&gt;
@@ -298,10 +298,10 @@ Array and Pointer 的關係 在 C 語言中，處理字串一定會牽扯到 cha
     
     <item>
       <title>發展你的顧客旅程-從生態系視角</title>
-      <link>https://ykhorzon.github.io/tw/post/softskill_agile/user_journay_with_ecosystem/</link>
+      <link>https://le-point-ykhorizon.github.io/tw/post/softskill_agile/user_journay_with_ecosystem/</link>
       <pubDate>Sat, 18 Nov 2017 19:54:37 +0800</pubDate>
       
-      <guid>https://ykhorzon.github.io/tw/post/softskill_agile/user_journay_with_ecosystem/</guid>
+      <guid>https://le-point-ykhorizon.github.io/tw/post/softskill_agile/user_journay_with_ecosystem/</guid>
       <description>&lt;h1 id=&#34;outline&#34;&gt;Outline&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;#%E4%BB%80%E9%BA%BC%E6%98%AF%E6%9C%8D%E5%8B%99%E8%A8%AD%E8%A8%88%EF%BC%9F&#34;&gt;什麼是服務設計？&lt;/a&gt;&lt;/li&gt;
@@ -318,10 +318,10 @@ Array and Pointer 的關係 在 C 語言中，處理字串一定會牽扯到 cha
     
     <item>
       <title>virtualbox 網路設定 NAT v.s. Bridge mode</title>
-      <link>https://ykhorzon.github.io/tw/post/cs_linux_related/virtualbox_nat_bridge/</link>
+      <link>https://le-point-ykhorizon.github.io/tw/post/cs_linux_related/virtualbox_nat_bridge/</link>
       <pubDate>Fri, 17 Nov 2017 16:57:00 +0800</pubDate>
       
-      <guid>https://ykhorzon.github.io/tw/post/cs_linux_related/virtualbox_nat_bridge/</guid>
+      <guid>https://le-point-ykhorizon.github.io/tw/post/cs_linux_related/virtualbox_nat_bridge/</guid>
       <description>&lt;h1 id=&#34;outline&#34;&gt;Outline&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;#scenario&#34;&gt;Scenario&lt;/a&gt;&lt;/li&gt;
@@ -333,10 +333,10 @@ Array and Pointer 的關係 在 C 語言中，處理字串一定會牽扯到 cha
     
     <item>
       <title>[影片筆記] 農作物病蟲害診斷--呂柏寬</title>
-      <link>https://ykhorzon.github.io/tw/post/agriculture/pest_disease_intro_1/</link>
+      <link>https://le-point-ykhorizon.github.io/tw/post/agriculture/pest_disease_intro_1/</link>
       <pubDate>Fri, 27 Oct 2017 18:38:34 +0800</pubDate>
       
-      <guid>https://ykhorzon.github.io/tw/post/agriculture/pest_disease_intro_1/</guid>
+      <guid>https://le-point-ykhorizon.github.io/tw/post/agriculture/pest_disease_intro_1/</guid>
       <description>影片 內容摘要 物理防治 3:33
 阻隔  設施栽培 防蟲網(記得連土壤一起網住，許多昆蟲會從土壤進來) 套袋 雜草抑制蓆(隔絕害蟲到土裡)  視覺  黏板(捕蟲並最重要是監測蟲害狀態)  溫度調控 種苗使用的土壤，事先用高溫蒸汽消毒土壤 翻攪土壤，讓地下害蟲土壤到表面，讓太陽高溫殺死幼蟲
 耕作防治管理 9:00
@@ -358,10 +358,10 @@ Array and Pointer 的關係 在 C 語言中，處理字串一定會牽扯到 cha
     
     <item>
       <title>蔡月夏--食用百合鱗莖有機栽培模式之建立</title>
-      <link>https://ykhorzon.github.io/tw/post/agriculture/crop/lily_bulb/</link>
+      <link>https://le-point-ykhorizon.github.io/tw/post/agriculture/crop/lily_bulb/</link>
       <pubDate>Fri, 27 Oct 2017 18:38:34 +0800</pubDate>
       
-      <guid>https://ykhorzon.github.io/tw/post/agriculture/crop/lily_bulb/</guid>
+      <guid>https://le-point-ykhorizon.github.io/tw/post/agriculture/crop/lily_bulb/</guid>
       <description>品種
  四川百合(藥用) 蘭州百合(鮮食) 日本百合  長期進口量與價格統計(15年) 產量逐年降低，原因是產地病害
 栽培流程
@@ -375,10 +375,10 @@ Array and Pointer 的關係 在 C 語言中，處理字串一定會牽扯到 cha
     
     <item>
       <title>[Codewars] Mumbling</title>
-      <link>https://ykhorzon.github.io/tw/post/cs_programming/codewars/mumbling/</link>
+      <link>https://le-point-ykhorizon.github.io/tw/post/cs_programming/codewars/mumbling/</link>
       <pubDate>Thu, 26 Oct 2017 20:23:11 +0800</pubDate>
       
-      <guid>https://ykhorzon.github.io/tw/post/cs_programming/codewars/mumbling/</guid>
+      <guid>https://le-point-ykhorizon.github.io/tw/post/cs_programming/codewars/mumbling/</guid>
       <description>&lt;h1 id=&#34;outline&#34;&gt;Outline&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;#%E5%95%8F%E9%A1%8C%E7%AF%84%E4%BE%8B&#34;&gt;問題範例&lt;/a&gt;&lt;/li&gt;
@@ -396,10 +396,10 @@ Array and Pointer 的關係 在 C 語言中，處理字串一定會牽扯到 cha
     
     <item>
       <title>Matplotlib 基本介紹</title>
-      <link>https://ykhorzon.github.io/tw/post/cs_programming/visualization/matplot_note/</link>
+      <link>https://le-point-ykhorizon.github.io/tw/post/cs_programming/visualization/matplot_note/</link>
       <pubDate>Wed, 25 Oct 2017 12:27:23 +0800</pubDate>
       
-      <guid>https://ykhorzon.github.io/tw/post/cs_programming/visualization/matplot_note/</guid>
+      <guid>https://le-point-ykhorizon.github.io/tw/post/cs_programming/visualization/matplot_note/</guid>
       <description>&lt;h1 id=&#34;outline&#34;&gt;Outline&lt;/h1&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;ul&gt;
@@ -422,10 +422,10 @@ Array and Pointer 的關係 在 C 語言中，處理字串一定會牽扯到 cha
     
     <item>
       <title>做事方法檢討 以打造個人blog為例</title>
-      <link>https://ykhorzon.github.io/tw/post/life/myself/retrospective_building_blog/</link>
+      <link>https://le-point-ykhorizon.github.io/tw/post/life/myself/retrospective_building_blog/</link>
       <pubDate>Mon, 09 Oct 2017 13:40:21 +0800</pubDate>
       
-      <guid>https://ykhorzon.github.io/tw/post/life/myself/retrospective_building_blog/</guid>
+      <guid>https://le-point-ykhorizon.github.io/tw/post/life/myself/retrospective_building_blog/</guid>
       <description>&lt;h2 id=&#34;先說結論&#34;&gt;先說結論&lt;/h2&gt;
 &lt;h3 id=&#34;心魔1-自己硬幹出來比較-cool&#34;&gt;心魔1： 自己硬幹出來比較 Cool&lt;/h3&gt;
 &lt;ul&gt;
@@ -444,29 +444,29 @@ Array and Pointer 的關係 在 C 語言中，處理字串一定會牽扯到 cha
     
     <item>
       <title>Google analytics 設定快速檢查</title>
-      <link>https://ykhorzon.github.io/tw/post/cs_programming_web_frontend/google_analytics_setup/</link>
+      <link>https://le-point-ykhorizon.github.io/tw/post/cs_programming_web_frontend/google_analytics_setup/</link>
       <pubDate>Wed, 16 Aug 2017 22:29:08 +0800</pubDate>
       
-      <guid>https://ykhorzon.github.io/tw/post/cs_programming_web_frontend/google_analytics_setup/</guid>
+      <guid>https://le-point-ykhorizon.github.io/tw/post/cs_programming_web_frontend/google_analytics_setup/</guid>
       <description>設定文件  Set up Analytics tracking  手把手教，一步一步照作基本就好了   Check your web-tracking-code setup  Trouble shooting 的部分，快速確定 Google analytics 是否正常運作   Adding analytics.js to Your Site  詳細解說 analytics.js 運作    被 ADblock Plus 雷了 在設定 Google analytics 時，一直失敗無法從 report &amp;gt; real-time 看到目前的狀況，顯然是出了什麼差錯。 後來從 Chrome &amp;gt; developer tools &amp;gt; network 發現https://www.google-analytics.com/analytics.js 根本沒被載入，想說直接將網址輸入 Chrome Url bar ，才發現是 Chrome 的 plugin ADblock Plus 檔掉，關掉後就恢復正常。
  不夠熟悉 browser 開發環境的 debugging ，類似 java developer 不熟 eclipse 會無法快速找到問題</description>
     </item>
     
     <item>
       <title>DevOps 全棧工程師-活動心得</title>
-      <link>https://ykhorzon.github.io/tw/post/softskill_agile/devops_experience/</link>
+      <link>https://le-point-ykhorizon.github.io/tw/post/softskill_agile/devops_experience/</link>
       <pubDate>Wed, 02 Aug 2017 12:41:57 +0800</pubDate>
       
-      <guid>https://ykhorzon.github.io/tw/post/softskill_agile/devops_experience/</guid>
+      <guid>https://le-point-ykhorizon.github.io/tw/post/softskill_agile/devops_experience/</guid>
       <description>DevOps這麼紅？到底在紅什麼？基本功又有哪些？</description>
     </item>
     
     <item>
       <title>電腦科學(Computer Science)到底在學什麼？</title>
-      <link>https://ykhorzon.github.io/tw/post/cs_math_related/experience/what_is_computer_science/</link>
+      <link>https://le-point-ykhorizon.github.io/tw/post/cs_math_related/experience/what_is_computer_science/</link>
       <pubDate>Fri, 21 Jul 2017 10:35:25 +0800</pubDate>
       
-      <guid>https://ykhorzon.github.io/tw/post/cs_math_related/experience/what_is_computer_science/</guid>
+      <guid>https://le-point-ykhorizon.github.io/tw/post/cs_math_related/experience/what_is_computer_science/</guid>
       <description>&lt;p&gt;昨天剛好在 Facebook 程式人社團社團，看見一個準備要升大學的小朋友詢問：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;想問一件事情，我已經會寫程式。&lt;!-- raw HTML omitted --&gt;
@@ -477,10 +477,10 @@ Array and Pointer 的關係 在 C 語言中，處理字串一定會牽扯到 cha
     
     <item>
       <title>關於我</title>
-      <link>https://ykhorzon.github.io/tw/about/me/</link>
+      <link>https://le-point-ykhorizon.github.io/tw/about/me/</link>
       <pubDate>Sat, 15 Jul 2017 12:17:42 +0800</pubDate>
       
-      <guid>https://ykhorzon.github.io/tw/about/me/</guid>
+      <guid>https://le-point-ykhorizon.github.io/tw/about/me/</guid>
       <description>我是誰？ 我是 ykhorizon (在社群中我都自稱 YK )，
 我對一些其他議題有興趣:
  農業 產品與創新  聯絡我  twitter github linkedin Email ykhorizon.light at gmail.com  </description>
@@ -488,28 +488,28 @@ Array and Pointer 的關係 在 C 語言中，處理字串一定會牽扯到 cha
     
     <item>
       <title>類似Design Thinking的討論實戰檢討</title>
-      <link>https://ykhorzon.github.io/tw/post/softskill_product/design_thinking/practice/</link>
+      <link>https://le-point-ykhorizon.github.io/tw/post/softskill_product/design_thinking/practice/</link>
       <pubDate>Thu, 29 Jun 2017 13:11:58 +0800</pubDate>
       
-      <guid>https://ykhorzon.github.io/tw/post/softskill_product/design_thinking/practice/</guid>
+      <guid>https://le-point-ykhorizon.github.io/tw/post/softskill_product/design_thinking/practice/</guid>
       <description></description>
     </item>
     
     <item>
       <title>日常中的世代對談 - 討論柯文哲市長 2 採取行動</title>
-      <link>https://ykhorzon.github.io/tw/post/life/daily/talk_to_the_previous_generation2/</link>
+      <link>https://le-point-ykhorizon.github.io/tw/post/life/daily/talk_to_the_previous_generation2/</link>
       <pubDate>Thu, 29 Jun 2017 08:33:18 +0800</pubDate>
       
-      <guid>https://ykhorzon.github.io/tw/post/life/daily/talk_to_the_previous_generation2/</guid>
+      <guid>https://le-point-ykhorizon.github.io/tw/post/life/daily/talk_to_the_previous_generation2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>農業模擬軟體 Survey</title>
-      <link>https://ykhorzon.github.io/tw/post/agriculture/agri_simulation/</link>
+      <link>https://le-point-ykhorizon.github.io/tw/post/agriculture/agri_simulation/</link>
       <pubDate>Sun, 07 May 2017 18:29:48 +0800</pubDate>
       
-      <guid>https://ykhorzon.github.io/tw/post/agriculture/agri_simulation/</guid>
+      <guid>https://le-point-ykhorizon.github.io/tw/post/agriculture/agri_simulation/</guid>
       <description>&lt;h1 id=&#34;todo-for-contents&#34;&gt;Todo for Contents&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;分類工具&lt;/li&gt;
@@ -535,10 +535,10 @@ Array and Pointer 的關係 在 C 語言中，處理字串一定會牽扯到 cha
     
     <item>
       <title>User Story 的那些人與那些事</title>
-      <link>https://ykhorzon.github.io/tw/post/softskill_agile/user-story-%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%BA%E8%88%87%E9%82%A3%E4%BA%9B%E4%BA%8B/</link>
+      <link>https://le-point-ykhorizon.github.io/tw/post/softskill_agile/user-story-%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%BA%E8%88%87%E9%82%A3%E4%BA%9B%E4%BA%8B/</link>
       <pubDate>Wed, 03 May 2017 10:32:13 +0800</pubDate>
       
-      <guid>https://ykhorzon.github.io/tw/post/softskill_agile/user-story-%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%BA%E8%88%87%E9%82%A3%E4%BA%9B%E4%BA%8B/</guid>
+      <guid>https://le-point-ykhorizon.github.io/tw/post/softskill_agile/user-story-%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%BA%E8%88%87%E9%82%A3%E4%BA%9B%E4%BA%8B/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;h1 id=&#34;序言&#34;&gt;序言&lt;/h1&gt;
 &lt;blockquote&gt;
@@ -581,10 +581,10 @@ Array and Pointer 的關係 在 C 語言中，處理字串一定會牽扯到 cha
     
     <item>
       <title>學術英文寫作-主軸與架構</title>
-      <link>https://ykhorzon.github.io/tw/post/english/academic-writing-main-body-and-structure/</link>
+      <link>https://le-point-ykhorizon.github.io/tw/post/english/academic-writing-main-body-and-structure/</link>
       <pubDate>Wed, 22 Mar 2017 17:12:04 +0000</pubDate>
       
-      <guid>https://ykhorzon.github.io/tw/post/english/academic-writing-main-body-and-structure/</guid>
+      <guid>https://le-point-ykhorizon.github.io/tw/post/english/academic-writing-main-body-and-structure/</guid>
       <description>&lt;p&gt;序言&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;主軸貫串全文，安排故事架構，邏輯連結論述&lt;/p&gt;
@@ -600,10 +600,10 @@ Array and Pointer 的關係 在 C 語言中，處理字串一定會牽扯到 cha
     
     <item>
       <title>敏捷需求探索工作坊</title>
-      <link>https://ykhorzon.github.io/tw/post/softskill_agile/%E6%95%8F%E6%8D%B7%E9%9C%80%E6%B1%82%E6%8E%A2%E7%B4%A2%E5%B7%A5%E4%BD%9C%E5%9D%8A/</link>
+      <link>https://le-point-ykhorizon.github.io/tw/post/softskill_agile/%E6%95%8F%E6%8D%B7%E9%9C%80%E6%B1%82%E6%8E%A2%E7%B4%A2%E5%B7%A5%E4%BD%9C%E5%9D%8A/</link>
       <pubDate>Sun, 26 Feb 2017 23:35:22 +0000</pubDate>
       
-      <guid>https://ykhorzon.github.io/tw/post/softskill_agile/%E6%95%8F%E6%8D%B7%E9%9C%80%E6%B1%82%E6%8E%A2%E7%B4%A2%E5%B7%A5%E4%BD%9C%E5%9D%8A/</guid>
+      <guid>https://le-point-ykhorizon.github.io/tw/post/softskill_agile/%E6%95%8F%E6%8D%B7%E9%9C%80%E6%B1%82%E6%8E%A2%E7%B4%A2%E5%B7%A5%E4%BD%9C%E5%9D%8A/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;h1 id=&#34;序言&#34;&gt;序言&lt;/h1&gt;
 &lt;blockquote&gt;
@@ -648,10 +648,10 @@ the right, we value the items on the left more.&lt;/p&gt;
     
     <item>
       <title>為何而寫</title>
-      <link>https://ykhorzon.github.io/tw/post/life/myself/%E7%82%BA%E4%BD%95%E8%80%8C%E5%AF%AB/</link>
+      <link>https://le-point-ykhorizon.github.io/tw/post/life/myself/%E7%82%BA%E4%BD%95%E8%80%8C%E5%AF%AB/</link>
       <pubDate>Wed, 25 Jan 2017 14:22:04 +0000</pubDate>
       
-      <guid>https://ykhorzon.github.io/tw/post/life/myself/%E7%82%BA%E4%BD%95%E8%80%8C%E5%AF%AB/</guid>
+      <guid>https://le-point-ykhorizon.github.io/tw/post/life/myself/%E7%82%BA%E4%BD%95%E8%80%8C%E5%AF%AB/</guid>
       <description>寫作即思考與反芻
   寫作，我思考我為何而寫、寫什麼東西、寫給誰 寫作，我審視我的撰寫的邏輯、用詞、句子與立場，發覺尚未被意識到的那個自己 寫作，思考問題是什麼？本質又是什麼？意義又是什麼？ 寫作帶動思考，述說故事刺激思考，為了產出而思考
  期許自己  思考即是武器，實作與說故事是技術，個性本質(好奇、自我要求)是驅動一切的引擎
@@ -660,10 +660,10 @@ the right, we value the items on the left more.&lt;/p&gt;
     
     <item>
       <title>TGDF 2016 - Fail Fast 閃退</title>
-      <link>https://ykhorzon.github.io/tw/post/softskill_agile/fail_fast/</link>
+      <link>https://le-point-ykhorizon.github.io/tw/post/softskill_agile/fail_fast/</link>
       <pubDate>Wed, 14 Sep 2016 23:15:29 +0000</pubDate>
       
-      <guid>https://ykhorzon.github.io/tw/post/softskill_agile/fail_fast/</guid>
+      <guid>https://le-point-ykhorizon.github.io/tw/post/softskill_agile/fail_fast/</guid>
       <description>Fail Fast─為什麼閃退是好事 (Undone) Speaker: 雷亞 Co-founder 楊善詠
 挑戰  技術人才培育 跨平台架構  事實上是救火雷亞
 員工人數遽增 2011 , 16人 2016, &amp;gt;100人
@@ -679,10 +679,10 @@ Check input value ( use assertion too!) Add up the diagnosis info for future</de
     
     <item>
       <title>TGDF 2016 Notes - Spear and shield of game developing 遊戲開發的矛與盾</title>
-      <link>https://ykhorzon.github.io/tw/post/softskill_startup/spear-and-shield-of-game-developing/</link>
+      <link>https://le-point-ykhorizon.github.io/tw/post/softskill_startup/spear-and-shield-of-game-developing/</link>
       <pubDate>Tue, 13 Sep 2016 23:42:55 +0800</pubDate>
       
-      <guid>https://ykhorzon.github.io/tw/post/softskill_startup/spear-and-shield-of-game-developing/</guid>
+      <guid>https://le-point-ykhorizon.github.io/tw/post/softskill_startup/spear-and-shield-of-game-developing/</guid>
       <description>&lt;h1 id=&#34;遊戲開發的矛與盾&#34;&gt;遊戲開發的矛與盾&lt;/h1&gt;
 &lt;h3 id=&#34;市場初步估計&#34;&gt;市場初步估計：&lt;/h3&gt;
 &lt;p&gt;簡單試算TA人數受否能支撐營運與獲利，從portal web 的排行版 歸類與統計 (巴哈姆特)&lt;/p&gt;
@@ -703,10 +703,10 @@ Check input value ( use assertion too!) Add up the diagnosis info for future</de
     
     <item>
       <title>COSCUP Startup Culture Buliding Talk</title>
-      <link>https://ykhorzon.github.io/tw/post/softskill_agile/coscup-startup-culture-buliding-talk/</link>
+      <link>https://le-point-ykhorizon.github.io/tw/post/softskill_agile/coscup-startup-culture-buliding-talk/</link>
       <pubDate>Mon, 12 Sep 2016 20:09:59 +0000</pubDate>
       
-      <guid>https://ykhorzon.github.io/tw/post/softskill_agile/coscup-startup-culture-buliding-talk/</guid>
+      <guid>https://le-point-ykhorizon.github.io/tw/post/softskill_agile/coscup-startup-culture-buliding-talk/</guid>
       <description>關鍵因素  人 環境(core) 文化(core) 方法 工具  How to Open?
 工廠 vs 創意   product-driven
   customer-driven
@@ -724,10 +724,10 @@ Check input value ( use assertion too!) Add up the diagnosis info for future</de
     
     <item>
       <title>每日blog挑戰 Daily Blogging Challenge (epi.0)</title>
-      <link>https://ykhorzon.github.io/tw/post/life/myself/daily-blogging-challenge/</link>
+      <link>https://le-point-ykhorizon.github.io/tw/post/life/myself/daily-blogging-challenge/</link>
       <pubDate>Sat, 10 Sep 2016 16:14:12 +0000</pubDate>
       
-      <guid>https://ykhorzon.github.io/tw/post/life/myself/daily-blogging-challenge/</guid>
+      <guid>https://le-point-ykhorizon.github.io/tw/post/life/myself/daily-blogging-challenge/</guid>
       <description>序：為什麼要此挑戰？Why to start this challenge?  Record
  2016-09-10 16:14:12   啟發 受到我非常喜愛的 Youtuber, Casey Neistat 影響，常有人問他如何成為一位 成功的Youtuber ，他強而有力的回應是&amp;quot;Keep uploading!&amp;quot;，持續產出高質量的 vlog 或 video，挑戰自己的執行力、毅力、創意力的極限，這就是吸引群眾的不二法門。Casey表示:&amp;ldquo;每天起床，我都在想我今天要拍什麼影片，(這樣的鍛鍊造就今天的我)&amp;quot;。我以他作為自己的學習對象，將__&amp;ldquo;Keep producing valuable content !&amp;quot;__作為座右銘砥礪自己。
 Reference Casey Nesistat Youtube Channel

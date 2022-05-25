@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>audio-engineering on YKhorizon</title>
-    <link>https://ykhorzon.github.io/tw/categories/audio-engineering/</link>
+    <link>https://le-point-ykhorizon.github.io/tw/categories/audio-engineering/</link>
     <description>Recent content in audio-engineering on YKhorizon</description>
     <image>
-      <url>https://ykhorzon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://ykhorzon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://le-point-ykhorizon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://le-point-ykhorizon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 06 Dec 2018 16:54:20 +0800</lastBuildDate><atom:link href="https://ykhorzon.github.io/tw/categories/audio-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Dec 2018 16:54:20 +0800</lastBuildDate><atom:link href="https://le-point-ykhorizon.github.io/tw/categories/audio-engineering/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Roland Octa Capture interface 在 MacOS 環境設定</title>
-      <link>https://ykhorzon.github.io/tw/post/music_audio_engineering/learn_to_play_with_roland_octa_capture/</link>
+      <link>https://le-point-ykhorizon.github.io/tw/post/music_audio_engineering/learn_to_play_with_roland_octa_capture/</link>
       <pubDate>Thu, 06 Dec 2018 16:54:20 +0800</pubDate>
       
-      <guid>https://ykhorzon.github.io/tw/post/music_audio_engineering/learn_to_play_with_roland_octa_capture/</guid>
+      <guid>https://le-point-ykhorizon.github.io/tw/post/music_audio_engineering/learn_to_play_with_roland_octa_capture/</guid>
       <description>&lt;h2 id=&#34;關於常見的線材&#34;&gt;關於常見的線材&lt;/h2&gt;
 &lt;p&gt;3.5mm TRS(一般耳機孔), 6.3mm TRS, XLR(Cannon頭)&lt;/p&gt;
 &lt;p&gt;References&lt;/p&gt;

@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>agile on YKhorizon</title>
-    <link>https://ykhorzon.github.io/tags/agile/</link>
+    <link>https://le-point-ykhorizon.github.io/tags/agile/</link>
     <description>Recent content in agile on YKhorizon</description>
     <image>
-      <url>https://ykhorzon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://ykhorzon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://le-point-ykhorizon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://le-point-ykhorizon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 13 Aug 2017 15:42:18 +0800</lastBuildDate><atom:link href="https://ykhorzon.github.io/tags/agile/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Aug 2017 15:42:18 +0800</lastBuildDate><atom:link href="https://le-point-ykhorizon.github.io/tags/agile/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Full Stack DevOps Engineer?</title>
-      <link>https://ykhorzon.github.io/post/softskill_agile/devops_experience/</link>
+      <link>https://le-point-ykhorizon.github.io/post/softskill_agile/devops_experience/</link>
       <pubDate>Sun, 13 Aug 2017 15:42:18 +0800</pubDate>
       
-      <guid>https://ykhorzon.github.io/post/softskill_agile/devops_experience/</guid>
+      <guid>https://le-point-ykhorizon.github.io/post/softskill_agile/devops_experience/</guid>
       <description>Speaker
  Feng  Warnings
  The following content is sythesised with talkings and my experience  Photo of Event History Diverge and Converge The speaker shared about the evolution of software developing. If we looked back the history of software developing, all the requirement and architecture is simple. When complexity of application is increasing, developing team can not afford task of operations any more,such as loading balance and performance tuning.</description>

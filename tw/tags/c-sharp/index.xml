@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>C-sharp on YKhorizon</title>
-    <link>https://ykhorzon.github.io/tw/tags/c-sharp/</link>
+    <link>https://le-point-ykhorizon.github.io/tw/tags/c-sharp/</link>
     <description>Recent content in C-sharp on YKhorizon</description>
     <image>
-      <url>https://ykhorzon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://ykhorzon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://le-point-ykhorizon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://le-point-ykhorizon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 26 Oct 2017 20:23:11 +0800</lastBuildDate><atom:link href="https://ykhorzon.github.io/tw/tags/c-sharp/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Oct 2017 20:23:11 +0800</lastBuildDate><atom:link href="https://le-point-ykhorizon.github.io/tw/tags/c-sharp/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[Codewars] Mumbling</title>
-      <link>https://ykhorzon.github.io/tw/post/cs_programming/codewars/mumbling/</link>
+      <link>https://le-point-ykhorizon.github.io/tw/post/cs_programming/codewars/mumbling/</link>
       <pubDate>Thu, 26 Oct 2017 20:23:11 +0800</pubDate>
       
-      <guid>https://ykhorzon.github.io/tw/post/cs_programming/codewars/mumbling/</guid>
+      <guid>https://le-point-ykhorizon.github.io/tw/post/cs_programming/codewars/mumbling/</guid>
       <description>&lt;h1 id=&#34;outline&#34;&gt;Outline&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;#%E5%95%8F%E9%A1%8C%E7%AF%84%E4%BE%8B&#34;&gt;問題範例&lt;/a&gt;&lt;/li&gt;
