@@ -17,13 +17,19 @@ type = "post"
 List team aspect:
 - Professional skill set 
   - RD: backend, frontend, mobile,  embedded system, DevOps, performancce geek(algorithm), network, security
-  - UX, UI, PO, Data anayltic (Or Data scientist Or BI)
+  - UX, UI, PO, Data anayltic (Or Data scientist Or BI) and Sale
 
 - Personality
   - Outgoing / reserved
   - Process-driven / People-driven
   - Adverture, stable
   - Leadership, Facilitor(Coaching) / Individual contributor
+  Some hidden personality
+  - Complainer
+  - Active learner
+  - Tech. intuition / decision
+  - Relationship management 
+  - Story telling / motivate other
 
 - Domain knowledge
   - Too many domain
