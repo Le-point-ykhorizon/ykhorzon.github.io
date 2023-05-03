@@ -5,7 +5,6 @@ title = "Michael Seibel - building product"
 categories = []
 tags = []
 type = "post"
-draft = true
 +++
 
 What allowed us to survive?
@@ -29,3 +28,4 @@ Who is yout customer?
   - You're trying to help someone with the problem they have frequently
   - if you think about the products that you use on a daily basis
 - How intense is the problem?
+  - Frequency and intensity analysis
