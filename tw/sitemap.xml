@@ -2,6 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://le-point-ykhorizon.github.io/tw/post/</loc>
+    <lastmod>2023-05-14T18:47:10+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://le-point-ykhorizon.github.io/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tw"
+                href="https://le-point-ykhorizon.github.io/tw/post/"
+                />
+  </url><url>
+    <loc>https://le-point-ykhorizon.github.io/tw/</loc>
+    <lastmod>2023-05-14T18:47:10+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://le-point-ykhorizon.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tw"
+                href="https://le-point-ykhorizon.github.io/tw/"
+                />
+  </url><url>
+    <loc>https://le-point-ykhorizon.github.io/tw/post/philosophy/descartes-thinking-gym-ch1/</loc>
+    <lastmod>2023-05-14T18:47:10+08:00</lastmod>
+  </url><url>
     <loc>https://le-point-ykhorizon.github.io/tw/categories/</loc>
     <lastmod>2019-09-29T00:38:40+08:00</lastmod>
     <xhtml:link
@@ -17,32 +46,6 @@
   </url><url>
     <loc>https://le-point-ykhorizon.github.io/tw/categories/finance/</loc>
     <lastmod>2019-09-29T00:38:40+08:00</lastmod>
-  </url><url>
-    <loc>https://le-point-ykhorizon.github.io/tw/post/</loc>
-    <lastmod>2019-09-29T00:38:40+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://le-point-ykhorizon.github.io/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tw"
-                href="https://le-point-ykhorizon.github.io/tw/post/"
-                />
-  </url><url>
-    <loc>https://le-point-ykhorizon.github.io/tw/</loc>
-    <lastmod>2019-09-29T00:38:40+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://le-point-ykhorizon.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tw"
-                href="https://le-point-ykhorizon.github.io/tw/"
-                />
   </url><url>
     <loc>https://le-point-ykhorizon.github.io/tw/post/finance/first_step_of_finance_management/</loc>
     <lastmod>2019-09-29T00:38:40+08:00</lastmod>

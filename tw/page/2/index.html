@@ -75,6 +75,22 @@
 <main class=main>
 <article class=post-entry>
 <header class=entry-header>
+<h2>ubnutu 中安裝設定 nfs server
+</h2>
+</header>
+<div class=entry-content>
+<p>紀錄一下，今天安裝 nfs server 的過程，中間受到別人幫助，從中學到很多
+使用動機 Web frontend 的在本機完成(host, windows 10)，開發完成後的 production code 要 deploy 到 embedded system 與後端 cgi 對接，但如果每次開都要 ssh 或 telnet 進 embedded system 更新 prodcution code 太麻煩，更何況 embbeded system 不一定有裝 git 或其傳輸檔案的方式，因此需要一種同步資料的方式，就是這次用到 nfs protocal (network file system)。
+(P.S. 鳥哥 linux 有 nfs 很詳細的介紹)
+情境 大致上的狀況如上面這圖，再來就是如何安裝設定。 image source
+安裝與設定 1.在 ubuntu 中安裝 nfs server 可參考這篇文章 Install NFS Server and Client on Ubuntu 18.04 LTS VITUX 的步驟
+sudo apt-get update sudo apt install nfs-kernel-server sudo mkdir -p [/path/to/shared/folder] sudo chown nobody:nogroup [/path/to/shared/folder] sudo chmod [/path/to/shared/folder] 2....</p>
+</div>
+<footer class=entry-footer><span title="2019-02-20 22:41:03 +0800 +0800">February 20, 2019</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;ykhorizon</footer>
+<a class=entry-link aria-label="post link to ubnutu 中安裝設定 nfs server" href=https://le-point-ykhorizon.github.io/tw/post/cs_linux_related/nfs_server_setup/></a>
+</article>
+<article class=post-entry>
+<header class=entry-header>
 <h2>[持續更新] C/C++ 常見面試問題統整
 </h2>
 </header>
@@ -127,18 +143,6 @@ input 1~2 可以設定 high-impedance(Hi-z) ，針對電吉他 direct line-in in
 </div>
 <footer class=entry-footer><span title="2018-12-02 00:17:44 +0800 +0800">December 2, 2018</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;ykhorizon</footer>
 <a class=entry-link aria-label="post link to 一場深度跨領域交流的探險 — Agile Tour Taipei 2018 心得(下)" href=https://le-point-ykhorizon.github.io/tw/post/softskill_agile/agile_taipei_tour_2018_review2/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>一場深度跨領域交流的探險 — Agile Tour Taipei 2018 心得(上)
-</h2>
-</header>
-<div class=entry-content>
-<p>探險 今年是第一次搶到票，參加 Agile Tour Taipei 盛會，會說是『一場深度跨領域交流的探險』來自於A,B,C Track 分別是探討的issue是 Product、Dev/Test、UX，可說是三個願望一次滿足，讓我的選擇困難症完全發作，好想同時聽三軌呀呀。同時，一次匯聚三種群體到一場研討會中，更能激發豐富的討論，探索不同觀點的價值，讓對話能夠突破各自熟悉的同溫層，說是一場探險一點也不為過！
-...</p>
-</div>
-<footer class=entry-footer><span title="2018-12-01 22:54:04 +0800 +0800">December 1, 2018</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;ykhorizon</footer>
-<a class=entry-link aria-label="post link to 一場深度跨領域交流的探險 — Agile Tour Taipei 2018 心得(上)" href=https://le-point-ykhorizon.github.io/tw/post/softskill_agile/agile_taipei_tour_2018_review1/></a>
 </article>
 <footer class=page-footer>
 <nav class=pagination>
