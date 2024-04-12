@@ -1,7 +1,7 @@
 +++
 author = "ykhorizon"
 date = "2023-05-04T01:12:28+08:00"
-title = "Michael Seibel - building product"
+title = "Michael Seibel - building product "
 categories = []
 tags = []
 type = "post"
